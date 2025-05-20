@@ -1,0 +1,715 @@
+Versuch bitte laut zu sprechen, weil das Mikro da unten ist und ich kann es nicht so aufdrehen, weil sonst rauscht es und dann ist die Tonqualität scheiße.
+Normalerweise mache ich ein Backup mit meinem Handy, aber ich will es nicht so wild machen.
+Schon?
+Ja. Ja, eigentlich.
+Nein, du kannst es ruhig auf Deutsch machen, sonst ist es ja nicht unbedingt kompliziert.
+Okay, mal gucken.
+Alles klar, los.
+So, dann gucken wir uns mal die Vokabels an.
+Okay, jetzt habe ich die auch vor.
+Okay, das ist alles schon da.
+Ah, das ist die Datenbank.
+Ah, das ist die Datenbank.
+Schauen wir mal.
+Okay, das ist nur die
+Ach, das ist die Datenbank.
+Let's see.
+Okay, sonst ist es nur das da.
+I can't do anything with this.
+Spaces from text-to-text-to-extended-totaling-file-and-transform-could-be.
+Who?
+The front row is space-divided and the front part is space-divided.
+Ah, da ist
+Oh, gut, da ist die font.
+Gut.
+Have-password is done.
+New user.
+I send a new user to the database.
+Session.
+Given.
+True, no user.
+I have added font.
+Oh, das ist gut.
+Ich hoffe, keiner dazu zu sagen hat.
+Das darfst du nicht.
+Okay, session.
+Oh.
+Let's see.
+Das war
+Was ist das für eine Datenbank?
+Ah, da sind alles.
+Ah, da sind alles.
+Ich glaube, das war nicht
+Ah, da war er.
+Es hat
+Sehen.
+Scheint ganz okay zu sein.
+Ne, das kennt er nicht, versteht er nicht.
+Ach doch.
+User
+Car-User
+Car-User.
+User.
+Car-User.
+In.
+Was macht der hier?
+Hat der
+User
+nicht existiert?
+Mit der ID-Interview-Sendung?
+Ne.
+Das ist nichts anderes.
+Entschuldigung.
+Ich kann hier nicht
+Typing would be nice.
+Create-Engine-Base.
+Das
+Das passt so.
+User-Browser.
+User-Browser.
+Ja. Achso.
+Gucken wir mal nach.
+Gucken wir mal nach, was
+SQL-Generator
+kann.
+Was die Session für
+wie die funktioniert.
+Operations to Session.
+Ah ja.
+Da sind die
+Methoden.
+Was macht Add?
+Add
+gibt nen
+hat nen Object.
+Das heißt
+das Object ist vermutlich
+vom Model
+abgeleitet.
+Das heißt, das funktioniert.
+so wie
+Wer ist denn hier?
+Wo
+ah, da bin ich.
+The query nicht.
+Zeige auch das Session.
+Begin, begin table, close, open, commit, connection, delete, plug, plug, plug, get.
+Das ist wahrscheinlich das
+return instance
+base of the given problem with the identifier.
+Or none.
+Get
+the identifier.
+Das ist
+das
+Objekt an der Stelle?
+Ne, das da ist die
+, der Typ, den er haben will, vermutlich.
+Oder?
+Something else, ja.
+die
+Hoffentlich funktioniert das da.
+Login, das da
+macht keinen Sinn, get, user, user, 
+comma, 
+Was wird das hier so?
+id, job, , id, name, , das ist gar nicht gemein.
+Das macht keinen Sinn.
+Wie war das?
+Ja, die haben
+so einen Namen.
+Muss das auch verwendet werden?
+Wahrscheinlich.
+Wo
+gibt's irgendwo ein Bad, von dem wir das schon gemacht hätten?
+Äh, das ist mir das falsche Passwort.
+Dann
+Wie sieht die User-Klasse aus?
+Hab ne ID, aber die
+hab ich ja beim Login nicht.
+Das ist im User, der Name, hat die Passwort, hat
+eine Relative Entries.
+Entries.
+Ach so, da sind die Passwort-Entries.
+I see.
+Kann ich das da?
+Nee.
+Kann aber sein, Function call.
+Was?
+Ah, Python.
+Sagen wir mal, 
+die Fälsch
+GitHub-Property hat er recht.
+Und wir
+testen
+das gleich.
+Machen wir die Failures mal alle aus, und dann
+testen wir, was
+tatsächlich passiert.
+Geld.
+Mh
+Add-Entry, ist ja gar nicht so passend.
+Da fügen wir mal
+Ach so, hoffentlich macht die Datenbank das im Hintergrund korrekt.
+Delete-Entry.
+Machen wir mal
+GitHub-Property ID.
+Jetzt warte, dass mein Linux funktioniert.
+Was sind denn hier so
+traurige Sachen?
+Delete?
+Delete, ah doch.
+Delete
+an
+object.
+Cool.
+GitHub-Property.
+Make-Get.
+Entry.
+Entry-User, Ground-User, Entry-Name, Entry.
+Delete, das wird nicht funktionieren.
+Punkt.
+Get-Entry-View.
+Get-Entry-User, Ground-User
+Das ist natürlich auch noch alles, wenn man so die Datenbank kriegt.
+Und was werden die noch aufrufen?
+Data-Website-Entry.
+Also, der Post-Mess-Return natürlich.
+Explorer-Delete-Entry-User.
+Edit-Entry-User.
+Show Passwort.
+Data-Bank-Submit-Entry.
+Und dann, ja, dass wir einfach nur den Namen drücken.
+Okay, jetzt haben wir ein neues
+Thing.
+Oh, ich war da im Tunnel.
+Was ist der Name dieser Type-Ins?
+Wir haben net.
+Ist tatsächlich ein User.
+Ground-User-Entries-Filter nehmen.
+So, alles.
+Update-Entry.
+Kriegt man auch schon.
+Okay, das sieht gut aus.
+Das sieht so aus, wie ich möchte.
+Start-Line.
+Hoffen wir mal, dass die Type-Copilots SQ-Item-Mate
+Was soll das?
+Composer.
+Service-String.
+All entries are padded.
+Of all entries as a padded table.
+Ground-User.
+Use user.
+That is currently locked in.
+MS-Department.
+String of all entries that use
+Verfolgungs-Gemäß und weiter hinten.
+Korrekt, ja.
+New-Owners-Entries.
+On-Time-Reduce.
+Pad-In.
+Entries noch.
+Name.
+Name for.
+Okay, the length of the long is name.
+The length is name.
+Interesting.
+On-Pattern.
+Gehen wir davon aus, dass das ein bisschen mehr
+Pad-String.
+Ja, macht das.
+Dann
+Unter der Einnahme das Github-Copyright-Recht.
+Hatte ich jetzt eben.
+Machen wir das.
+Lassen wir das mal reinmachen.
+Das hat er ja gesagt.
+Funktioniert so.
+Hoffentlich ist das
+Delete-Entry.
+Kann man nicht
+Entry-Terminal.
+Das sieht gut aus.
+Schönen guten Tag.
+Weiter.
+Damit sind die alle implementiert.
+Und dann
+Testen wir das mal.
+Wie war das Testen vorgesehen?
+In order to do this you can use the control group.
+Right-click for instance or it doesn't automatically
+Ja, in Terminal-Language.
+Dann loggen wir uns mal ein.
+Username with test already exists.
+Interessant.
+Dazu
+Müsste ich mir jetzt einmal die Test-Datenbank angucken.
+Kann ich das in
+Escalide-Viewer.
+Das war irgendwo in der Doku drin.
+Wie
+Was muss ich da verlegen?
+Escalide-Viewer.
+Profiles.
+Kann ich
+Das
+Will ich wieder reinkopieren oder reinschieben?
+Test-Datenbank.
+Entry
+Hat keine Entries.
+Das heißt die Datenbank wurde
+nicht gebraucht.
+Komisch.
+Was macht diese Run-Configuration?
+Der Run-Configurator steht hier.
+Ja. Kann ich über
+Das heißt mein
+Login funktioniert nicht so, wie ich es hoffe.
+Nee, meine News-Accounts sind
+Nee, meine News-Accounts sind
+Return.
+Was return denn add?
+Return
+Da
+Gucken wir in die
+In die Dokumentation.
+Dokumentation von SPI
+Von SPI-Alchemy gucken.
+Was gibt add?
+Gibt add was zurück?
+Nein, natürlich nicht.
+Das heißt
+Wir müssen
+Erstmal gucken
+Ob
+Es den User-Fund gibt oder nicht.
+Tut sie
+Ach so, ne.
+So funktioniert es schon mit Rennen.
+Wenn da was existiert, dann
+Return pass.
+Ansonsten
+Mach
+Füge hinzu
+Und return
+True.
+Oh
+Run test again.
+zwei
+zu den New User.
+Äh, frei user test.
+And password test.
+Das hat funktioniert.
+Äh, login.
+New Entry List.
+Das funktioniert.
+Wir fügen einen Entry hinzu.
+Paper.
+Keine Ahnung.
+Info.
+Test.
+Und das Passwort ist manchmal Test.
+Der ist already in.
+Äh, das heißt das gleiche wie beim neuen User.
+Ist natürlich auch beim Add Entry der Fall.
+Und dann
+Machen wir einfach das gleiche
+Nochmal
+Hier.
+Schön.
+Und
+und gretanen true.
+deleteEntry, colon runs den Entry, wenn der Entry entzündet, deleten wir ihn, getEntry.june muss eigentlich passen.
+getEntry passt auch.
+ob ist die datenbank persistent?
+wer weiß.
+nein.
+ist sie nicht.
+dann machen wir wieder ein neuen User.
+und dann loggen wir das ein.
+das heißt, dass er nicht persistent ist, das heißt wahrscheinlich, dass es nicht kombiniert wird in der Session.
+dann muss man das wohl auch gleich noch machen.
+gucken wir erstmal, ob wir Entries hinzufügen können.
+nein.
+warum?
+kann ein User das Entry existiert?
+eigentlich.
+das funktioniert doch auch bei
+das kann doch auch hier funktionieren, so dass er sich da nicht beschwert.
+was genau ist ein Instrumented List Attribute?
+was ist das?
+eine Relationship?
+das heißt
+was gibt es da für Filter?
+dann gucken wir mal nach, was SqlTerminates sagt zu Relationships, die man da auf die Form kassieren kann.
+und zwar, wenn wir eine Relationship haben, dann kann ich
+wie komme ich jetzt hoch?
+ok.
+das ist nur, dass niemand es aufbaut, aber es liegt im Prinzip hier.
+Terminates
+nein, das ist auch nicht anders.
+was ist ein Instrumented List?
+Interessant.
+wenn wir eine Relationship haben, dann kann ich dazu zugreifen und filtern.
+laut der Dokumentation.
+warum funktioniert das hier nicht?
+ist das ein anderes?
+nein.
+User, Filter.
+currentUser.
+currentUser, Filter.
+warum geht das nicht?
+postUser, 
+wir können da was entfernen, wir können da was removen, wir können
+wir können da was entfernen, wir können da was removen, wir können
+wo ist denn das AddEntry?
+ist das, weil das Entry ist?
+ist das das Problem, dass die leer sind?
+das ist die Stelle, an der wir hängen.
+wir können
+wir können bei Testing User Entry
+nein, das wird auch nicht funktionieren.
+userEntry und 
+das ist 
+testen wir das nochmal.
+neuer User.
+Test, Test, 
+ein Test, Test.
+wir kreieren einen Entry.
+ein Test, Test, Test.
+und da funktioniert es.
+das heißt, es ist tatsächlich so, dass die Liste, wenn sie leer ist, nicht
+funktioniert.
+Sehr schön.
+funktioniert.
+wenn wir
+jetzt
+quitten
+ist die Datenbank aber weg.
+das heißt
+nach
+all dem hier, will ich Session.Connect machen, glaube ich.
+rescueAlchemy
+gucken wir nach, ob das
+dass das ist, oder ob das nur dafür ist, wenn ich Objekte bearbeitet habe.
+was das mit Session tun?
+ja, genau, doch, wir müssen das connecten.
+ok.
+dann fügen wir den Connect Call
+mal überall da ein, wo wir Sachen hinzufügen.
+wo haben wir noch sowas?
+getEntry, updateEntry, da kommitten wir schon.
+ich glaube, das ist nur neuer User und neuer Entry.
+ok, rerun.
+neuer User.
+Test, Test.
+ok, dann quitten wir mal.
+dann gucken wir mal nochmal, ob es jetzt drin steht.
+Test, Test.
+und es steht jetzt drin, sehr schön.
+dann fügen wir ein Entry hinzu.
+und dann
+jetzt muss ich die Entries mal anzeigen.
+schau, ein Entry, den nennen wir Test.
+das funktioniert auch nicht, anscheinend.
+ok, cool.
+warum funktioniert das nicht?
+der User müsste doch mittlerweile Entries haben.
+und DMs existiert haben.
+der User hat immer noch getestet, der gleiche Fehler.
+dass das nicht existiert.
+dann probieren wir das einfach auch nochmal mit der Zwischenebene.
+dass wir uns den Zwischenfall dann
+ja, das ist kein Problem.
+dann machen wir das.
+vormarkieren wir das mit
+genau, mit Refactoring.
+und dann
+probieren wir das nochmal.
+getEntry 
+wenn wir
+wenn der User das hat, dann returnen wir den
+return None.
+das war vielleicht sogar unnötig, aber
+machen wir mal, dann
+gucken wir nochmal, ob das funktioniert.
+Login, Test, Test.
+so, und dann schauen wir uns mal die Liste der User an, der Anträge an.
+das funktioniert.
+zweitens, wir wollen
+den Entry mit dem Namen Test.
+das funktioniert nicht.
+warum funktioniert das nicht?
+das ist doch
+das
+gleiche
+was ich im Endeffekt
+hier mache
+diese Entry
+ah, das hatte eben noch nicht existiert.
+das ist dadurch, dass ich das umschippe.
+das ist interessant.
+das
+das geht auf Codefinite, das ist vorgeschlagen, aber hier ist Codefinite anscheinend, keine Ahnung.
+, an der Stelle
+hab ich
+hat es zugemacht.
+was war denn das?
+hier Alchemy
+Alchemy
+Instrumentalist.
+was ist
+ja, genau.
+Stack Overflow.
+das
+ist die
+das ist was, was Instrumentalist ist.
+in order to work with relationships as a query, you need to configure it
+aha, Dynamic Relationship.
+okay.
+oder
+das kann ich bestimmt auch
+auslesen, ohne
+das
+gucken wir mal, was
+das gleiche muss sein.
+ja, wirklich, das gleiche.
+okay.
+wo
+macht der das jetzt?
+macht der das irgendwo?
+die Relationship
+, den Atomformel müssen.
+Querying Items.
+und zwar
+One-To-Many Collections.
+das ist alles.
+One-To-Many Collections.
+Update Delete.
+One-To-Many Collections.
+Session Execute.
+Existing Countryside State.
+Kann ich die nicht in die Query-Galley denn?
+Creating Querying Items.
+Querying Items.
+Ja. Äh, right on the top.
+Querying Items.
+Existing Countryside State.
+Collect.
+Where.
+Das heißt, ich muss da tatsächlich
+ein SQL-Code schreiben.
+Session.scalars.
+Was macht dieses Session.scalars?
+Use Select Construction.
+The company that you need more
+using the Session.scalars method that will return
+a result that yields or only directly where
+determined in the debit account.
+Limit 10 to retrieve only a few tens of rows.
+Aber ich
+hab ja keine
+Large Database.
+Eigentlich müsste ich
+Äh, kann es sein, dass
+Wo ist die Dokumentation?
+SQL-Viewer.
+Äh, 
+Aha.
+Krieg ich jetzt die Datenbank da wieder rein?
+So, wie sieht die denn jetzt aus?
+Wir haben
+einen Entry und einen User.
+Und
+der User hat keinen
+Der müsste doch auch einen
+Ich dachte, die haben einen neuen Rechenschiff und ich dachte, der
+glaubt in der Datenbank auch.
+Ah, der hat hier die User-ID.
+Wie zieht man die so rum?
+Updated er das nicht automatisch?
+Dann
+Doch, macht er ja.
+Er kann es ja nachgucken.
+Doch, doch, doch, doch.
+Macht er.
+Das heißt, wenn ich
+das Filter
+Ist das Problem tatsächlich dieses
+Count transactions
+Removing items
+Ja, ich will aber Items haben.
+Is that the right one?
+The statement generates
+Ja. Schön.
+Write
+It's not just write-only-collected.
+Warte mal, ich hab doch nicht nur write-only-collected.
+Kann doch mit Sicherheit auch host-items
+Sorry.
+Write-only
+Was hat
+Was sagt denn der auf die rassigen Kommentare?
+Der weiß ja gar nichts über die.
+Der
+hat doch ein sehr nliches
+Setup, oder?
+Ja, genau, so ist es.
+Nee, der hat ein bisschen mehr Zeit.
+Wenn man das gleich spüren möchte, dann
+mit etwas wie backreference.
+Without lazy-dynamics you get a regular sort.
+But this doesn't need to translate to me.
+Kann da base-query, you can do stringful, I don't give a crap about query.
+Das ist nicht das, was ich will.
+How to work with a relationship as with query.
+Was?
+Muss man die konfigurieren?
+Darf ich die konfigurieren?
+Ich meine, das Einfachste
+ist
+Wie sagen
+Hat die eine
+Hier, ein lazy.
+Ich meine, man kann einfach ein Medienfilter reinschreiben.
+Kann ich das richtig sehen?
+Instrumentalist.
+Aha, da sind wir doch jetzt bei dem Typ, der tatsächlich Sachen macht.
+Instrumentalist wird ein Bild ins Set.
+Oder 
+Ja. Ich meine, das ist nicht sicher.
+Aber das hilft mir nicht weiter.
+Toll.
+Muss ich vielleicht
+Kann ich?
+Ist das callable?
+Kann es sein, dass ich einfach
+Dass das da funktioniert?
+Mal probieren.
+Loggen wir das ein.
+In Thumbnail natürlich.
+Test.
+Test.
+Was wäre das AppEntry?
+3.
+Nein, das ist natürlich nicht callable, um es aufzulösen.
+Also
+Ja. Packings wären echt cool.
+Funktioniert das?
+Nein.
+Keine Ahnung.
+Wir müssen vielleicht
+Ich glaube, das wäre nicht so eine gute Konfiguration.
+Lassen wir das einfach so sein.
+Second word, was war das da?
+Oh, da steht ein Kokoledecker drauf.
+Cool.
+Ich glaube, ich habe vergessen, den Call wieder wegzumachen.
+Show entries.
+Das funktioniert jetzt so.
+Ideal.
+Ja, okay.
+Dann
+Gucken wir mal noch, ob wir Sachen editieren können.
+New Entry.
+New Name.
+Test 2.
+New Info.
+Test.
+Impasse bleibt.
+Dann zeigen wir uns, dass wir das Ding nochmal anfangen.
+Und es funktioniert.
+Verschieben wir mal noch einen Eintrag.
+Das hat auch funktioniert.
+Lass mal
+Was passiert, wenn ich einen Eintrag lösche, der nicht existiert?
+Darf man das da auch nicht zu?
+Wenn ich etwas editieren will, was nicht existiert.
+Lecker da auch.
+Ausloggen geht.
+Quicken geht.
+Ich würde sagen, es funktioniert.
+Was sagt die Dokumentation jetzt dazu, schönes?
+View List of Entries.
+Das funktioniert.
+Particular Entry.
+Auto-Authenticator.
+Das hat funktioniert.
+Add a new Entry.
+Funktioniert.
+Add a new existing Entry.
+Funktioniert.
+Add a new existing Entry.
+Funktioniert.
+Können wir noch einen Test schreiben.
+Für das Ganze.
+Jetzt darf man da vorne vielleicht ein bisschen löschen.
+Python-File.
+Test.
+DEP.
+Test.
+Add.
+Gibt es da Text?
+Text.
+Kann man nicht mit dem Package machen.
+Na, vielleicht bald.
+Weiß.
+Äh, GitHub-Profile.
+Das geht.
+Test.
+DEP.
+I.
+Nee, DEP.
+Add.
+User.
+Ja, nee.
+Du sollst nicht mir Kommentare schreiben, GitHub-Copilot.
+Du sollst mir sagen, wie das funktioniert.
+Ich weiß ja nicht.
+Schade.
+Dann müssen wir das nachgucken.
+Uh, ja.
+Python-Test.
+For example.
+Test answer.
+Start.
+Das heißt, das Einzige, was ich damit testen kann, ist das Padding.
+Weil das andere bräuchte irgendwie noch einen Dattelbunker.
+Dann löschen wir das mal wieder und schreiben einfach für den Padding-Test in die gleiche Klasse.
+Äh, in die gleiche Klasse.
+Test.
+And Strain Okay Friend That's the softness I can thought And practice And save just instead Okay, just have textual example there is a Place of the topics have everything
+Anscheinend Das ist falsch getan
+Da muss noch Front True sein Damit das korrekt ist
+Reformen Und dann Duplizieren wir das mal gerade
+Und Dann das auch Highpass Front
+Dann Das hier weg Und dann Ah, das ist bei default
+Deswegen hat er das eben so gemacht Schön
+Pause Und Erwarten die beiden Leerzeichen nicht von vorne Sondern von hinten
+Gut, gucken wir gerade, ob das gerade auffällt
+Was?
+Der Name und Length of the longest value of a column including name info I write that info, okay I write sp2 Spaces
+Ähh As name Macht der das richtig?
+Heißt rank Name Ja Ja Interessant Ähh Ähh Length of the longest value of a column Sp2 spaces
+I, the entries Okay, ja Name value Spaces Back Name with spaces Name at the front
+Machen wir hier auf Info Spaces Spaces
+Info Und dann Macht der das nicht
+Okay Hier fehlt quasi ein Pad String
+Den Text hätte ich gerne 8 Und der Front ist true
+Und dann Last character Superstring wechseln
+Okay Was jetzt
+Das wir jetzt haben
+Ja Das war anders
+Ach, das darf ich nicht machen
+aber das sieht korrekt aus
+Das Name ist nicht padded back Und Info vermutlich auch padded back Program
+1 New York, Test Passwort Test Liste
+So, jetzt sieht das Ungefähr so aus Wie das
+lasst einfach mal die Infos hier in den Kommentaren
+Und den adden damit Um zu sehen, ob Das tatsächlich korrekt ist
+Okay, Passwort Ähhm Und 3 Add Entry
+Das ist PayPal Ähhm Add .com
+Passwort auch wieder ein Egal
+Gucken wir uns die Liste an Und das ist nicht so wie es sein soll
+Interessant, warum habe ich denn da Warum stehen da die Forms nicht drin Habe ich die da gerade eben rein

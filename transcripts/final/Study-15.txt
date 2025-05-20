@@ -1,0 +1,643 @@
+Was auch immer der Chef sagt.
+Dann
+Los geht's.
+Du bist klein.
+Lass mir den Stift rein.
+Geil, wir brauchen das ja nicht zu sehen.
+Ach warte, nee, der nimmt nur das hier auf, gell?
+Nein, der nimmt beide Bildschirme auf.
+Gut.
+Ach, wir müssen To-Do-Suppe finden.
+Das hast du gerade eben vorgelegt.
+Ein Scherz.
+Ich fühle mich schon wieder so super zurückversetzt.
+Kannst du noch ein bisschen weiter runter scrollen?
+Du liest zu schnell.
+Sorry.
+Ich habe nur gedacht, das hat er uns eh alles schon gesagt.
+Ja, das hat er auch trotzdem gelesen.
+Verdammt, da geht es ja noch weiter.
+Machst du noch ein zweites Mal?
+Nur zwei.
+Immerhin keine 60.
+Wo ist da das Salt beim Passwort?
+Passwort in Plaintext.
+Das reicht sicher.
+Hast du gelesen?
+Ja. So, wo fangen wir denn an?
+Was macht denn die Menso?
+Sagen wir einfach, wir suchen nach dem ersten To-Do.
+Und da sind keine To-Dos.
+Ja. Da müssen wir das nicht machen.
+Okay, warte.
+Okay, lass mal kurz die Daten mal gucken, ob es überhaupt schon Inhalt gibt.
+Oh nein.
+Okay, komm, ein String mit Spaces extenden, das kann ja nicht so schwer sein.
+Gibt es schon eine Database-Struktur oder muss die erst noch gemacht werden?
+Models.
+Yay.
+Ich sehe kein To-Do.
+Das ist ja beruhigend.
+Ja, aber die beiden sind hier auch schon perfekt beschrieben.
+Ja, hätte ich auch sagen können, dass wir es trotzdem machen müssen.
+Vielleicht steht es auch irgendwo, dass es schon implementiert ist, habe ich noch nicht gelesen.
+Okay, Main und Models, also fertig.
+Options sieht mir ziemlich fertig aus.
+Terminal.
+Ist auch fertig.
+Ach warte, Python hat doch hier auch irgendwo To-Do.
+Boah.
+Okay, wir müssen also nur Datenbank implementieren.
+Das stand bestimmt irgendwo im Text.
+Ja. Okay, fangen wir einfach mal oben an.
+Ja. Extend the String with Spaces.
+The Text.
+The Total Length.
+Wie ist das denn?
+In Python sind das immer wieder so Arrays.
+Soll ich das einfach kurz dahin jieten?
+Also.
+Und dann gehen wir hin und sagen und dann knallen wir das davor.
+Nee.
+Da müssen wir die Autokomplizieren nicht.
+Und zwar das hier.
+Spaces haben wir ja noch.
+Also Spaces mal Oh Gott, das ist jetzt.
+Nein, da haben wir Spaces plus den Original Text.
+Den haben wir noch nicht, das müssen wir gleich noch rechnen.
+Total Length wie das Text.
+Ähhh.
+Ach, sonst machen wir bisher echt gutes Pebble Grim.
+Ich glaube, wir wissen beide, was dabei rumkrochen soll.
+Das geht auch in weniger Zeilen, aber.
+Was hast du gerade gesagt bezüglich Total Length minus Text Length?
+So weit, so gut.
+Kommentieren wir das?
+Nö.
+Ist ja kommentiert.
+So, ist so weit, so schön.
+Testen wir das?
+Nö.
+Wir testen am Ende.
+Was ist das hier eigentlich?
+Ist bereits implementiert.
+Ähhh.
+Ja, also ich wollte gerade schon sagen, das ist ein Modpack.
+Das Modpack kenne ich nicht, die Library kenne ich noch nicht.
+Okay, dann.
+Wer benutzt Haben wir schon ein Datenbankobjekt in der Klasse?
+Oder sowas.
+Was ist denn das Datenbankding überhaupt?
+Nein, das will ich nicht.
+Wo kommt denn DB her?
+DB ist unsere Datenbank.
+Das ist die, die wir gerade implementieren.
+Nee, oder ist das die?
+Ja. Das ist keine Klasse.
+Das Ding, was wir da gerade implementieren.
+Aber hier, das ist glaube ich von dem SQL Alchemist Ding.
+Import DB und Ach, das ist gar keine Klasse.
+Das ist einfach nur das Modul.
+Okay, interessant.
+Warum kann man jetzt einfach Terminal verwenden, um da neue Sachen reinzukriegen?
+Ja, ich wollte nur wissen, was das Session Ding kann, damit ich gleich googeln kann, wie man das benutzt.
+Aber Session ist glaube ich einfach nur ein Eintrag da drin, oder?
+Ist da ein Eintrag da drin?
+Nee.
+Session ist einfach das.
+Das hier ist glaube ich Session.
+Also nur noch rausfinden wir das.
+Och nö.
+Okay, es wird anscheinend in dem Login gemacht, gehe ich mal davon aus.
+Würde ich mal frech behaupten.
+Also hier wird wahrscheinlich die Session erstellt.
+Wehe, da steht ein Tutu.
+Fuck.
+Ach komm schon.
+Dann gehen wir einmal
+Ach scheiße, das habe ich ja nur bei mir so konfiguriert.
+Und
+Ja. Das wird nichts.
+Nein.
+Mach doch.
+Warum geht denn das nicht?
+Gib auf.
+Nee, aufgegeben wird hier nicht.
+So, wie ist das Ding?
+Ja, sagen wir benutzen.
+Oder so.
+Alle akzeptieren.
+Ist das Python überhaupt?
+Nicht, dass es ihn auch für etwas anderes gibt.
+Sieht gut aus.
+Schöne Seite.
+Wow.
+Wo ist ein Getting Started?
+Das sind Tutorials.
+Nein.
+Nein.
+Nur 45 Minuten.
+Das ist ja super lustig.
+Einfach Chatshippity zu öffnen und im Fake Programming Chatshippity zu öffnen.
+Weißt du, was wir jetzt einfach ganz dumm machen?
+Ja. Ja. Using Sessions, das ist doch schön.
+Och nö.
+Opening and Closing a Session.
+Das war aber noch Basic Use.
+Ich weiß nicht, ob das bitte schlecht ist.
+Basic Use.
+Was lese ich da?
+Ist das hier überhaupt schon exportiert?
+Nein.
+Scheißendreck.
+Warum existiert denn die Session hier schon?
+Es gibt eine Create Session Engine.
+Die du dann an das Ding dran hängst.
+Um eine Engine zu kriegen.
+Von der du dann eine Session erstellst.
+Das ist ja wunderschön.
+Da das hier nicht importiert ist, würde ich einfach mal frech behaupten, dass das schon mal irgendwo passiert ist.
+Scheiße.
+Desktop Terminal.
+Alter, sag nur.
+Login Krabby.
+Hat der das importiert?
+Nein, natürlich nicht.
+Ach, es gibt einen Test.
+Ah nein, das ist Datenbank hoch.
+Okay, das bedeutet, wir müssen es komplett selbst
+Ah ne.
+Oh.
+Create Session.
+Hier kommt also eine Session her.
+Das ist ja schön.
+Terminal.Session.Session Was?
+Ah, okay.
+Das setzt die Session.
+Also gibt es die Session schon.
+Gut to know.
+Hätte mir das gar nicht googeln brauchen.
+Also setzt das Main den Start der Session?
+Ja. Also es erstellt die Session.
+Das macht genau das, was wir hier sehen.
+Schön.
+Beruhigend.
+Was wollten wir jetzt eigentlich tun?
+Herausfinden, was das Login überhaupt können soll.
+Wo ist es denn?
+Hier.
+Okay, also.
+Mal so dumm formuliert.
+Wir müssen check if user exists.
+Create user.
+Und was sollen wir machen, wenn schon einer existet?
+Return the same to user object.
+Und für das Create user können wir den new user.
+Was meinst du?
+Also das darüber kreiert auch bestimmten neuen User.
+Ja. Okay, also können wir einfach hier.
+Ach, das heißt new user, nicht create new user.
+So weit, so gut.
+Das haben wir auf jeden Fall in dieser Reihenfolge tun.
+So weit, so gut.
+Dann gucken wir, glaube ich, als nächstes mal, wie man querried.
+Dann finden wir entweder raus, wie man querried.
+Select user filter by name.
+Jetzt die große Frage.
+Okay, nur id ist unique.
+Wie soll das denn gehen?
+Ah, user with a given name and password exists.
+Also haben wir beides checken.
+Wenn wir zweimal filtern müssen, glaubst du, dass es dann
+Ich hätte es einfach als Komma-Schreibweise so probiert.
+Weil das hier ist ja das, was du in der Datenbank drin stehen hast.
+Wo ist denn das Ding?
+Ich schau mal hier rüber.
+Select ist erstmal noch nicht da.
+Fuck, das war falsch.
+Das ist das Falsche.
+Das da wollte ich auch nicht.
+Okay, so, dann ist Name und Password ist Password.
+Das Rot sieht schon irgendwie falsch aus.
+Nee, das ist einfach nur
+Das ist der Hint, welches von den Attributen er zeiten soll.
+Du kannst dich auch in der Reihenfolge ändern.
+Alles, was falsch ist, wird unterquerried.
+So wie hier zum Beispiel.
+Was gibt er zurück, wenn da nichts drin steht?
+Wahrscheinlich non.
+Können wir ja.
+Warte, wir müssen erstmal rausfinden.
+Also so querried man.
+Und all brauchen wir eigentlich nicht.
+Wir brauchen ja nur one.
+Also haben wir UserObject, das wir hier benutzen.
+Und dann gucken wir mal.
+Ja, es gibt nur one.
+Das hier.
+Genau, einmal returnen dann.
+Und dann können wir einfach hingehen und sagen, if UserObject no, if not UserObject Und else müssen wir zurückgeben.
+Gar nichts, dann steht das schon hier drin.
+Okay, dann müssen wir jetzt rausfinden, was das hinzufügt.
+Okay, wir haben also einen User, der einen Username hat.
+Das ist auch weird, weil bei dem einen muss man eine Query schreiben, bei dem anderen Ja. Und dann müssen wir Session UserObject ist Session Punkt Add Warte, kommt die schon wieder nicht?
+User.
+Return User.
+Nein, nicht return.
+Aber wir müssen dann im Wahrheitswert zurückgehen.
+Nee, weil wenn
+True, if no user Ich verwende Wunderschön.
+True, if no user with the given name What?
+Das ist das, was wir in unserem if bräuchten.
+Für das UserObject.
+Weißt du was, das fühlt immer aus.
+Dann haben wir das hier stattdessen.
+Das ist true, weil da haben wir ja schon einen.
+Ja, und im if vor Ort.
+Wunderschön.
+Jetzt haben wir nur noch ein anderes Problem, wir können das hier wieder nicht benutzen.
+Weil wir das Objekt brauchen.
+Moment, ich muss mich lesen.
+Ne, wir können einfach einmal New User aufrufen.
+Nein, können wir nicht, weil es nur True zurück gibt und kein Objekt.
+Ja, aber danach ist der drin und dann können wir eine Query schreiben.
+Ah, dass wir einfach nur die Query kopieren, das ist eine gute Idee.
+Das ist ja dumm.
+Aufrufen wir ja immer New User, damit der schon drin ist.
+Das ist eine gute Idee.
+Eigentlich nicht, eigentlich ist es echt beschissen, aber naja.
+Man sieht schon, dass es gut programmiert ist, weil wir den Beihilfe-Adress bekommen haben.
+Sollen wir den auch benutzen?
+So will es halt nicht sein.
+So, dann war es das, würde ich sagen.
+Add Entry.
+Och nö.
+Delete Entry.
+Och nö.
+Och nö.
+Add Entry to Database.
+False, if there is already an Entry with that name for the current user.
+In that case, nothing is added.
+Okay, also du brauchst zu finden, ob es einen Entry gibt.
+Ach, scheiße.
+Das geht ja gar nicht, weil wir jedes Mal verschiedene Anzahlen Attributen brauchen.
+Kann man bei Python nicht einfach welche weglassen?
+Also, dass du deine Liste hinschreibst und dann
+Dieses Ding, dass du einfach SternArx nehmen kannst.
+Und dann nimmt der einfach so viele und gibt die einfach weiter.
+Das Problem ist, dass ich nicht weiß, ob das hier nicht tatsächlich das hier braucht, weil dann funktioniert
+Also, dass den die Bezeichnung davor braucht, weil sonst funktioniert das nicht.
+Weil du hast keine feste Reihenfolge da drin.
+Also würde das nicht funktionieren?
+Ach, schade.
+Okay, dann machen wir das.
+Problem bei AdEntry aktuell.
+Können wir nicht das gleiche machen?
+Gar nichts.
+Ich wollte das jetzt nur nicht 50 Mal kopieren.
+Aber dann kopieren wir das jetzt ja 50 Mal.
+Ich meine, ich will ja auch noch Haus.
+Ich denke immer an den Döner.
+Ich denke immer an den Döner.
+Okay, also können wir das hier einfach nehmen.
+Und dann ist das hier aber Entry.
+Und wir filtern das bei CurrentUser.
+Who is currently logged in?
+Was ist denn der Unterschied zwischen User und UserID?
+Ich glaube, wir müssen gegen das hier gegenchecken.
+Ich glaube, wir können gegen beides gegenchecken.
+Wir haben ID, UserID und User.
+Entweder wir können das komplette Ding checken.
+Oder nicht.
+Irgendwelche Präferenzen?
+Keine Präferenzen.
+Top.
+Dann machen wir das einfach mal so.
+I guess.
+Gegen was sollen wir das noch gegenchecken?
+Name.
+Hat sich mega gelohnt, das jetzt von der anderen Seite zu kopieren.
+Nur Name, oder?
+Are we in Entry of that Name?
+CurrentUser, ja.
+Fuck, der ver-reflected mir dann die, glaube ich, für alle, oder?
+Nee, nur um Scope.
+Müssen wir jetzt nicht erst mal das One zu
+To all?
+Stimmt.
+Die Frage ist, es kann sein, dass wenn all, dass er uns eine empty Liste zurückgibt, oder so.
+Ja, wir müssen ja nur die Länge prüfen und gucken, ob sie genau 1 ist, und dann
+Ob sie genau 0 ist.
+Wir sollen gucken, ob es
+Keinen gibt.
+Ja, stimmt.
+Okay, also hier einmal all.
+Hier einmal if.
+If von EntryObjects
+Nee, größer als 0.
+Wir wollen ja wissen, wenn's
+Wenn's keins gibt, wollen wir eins hinzufügen, ja.
+Ach, stimmt.
+Nee, Quatsch.
+Wenn's 0, wenn's keins gibt, dann wollen wir hinzufügen, so.
+Entry
+Entry
+Entry
+Moment.
+Wie fügt man denn sowas hinzu?
+Macht der das automatisch?
+Kann der das automatisch?
+Naja, oben haben wir auch keine Idee hinzugefügt.
+Ja, aber das hier ist ein primary key.
+Mit autoincrement.
+Und das hier ist ein foreign key, der aber schon weiß, was da rein muss.
+Also gehe ich mal starten und öffnen aus, dass wir nur den User brauchen.
+Das ist, 
+Trial and error, I guess.
+Ansonsten bin ich Experte auf diesem Gebiet.
+We're gonna name
+Hättest du einfach im gleichen Land nochmal reinfügen können.
+Der Seite.
+Egal.
+Was meinst du mit
+Nein, du hattest den Name eh schon in der Zwischenablage.
+Nee, ich hatte Producer in der Zwischenablage.
+Aber du hast doch den Name auch gerade da hinkopiert.
+Achso, du meinst eigentlich
+Ja!
+Ja!
+Meiner Details.
+Muss mir das jetzt eigentlich noch herrschen, indem man aus dem Plaintext frt?
+Ja. Wie dumm.
+Und dann
+ist das hier ja mal wieder komplett egal.
+I guess.
+Nö.
+Irgendwas drüber werden?
+Nö.
+Gut.
+Nächster!
+Yet.
+Yet.
+If doesn't exist in the case
+What?
+True if the
+Ja, wir löschen jetzt halt.
+Wir müssen jetzt wieder gucken, ob es eins gibt.
+Aber diesmal müssen wir größer 0 und dann löschen.
+Übermischen.
+True if the entry exists.
+Also müssen wir wieder one checken.
+Oder sollen wir einfach alle löschen?
+Die existieren.
+Ich meine, das könnten wir prinzipiell auch machen.
+Was soll das denn jemals mehr als ein
+Also wir verhindern das doch mit unserer tollen
+Ja, aber dafür müsste die Datenbank leer sein.
+Und da ist halt schon eine Testdatenbank.
+Also gehen wir einfach nur mal sicher und löschen alle.
+Oh no.
+Ich glaube, es gibt auch einen Faul, aber ich bin gerade zu faul, mir anzugucken, wie das geht.
+Wenn du weißt, wie das da groß und wie leicht das ist.
+Ja. Und dann
+Oh, guck mal, wir sind sogar schon bei 60.
+Yay.
+Genau, und dann brauchen wir das nicht.
+Und wir haben
+Und wir sollten nicht jedes Mal was zurückgeben.
+Wir sollten das erst nach der Schlacht zurückgeben und wir müssen true zurückgeben.
+Das ist vollkommen right.
+Okay, wir hätten jetzt natürlich auch den Move machen können und einfach wäre der Loop nie ausgeführt worden.
+Ja. Aber wir geben es ja nicht im Loop aus, sondern nach dem Loop.
+Ja, aber ich brauche das mehr.
+Sekunde.
+Dann löschen wir nur eins.
+Dann ist jetzt kein Loop.
+Ach, na gut.
+True.
+Habe ich gerade aus Versehen.
+Wunderschön.
+Perfekt.
+Get End Review.
+Was?
+So viel Text.
+Ich werde ja nicht mal bezahlt für die Entwicklung.
+Nicely formatted, kann man aber auch sehr weit interpretieren.
+Oh, ich meine ja nur
+Oh nein, in the following format.
+Ja, okay, dann kann man es doch nicht interpretieren.
+Ich hatte gehofft, ich würde jetzt einfach alles ohne das Zeichen hintereinander klatschen.
+Wir müssen erstmal das nächste machen.
+Das sieht nach Arbeit aus.
+Get Entry.
+Get an Entry from a User.
+Halten wir vorher schon mal mit uns zusammen, glaube ich.
+Ja. Moment, hä?
+Hold up, wo ist Session?
+Was habe ich denn jetzt angeklickt?
+Hä?
+Get an Entry from a User by Name.
+Da drunter hat eine Session wieder die Kamera gesetzt.
+Nein.
+Ha!
+Stopp.
+Das habe ich nicht gemeint.
+Ich bin kein Fan davon.
+Von was?
+Das ist geschummelt.
+Hä?
+Was meinst du?
+Keine Ahnung von was du redest.
+Also, die wollen ein Entry haben, habe ich gehört.
+Jetzt passt die Doku nicht mehr.
+Hä?
+Wieso?
+Da steht doch Session.
+Da steht da nicht
+Es ist nicht beschrieben, was wir alles programmieren müssen.
+Nö, die Doku stimmt doch.
+Ja. Hä, was habt ihr denn?
+Ich habe da nichts Fehlendes gesehen.
+Welchen Code klauen wir denn am besten davon?
+Den hier?
+Ich meine, das hätten wir jetzt auch einfach benutzen können.
+Ich meine, es ist total schlimm.
+Es gibt Ohren zurück, wenn es nichts gibt.
+None.
+Hoffentlich nicht eine leere Liste.
+Das wäre wild, aber einsatz.
+Aber, haben wir gerade viel Schmupen.
+Ja, haben wir.
+Okay, ja, schön so, ne?
+Mhm.
+Das sollten wir vielleicht später nochmal schöner machen.
+Wieso?
+Ich glaube nicht, dass das der Intended Way war.
+Nö.
+Nö.
+Das ist wunderschön.
+Keine Ahnung, kann er selbst machen.
+Okay, so Update Entry, wir haben alle Sessionen, wir können die Session verwenden.
+Ja. Wäre auch wild, hätten wir keine.
+Fuck, müssen wir das noch kommenten?
+Great Session.
+Okay, hier steht nichts von Session Maker, I guess.
+Nö.
+Okay, kein Commitment.
+Wir können es aber auch gleich ausprobieren.
+Ja. Ähm, ich glaube, das steht nicht auf der Seite, oder?
+Update and Delete.
+What?
+Scalar.
+Rolling Back.
+Committing.
+Closing.
+Schlüssel Delete.
+Aber nicht Update.
+Oh.
+Sorry.
+Halt doch, hier steht doch Update.
+Ja. Oh Gott.
+Ja, zur Not löschen wir das einfach und schreiben ein neues rein.
+Das sieht doch einfach aus.
+Aber hässlich.
+Okay, die kommitten hier aber schon wieder in Session.
+Aber da steht oben dran, wrong way to do it.
+Ach, guck mal, kein Commitment.
+Ja eben.
+Perfekt.
+Perfekt.
+Nicht kommenten.
+Beruhigt.
+Moment.
+Was machen wir denn, wenn es das Endscreen nicht gibt?
+Wir können ja zuerst Get Endscreen machen.
+Ach, da sind wir das ja eh nicht.
+The True.
+Good enough.
+Hä?
+Ach, egal.
+Das sieht schon richtig aus.
+Okay, was müssen wir?
+Endscreen.
+In Session haben wir Endscreen.
+Oh.
+Oh.
+Geht das?
+Keine Ahnung, ich vermute.
+Es ist nicht rot.
+Nö.
+Nö.
+Okay, dann müssen wir noch mal sagen, dass jetzt Name und Name wieder da ist.
+Ich weiß nicht, ob das geht, ehrlich gesagt.
+Ach, fuck it.
+Das geht schon.
+So, was wollen wir?
+Name.
+Name.
+Wunderschön.
+Ach, nee.
+War das mit jeder Zeit aufhören?
+Ach.
+Also, Lebens, wir brauchen das, um es zu testen, glaube ich.
+Okay, aber wir brauchen ja erstmal alle Entries, I guess.
+Äh, Session, die wir schon wieder nicht haben.
+Keine Geräusche da hinten aus der Kante.
+Nee, die Geräusche kamen schon.
+Das war schon Kritik.
+Okay, wird nur einmal benutzt.
+Perfekt.
+Session.
+Jetzt habe ich vergessen, wie es ging.
+Äh.
+Moment, wir brauchen ja gar keine Session dafür.
+Was?
+Wieso brauchen wir dafür keine Session?
+Wieso darf man Dinge auf der Datenbank lesen, ohne eingeloggt zu sein?
+Was?
+Das kann doch nicht richtig sein, oder?
+Bin ich gerade dumm?
+Ah, das ist nur das Statement.
+Ah, er meint, ich bin dumm.
+Nicht aufschreiben, dass ich dumm bin.
+I guess.
+Keine Ahnung, wo es so geht.
+Da haben wir, glaube ich, schon alle.
+Ja. Jetzt müssen wir die Scheiße formatieren.
+Och, Mann.
+Werde mal einen String erzeugen und zurückgeben.
+Werde mal einen String erzeugen und zurückgeben.
+Was heißt das überhaupt, dass wir so viele orienteurische Sachen haben?
+Ne, haben wir nicht.
+Das ist einfach nur die Reaktion, wie das String da aussehen soll.
+Und da hinten soll wahrscheinlich ein Backspace sein.
+Das ist ja schon mal schlecht dokumentiert.
+Es geht über den Strich drüber.
+Nein, ich meine, weil da keine eckige Klammer drüber rum ist.
+Eckige Klammer, eckige Klammer, Passwort.
+Aber hier steht auch gar keine Info zum Passwort, ob wir das genauso lang machen sollen.
+Was meinst du?
+Ja, für den Namen sagt er uns, wie lang das sein soll.
+Für die Info sagt er uns, wie lang das sein soll.
+Das Passwort ist einfach scheißegal.
+Ja, das kommt ja als letztes.
+Das ist doch wie lang
+Achso, meinst du einfach, dass wir das
+Ah, okay.
+Also meinst du, dass wir einfach überragen, no matter what?
+Ich glaube, dafür verwenden wir dann unsere tollen Space-Hinzufüge-Methode, dass wir quasi immer genau die gleiche Breite haben.
+Und wir sollen frei herausfinden, wie breit bis breit sind.
+Okay, pass auf, dann machen wir jetzt mal was ganz Dummes.
+Dann gehen wir hin und sagen
+Wie heißt die andere Nummer?
+Info.
+Dann können wir nämlich einfach mal drüber bügeln und gucken, was die Maximallänge ist.
+Und dann gucken wir ja for Entry in Entries.
+Entweder maxLength Name oder Entry Punkt Name.
+Ach, die Länge.
+Setzen wir maxLength Name auf 4, weil wir müssen ja including Name, weil Name viel langer ist.
+Und das andere auf 4?
+Ja. Ja, nicht schön.
+Superspichern.
+So, dann müssen wir das Ganze hier auch noch einmal für datiertun.
+So, dann gehen wir hin und sagen, dass der Output anfängt mit
+Name plus die Datzeichen für maxLength.
+Warte, lass mal das hier machen.
+Wir gehen hin und sagen, dass es das hier ist.
+Dann können wir das nämlich gleich aber benutzen.
+Wofür?
+Äh, für Formatted Strings.
+Aber wir haben doch unsere tolles Strings-Lehrzeichen-Einfeld mit.
+Ja, aber wie heißt denn das nochmal?
+Ganz oben in dem Datenblatt.
+Warte mal, hier gab es doch irgendwo einen Knopf dafür.
+Hä, tut du?
+Guck doch einfach eben ganz oben in unserem
+Ja, ich dachte nur, es gibt hier leider so ein Menü, wo du durch die Structure sinkst.
+Ah, hier.
+Das war ja notwendig.
+Hey, ja, das ist cool.
+Ich wollte es mal zeigen.
+Pet String, das ist es, oder?
+So, dann haben wir
+Da müssen wir hinter die Sachen hinzufügen, und dann wirst du noch
+Ach, scheiße.
+Da müssen wir die hinten dran hinzufügen?
+Wieso muss man über Infos
+Also, guck hier bei dem Exampel.
+Keine Ahnung, ich habe den Text nicht gelesen.
+Ja, ich habe den Text nicht gelesen.
+Also, guck hier bei dem Exampel.
+Keine Ahnung, ich habe den Text nicht gelesen.
+Aber da ist hinter Name immer die Leerzeichen, und hier sind sie alle auf der anderen Seite allein.
+Ach, das meinst du.
+Heißt, für die erste Zeile müssen sie hinten dran, und sonst immer vorne drüben.
+Okay, und hinten dran war
+False.
+Weißt du das sicher?
+Ja, weil das Standard Value front heißt, und das Standard Value true ist.
+Dann bauen wir einmal S.
+Dann bauen wir einmal
+Das Ganze mit der Info.
+Info
+Maxlength

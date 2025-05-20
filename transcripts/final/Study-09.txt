@@ -1,0 +1,433 @@
+Du machst mehrere, oder?
+Ja. Du kannst nicht mit deinem Handy das OBS bedienen.
+Ne, leider nicht.
+Das wäre schon krass.
+Aber das Mikro da ist gar nicht so toll, deswegen.
+Ja, mittelschön.
+Ja, ist klar.
+Dann lese ich doch mal die PDF.
+Ok, ToDo-Kommentare in db.py.
+So, probieren wir doch mal Copilot aus.
+Jetzt will ich hier einfach mal, dass er mir etwas vorstellt.
+Haha, ToDo ist natürlich ein schlechter Vorschlag.
+Next.
+Open.
+Ja, das sieht doch ganz gut aus.
+Das nehmen wir einfach mal.
+Und es sieht tatsächlich so richtig korrekt aus.
+Dann schaue ich als erstes mal, welche Funktionalität hier überhaupt direkt verwendet wird.
+Wir haben ein Command-Line-Tool.
+Dieses Command-Line-Tool, das begrüßt uns, aber dann macht es nichts.
+Ist das richtig?
+Nein.
+Hier gibt es bestimmt
+Ah, es fragt nach Dingen und
+Oha, was sind denn Queries?
+Faszinierend.
+So, ich versuche es einfach mal auszuführen.
+Gibt das hier?
+Ja. Oh, nice.
+Wir können uns einloggen.
+Nein.
+Doch.
+Hallo.
+Hallo.
+Okay, also die Funktionalität geht noch nicht richtig, denn unsere Nutzer existieren schon, obwohl das nicht wahr ist.
+Aber wahrscheinlich ist der Weg trotzdem, erstmal alle To-Do-Kommentare durchzugehen.
+So, wie funktioniert denn PyCharm?
+Mal schauen, kann ich hier irgendwie schauen?
+Find Usages.
+Ja, sehr gut.
+Was ist denn eine Session?
+Session.
+Session ist gar nichts.
+So, wie wäre es denn mal, weiter das Assignment zu lesen?
+So, wenn ich Tests schreiben will, dann mache ich das mit PyTest.
+Wie PyTest funktioniert, weiß ich nicht, aber ich probiere einfach mal Cooper dazu zu fragen, mir einen PyTest-Test zu schreiben.
+Ja. Hallo, Coopilot.
+Refresh.
+Nein, so geht das nicht.
+Okay, dann wollen wir vielleicht eine Funktion machen.
+Okay, testen klappt nicht gut, dann lassen wir das einfach mal.
+So, Hash ist schon implementiert.
+New User.
+Das klingt kompliziert, dafür müsste man erstmal wissen, was eine Session ist.
+Und die Session, die ist hier, kann ich da hingehen?
+Ja, hier kann ich hingehen.
+Und dann kann ich hier schauen, wo die gesetzt wird.
+Value writes.
+Create Session.
+Das ist also ein SQLAlchemySessionDing.
+Das heißt, irgendwo sollte es einen User geben.
+Dann probieren wir doch mal aus, mit Coopilot den User in die Session einzutragen.
+Vielleicht schafft er es ja auch schon so.
+Das ist jetzt nur ein Vorschlag, ich hätte gerne mehrere Vorschläge.
+Ja, das sieht alles gut aus.
+Session.add.
+Session.commit.
+Oha!
+Eine Funktionalität, die man sonst wahrscheinlich vergessen hätte.
+Das könnte so klappen.
+Wie komme ich denn zurück, in dem ich klicke?
+Name & Passwort, die ID wird automatisch vergeben, und die Einträge sind wahrscheinlich nicht vergeben.
+Wie kommt das hierher?
+Das ist eine Funktion, die ist hier.
+Hier ist ein Funktion, die erlaubt die Person, diese Funktion zu verabschieden.
+Das ist eine Funktion, die erlaubt die Person, diese Funktion zu verabschieden.
+Name & Passwort, die ID wird automatisch vergeben, und die Einträge sind wahrscheinlich null.
+Das lassen wir also so.
+Beim Einloggen sollten wir das Passwort prüfen.
+Hier ist jetzt die Funktionalität von CoPilot nicht richtig, weil der
+Ah, wobei, sie ist doch richtig.
+Das Passwort ist ein Hash, und das Passwort werden wir gehashed reingeben.
+Das heißt, die Funktionen werden alle mit einem Hash aufgerufen.
+Das klingt eigentlich gut.
+Dann wirkt diese Funktionalität auch richtig, sieht mir so aus.
+Gehen wir einfach mal weiter.
+addEntry will ein User aus der Datenbank.
+Den geben wir aber mit currentUser rüber.
+Und dann wollen wir ein Eintrag
+Das heißt, wir suchen erstmal nach dem Entry von diesem User.
+Uh, ganz viel Code, was passiert hier?
+Die User-ID wird geprüft und das Entry wird geprüft.
+Das sieht gut aus.
+Das sieht eigentlich alles ganz gut aus.
+Probieren wir das mal so aus.
+Dann deleteEntry, vielleicht kann er das ja sogar auch.
+Session.
+Oder müssen wir unseren Entry zuerst holen?
+Entry gleich.
+If not Entry.
+Return false.
+Session delete.
+Session commit.
+Return true.
+Das sind alles schöne Zeilen, die finde ich so gut.
+getEntryView will
+eine formatierte Tabelle.
+Die Regeln wirken mir etwas komplex.
+Das heißt, da sollte man dann vielleicht sogar so einen richtigen Test verschreiben.
+Aber probieren wir doch erstmal die KI aus.
+Ähm, so
+Hallo?
+Was sagt die KI?
+Ähm, hier jetzt
+rauszufinden, welche von den Computations richtig ist.
+Keine Ahnung.
+Äh, vielleicht sollte ich mir dafür den Kommentar mal durchlesen.
+So, wir wollen die Längen von den Einträgen alle berechnen, um die Maximale rauszufinden.
+Wir wollen zwei Spaces haben.
+Wir
+wollen zuerst Spaces, dann Namen, dann Spaces, dann Info, dann Spaces, dann Passwort.
+Mit den jeweiligen Einträgen.
+So, wie sieht denn die erste Completion aus?
+Wir berechnen uns die Länge
+von den einzelnen Einträgen
+und mindestens vier, verstehe ich nicht, vielleicht hat das einen Sinn.
+Und dann gibt es da eine sehr große Expression.
+Das ist zu kompliziert.
+Nehmen wir das nächste Ding.
+Wir berechnen uns die Länge wieder und hier aus dem Code wird auch klar, warum das vier war.
+Das ist ein bisschen hübscher.
+Und außerdem ist der For-Loop unten, das sieht mir eigentlich nach der netteren Lösung aus.
+Die nehmen wir also mal, ob sie korrekt ist, wer weiß.
+Erstes Problem, Session.query geht nicht, weil hier keine Session übergeben wird.
+Was mir jetzt erstmal suspekt vorkommt, weil es mir unklar ist, ob man von dem Nutzerobjekt tatsächlich auch die Einträge kriegen kann.
+Probier ich das mal aus.
+CurrentUser.
+Gibt es hier irgendwie so einen?
+Nein, es gibt keinen.
+Okay, dann muss man da später wieder zurück zu kommen.
+Vielleicht fehlt bei der Methode ein Parameter, wer weiß.
+GetEntry klingt so, als könnte man das über CompilateGood autokompleten.
+Aber hier fehlt auch wieder die Session.
+Kompleten wir es einfach, auch wenn die Session fehlt.
+UpdateEntry hat einen Breakpoint.
+Und da haben wir zumindest die Session, das heißt wir können hier auch nett autokompleten.
+Das Ding wirkt mir jetzt zu magisch.
+Bin mir nicht sicher, ob der Code so funktioniert.
+Weil wir hier ja irgendwie gar nie explizit sagen, dass wir in der Session was verändern.
+Also kommt da ein TodoTestPathLessWords-Kommentar rein.
+Dann haben wir hier alle Todos implementiert, oder zumindest probiert.
+Gibt es noch mehr Todos?
+Kann man hier suchen?
+Ja, es gibt.
+Nein, ich weiß nicht.
+Vielleicht mal schauen.
+Wir haben keine Todos mehr.
+Dann führe ich es doch einfach mal aus und schaue, in welche fehlenden Session-Parameter man als erstes reinrennt.
+Neuer Nutzer.
+Hi.
+Hi.
+Wir haben einen neuen Nutzer erstellt.
+Kann ich mich einloggen mit dem falschen Passwort?
+Nein.
+Sehr gut.
+Kann ich mich einloggen mit dem richtigen Passwort?
+Ja. Kann ich meine Liste anschauen?
+Nein.
+Session fehlt.
+Tja, das ist natürlich schade so, aber die Session übergeben ist wahrscheinlich kein großes Ding.
+Die Session ist hier eine globale Variable, also würde ich die doch einfach mal übergeben.
+Und dann hier auch verwenden.
+Und dann ist leider der Kommentar falsch, aber vielleicht kann man den sogar updaten.
+Und dann mache ich das auch mal bei den anderen Funktionen, wo die fehlen.
+Ähm, genau.
+Und bei der Funktion muss natürlich jetzt auch noch die Usage geupdatet werden.
+Es gibt sogar zwei, oha.
+Und dann probieren wir den Spaß noch einmal.
+Aha, die Datenbank ist tatsächlich persistent.
+Ich habe hier jetzt einen Runtime Error geworfen.
+Gleichzeitig will der Code nicht, dass ich einen Runtime Error werfe, sondern dass ich Faults zurückgebe.
+Das heißt, da gebe ich doch lieber Faults zurück.
+Ähm, dann loggen wir uns doch mal mit unserem schon erstellten Nutzer ein.
+Wie kann ich den eigentlich löschen?
+Ah, ich kann den Nutzer nicht löschen.
+Und schauen wir diesmal meine Liste an und sie sieht vielleicht korrekt formatiert aus.
+Ah, wobei, checken wir das später erst, wenn wir den Passwort haben.
+Äh, dann kriegen wir ein Passwort hinzu.
+Name, Mail, Info, cd.ertf.de.
+Passwort, fünf Stellen, abecd.ertf.
+Das sind sechs Stellen, so fünf Stellen.
+Und dann nehmen wir noch paper mit a.ertb.com.
+Und dann schauen wir uns unsere Liste an.
+Und die sieht nicht ganz hübsch aus.
+Was ist denn da jetzt das Problem?
+Die obere Zeile
+Ah, okay, da sind mehrere Dinge falsch.
+Probieren wir doch mal einen Test dafür zu schreiben.
+Wie machen wir das denn jetzt?
+Mal schauen, was sagt denn die Beschreibung dazu?
+Die Beschreibung, die scheint das nicht zu beschreiben, sondern verlangt nur Funktionalität.
+Ähm, haben wir hier irgendwas, was so aussieht, als würde das Tests machen?
+Eigentlich nicht.
+Wir haben einen Test.db.
+Oh, Gott.
+Ähm, aber alle Funktionalität hier, das Wort Test kommt wahrscheinlich gar nicht dran vor.
+Mal schauen, was sagt denn die Suche dazu?
+Ähm, die Suche funktioniert anders, als ich das erwartet habe.
+Wir suchen in
+Ich will den Text durchsuchen.
+Text.
+Created by Python?
+Nein, das ist irgendwas anderes.
+Was auch immer das hier ist.
+Faszinierend.
+Ich glaube nicht, dass das von mir kommt.
+Und der Rest ist auch nicht okay.
+Das heißt, wenn man da jetzt hübschen Code haben will, dann
+Geht man erstmal hin und zeigt die Exception an.
+Und geht danach dann vielleicht tatsächlich so ein PyTest-Ding schreiben.
+Wie funktioniert ein PyTest?
+Habe ich Zeit für solche Späßchen.
+So, ich gehe mal davon aus, dass mir Copilot hier nicht helfen kann.
+Weil mir Copilot ja Completions gibt in der Datei.
+Und ich würde jetzt mal davon ausgehen, dass man irgendwie neue Dateien anlegen muss für seine Tests.
+Aber gleichzeitig sieht das hier gar nicht so aus, als gäbe es irgendwie
+Ah, doch.
+Test unterstrich irgendwas.
+Gehen wir hier also hin und
+Wie war das denn?
+Die Funktionalität, die ich testen wollte, die war in dbpy, und zwar das mit dem string getEntryView.
+Und es wäre natürlich nett, wenn man hier jetzt gar nicht mit der Datenbank interagieren müsste.
+Vielleicht ist das auch der Grund, warum da keine Session übergeben wurde vorher.
+Aber gleichzeitig hatte ich keinen Weg gesehen, wie man die ganzen Entries von dem User bekommt, ohne die Session zu fragen.
+Vielleicht kriegen wir das ja doch nochmal hin.
+Entries gleich CurrentUser.Entries.
+Vielleicht geht das sogar.
+Dann, wenn das geht, wäre das natürlich nett und dann könnte man die Funktion auch einfacher testen.
+Probieren wir es also aus.
+Aha, das nenne ich mal Magie.
+Also übergeben wir keine Session mehr und gehen auch zu dem Aufruf und übergeben da auch keine Session mehr.
+Bei den anderen Funktionen, wo ich das hinzugefügt habe, ist das wahrscheinlich kein großes Ding.
+Testen wollte ich ja eigentlich nur diese Funktion.
+Dann will ich jetzt also ein Tutorial für PyTest und nicht für PyTest mit SQL.
+Wir haben PyTest importiert und nehmen wir uns einfach mal diesen Code und packen den in eine neue Datei.
+Die Datei soll test.py heißen.
+Und die wollen wir auch ins Kit einchecken.
+Ja, alles gut.
+Wenn ich jetzt irgendwas drücke, um Tests auszuführen.
+Ah, ich kann gleichzeitig auch einfach dieses Ding drücken.
+Das scheint geklappt zu haben.
+Kann ich hier jetzt meine Funktion importieren.
+Import db.
+Kann ich from db import.
+Wie hieß die Funktion, die ich testen wollte?
+GetEntryView.
+Dann will ich jetzt also einen Test für diese Funktion schreiben.
+Vielleicht kann das mein Copilot.
+TestGetEntryView.
+Yes.
+Es wirkt mir so, als hätte Copilot hier jetzt nicht verstanden, was die Funktion macht.
+Vielleicht, weil es in einer anderen Datei ist.
+Deswegen würde ich die Funktion einfach mal testweise kurz in die andere Datei rüber kopieren.
+Vielleicht versteht Copilot ja dann, wie man diese Funktion testet.
+Das sieht ganz so aus, als hätte es das mehr verstanden als vorher.
+Es ist natürlich schade, dass man das braucht, aber es ist ja auch ganz nett.
+Mehr verstanden als vorher ist wahr, aber ich bin nicht zufrieden mit diesen Completions hier.
+Also würde ich das einfach nochmal anders machen.
+Um zu testen, wollen wir einen Nutzer erstellen.
+Der Nutzer, der kommt aus der Datenbank.
+Ne, aus Models.
+Import UserEntry.
+Ja, das sah schon gut aus.
+Und dann sagen wir User gleich.
+Genau.
+Und dann sagen wir User.Entry ist gleich irgendwas.
+Das ist auch fast das, was wir wollten.
+Ich würde gerne testen mit dem Beispiel, was wir in dem Docomment oben haben.
+Das heißt, mal schauen, ob er das übernehmen kann.
+Mail.
+Info gleich.
+Nein, das hat er nicht übernommen, aber dann tippe ich es einfach nochmal ab.
+Dafür hat er das jetzt fast verstanden.
+Nur beim Kopieren hat er irgendwie keine Lust.
+Jetzt haben wir unseren User, können also die Funktion aufrufen.
+GetEntryView von unserem User.
+Und haben auch eigentlich gleich schon das, wogegen wir testen wollen.
+Das würde ich hier jetzt einfach mal rauskopieren, weil ich dem Copilot nicht traue, das richtig zu kopieren.
+Und haben jetzt gleich das Problem, dass wir hier ganz viele Spaces haben, die beim Testen eigentlich nerven.
+Aber das Problem würde ich jetzt gleich einfach mal sehen.
+Mal schauen, ob das überhaupt funktioniert.
+Ob es überhaupt testet.
+Wenn wir unseren Test ausführen, sehen wir, dass die Funktion noch die kopierte ist und die funktioniert so leider nicht.
+Die können wir also jetzt rauswerfen.
+Und dann scheint der Test grundsätzlich zu funktionieren.
+Aber unsere Formatierung ist halt noch falsch und die ganzen Spaces am Anfang wollen wir nicht.
+Wie soll es denn aussehen?
+Wir wollen zwei Spaces und dann die gepaddeten Dinger.
+Das heißt, ich nehme die Funktion jetzt und mache die Spaces da weg.
+Und dann haben wir hier auch noch eine Newline, die wahrscheinlich nicht drin ist.
+Dann habe ich hier auch noch eine Newline, die wahrscheinlich nicht drin ist.
+Probieren wir das jetzt mal aus.
+So, jetzt sagt uns unser Testing-See, dass die Strings nicht gleich sind.
+Und hier kann ich click to see difference.
+Das ist ja fancy.
+Also, was haben wir falsch gemacht?
+Wir haben unsere Info links aligned, das sollten wir rechts alignen.
+Die Newline war doch richtig und irgendwie ist der Rest auch noch falsch.
+Der Name sollte auch rechts aligned sein.
+Das Passwort vermutlich auch, wobei vielleicht sind das immer fünf Sternchen.
+Gleichzeitig sollte ich auch noch mal schauen, ob das Passwort
+Ja, das Passwort sollte gleich sein, egal wie ich die Passwörter hier setze.
+Das heißt, hier machen wir mal ein kurzes und ein sehr langes, weil wer weiß, ob das aktuell einfach übernommen wird.
+Dann geht es also daran, die Funktionalität zu reparieren.
+Was ist denn aktuell falsch?
+Das mit den Sternchen für das Passwort scheint kein Problem gewesen zu sein, aber das mit dem links alignen versus rechts alignen.
+Padding, die Funktion hatte Funktionalität für links oder rechts alignen, das ist natürlich nett.
+Dann können wir die einfach verwenden.
+Wir wollten diese Dinge rechts alignen, also front gleich false und Passwort brauchen wir nicht alignen, weil es sind immer fünf Sternchen.
+Alles klar, testen wir also den Test noch einmal.
+Was ist diesmal falsch?
+Das sieht mir nicht richtig rechts aligned aus.
+Gleichzeitig ist expected auch links aligned.
+Ah, da habe ich wohl irgendwas schlecht gesehen.
+Mal schauen.
+Expected ist links aligned tatsächlich.
+Das heißt, ich habe eben auf die falschen Dinge geschaut.
+Dann ändern wir das also wieder zurück.
+Upsi, upsi.
+Was war denn dann falsch, wenn es richtig aligned war?
+Ich glaube, hier ist actual expected und expected actual.
+Vielleicht habe ich die falsch rum.
+Was ist denn?
+Hier gibt es nur first und second.
+Aber tatsächlich, das was mir bei actual angezeigt wird, sieht so aus, als wäre es das, was ich bei expected angegeben habe.
+Also gehen wir expected und result wechseln.
+Vielleicht werde ich dann weniger verwirrt.
+Jetzt haben wir expected links aligned und tatsächlich ist es wahrscheinlich immer noch links aligned, aber einfach so falsch gewesen.
+Kann ja mal passieren.
+Das heißt, um das zu reparieren, wollen wir das hier links alignen und das hier rechts alignen.
+Das passiert auch schon.
+Das ist rechts, das ist links.
+Und so haben wir die Namenlänge, die wir übernommen haben.
+Warum klappt denn das dann nicht?
+Zwei Spaces, zwei Spaces.
+Zwei Spaces, zwei Spaces.
+Das sieht mir doch eigentlich ganz gut aus.
+Tja, schwierig, schwierig.
+Vielleicht ist die Padding-Funktion nicht richtig.
+Dann lassen wir uns doch mal die Padding-Funktion testen.
+Dafür gehe ich die Padding-Funktion mal nochmal in die Test-Funktion rein kopieren.
+Und würde gerne eine Autocompetition für diese Funktion haben.
+So, macht das Sinn, was hier getestet wird?
+Das sieht nach einem sinnvollen Test aus.
+Das sieht auch nach einem sinnvollen Test aus.
+Die sehen alle erstmal ganz nett aus, diese Tests.
+Probieren wir sie also mal aus.
+Die haben geklappt.
+Das heißt, die Test-Funktion war wahrscheinlich nicht falsch.
+Was könnte denn dann das Problem sein?
+So, hier zum Aufräumen erstmal mal.
+Tja, das ist jetzt natürlich mies.
+Unsere Länge sieht auch sinnvoll aus.
+Wir starten mit der Länge von dem Titel.
+Dann bilden wir das Maximum von jeweils dem nächsten Eintrag und dem existierenden.
+Wir haben also hier eine krasse Funktion, die das Maximum von der Liste berechnet.
+Dann haben wir zwei Spaces, womit der String anfangen soll.
+Wir haben den Namen padded with Spaces at the back, was front-page-true ist, was hier verwendet wird.
+Wieder zwei Spaces.
+Wir haben die Info padded with Spaces at the back und dann wieder Spaces und Passwort.
+Das sieht mir jetzt vom Anschauen her richtig aus.
+Für die Einträge haben wir den Entry-Namen gepadded mit Spaces.
+Es ist ein bisschen schade, dass unsere Variablen nicht gleich heißen wie die in der Beschreibung, aber so ist das halt.
+Die werden vorne gepaddet und dann haben wir die Info-Länge, die auch vorne gepaddet wird.
+Und dann haben wir Sternchen mit 8 Spaces padded at the front.
+Das sieht hier nicht so aus, als hätten wir Padding am Anfang in der Implementation.
+Ergänzen wir das also, aber das war nicht das Problem, was wir eben hatten.
+Warum schreit mich jetzt der Editor an?
+Wahrscheinlich ist die Zeit zu lang.
+Warum ist denn jetzt immer noch leider das Ergebnis falsch?
+Was ist denn an diesem Ergebnis falsch?
+Zwei Spaces.
+Hier sind zu viele Spaces.
+Sind es das?
+Die Implementation hat gesagt, padded at the back.
+Wir geben im Test 4 Spaces Abstand, und zwar 2 von Padding und 2 von Info.
+Und beim Testen sehen wir aber 6 Spaces Abstand.
+Das heißt, irgendwoher kommen 2 extra Spaces.
+Die werden also von PadStringNameLength kommen.
+Dann gehe ich doch mal die NameLength ausgeben, einfach mal zum Debuggen.
+Und vielleicht gleich auch noch die InfoLength.
+Das wäre doch mal ganz nett.
+Vielleicht sind die ja falsch.
+NameLength 6.
+PayPal sind 6 Buchstaben.
+InfoLength 8.
+CD add ef.de sind 8 Buchstaben.
+Das sieht mir doch auch richtig aus.
+Dann würde ich zum weiteren Testen hier einfach mal schauen, wo denn die Spaces herkommen.
+Die Spaces kamen von dem Info-Ding, was eigentlich
+Ah, das ist hier falsch rum.
+Ich glaube, ich habe den Bug gesehen.
+Front und Back wurden hier falsch rum zugewiesen.
+Das heißt, wir wollen in den oberen Dingen False verwenden und in den unteren Dingen True.
+True war Default, also werfen wir die raus.
+Und dann ist es vielleicht sogar auch richtig am Ende.
+Mal schauen.
+Wow!
+Unglaublich!
+Wir haben einen Test geschrieben und der Test hat sogar erfolgreich ausgeführt.
+Habe ich denn jetzt alle Funktionalität implementiert?
+Ich habe noch nicht geprüft, was passiert, wenn ich versuche, mir ein Passwort anzeigen zu lassen.
+Das würde ich dann gleich mal ausprobieren.
+Show Entry.
+Unser Name fällt bei.
+Das wird sogar in grün angezeigt.
+Edit an existing Entry.
+Probieren wir das mal.
+Das scheint geklappt zu haben.
+Delete an existing Entry.
+Probieren wir das mal.
+Das scheint auch geklappt zu haben.
+Und wenn wir gar keine Passwörter haben, dann stürzt es auch nicht ab.
+Das ist ja nett.
+würde ich jetzt mal davon ausgehen, dass das alles richtig implementiert ist.
+Wir können uns auch noch für Spaß an der Freude die Datenbank anschauen, was auch immer SQLiteViewer ist.
+Oh, fancy fancy.
+Click and drag.
+Es ist sogar gehashed.
+Mal schauen, finde ich diesen Hash.
+Faszinierend, er hat gleich das Passwort geknackt.
+Und das Ganze, obwohl das Programm noch die Datenbank offen hatte, das ist aber racy, könnte man sagen.
+Ich glaube, es funktioniert jetzt alles, außer ich habe irgendwas übersehen.

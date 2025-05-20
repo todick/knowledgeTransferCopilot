@@ -1,0 +1,795 @@
+So okay, also ich öffne als erstes alle diese Dateien und suche nach den To-Dos und was ich zu tun habe und lese mir die Signaturen durch.
+Fangen wir in db.py an.
+Das ist Shit for Modified Database.
+Ähm, okay.
+Dann...
+Ja, ich bin noch am lesen, ich bin noch am lesen.
+Also, die erste Methode soll einen Text extenden.
+Also ich kenne mich nicht aus mit wie das funktioniert, deswegen...
+Ähm, ja, ich muss erstmal alles durchlesen.
+Okay, neuen User hinzufügen, einen bereits existierenden User einloggen.
+Einen Entry in die Database hinzufügen und löschen.
+Okay, alle Entries zu einem Table zusammenfassen.
+Einen Entry verlängern.
+Okay, also quasi ein P-Access ist das.
+Und dann möchte ich updaten und was wird das erste?
+Ah, da soll quasi ein String of Spaces...
+Ah, okay, also man kriegt einen String und der soll dann um der Zeichen verlängert werden bis zu der angegebenen Länge.
+Und das macht ein Hash aus dem String.
+Das muss ich auch noch zusammenarbeiten.
+Okay, alles klar, dann gehe ich in die nächste Datei.
+Ähm, hier ist nichts zu tun am Anfang, aber da wird halt die Database-Connection das erste Mal gemacht.
+Ja, okay, , dann in Start ist auch nichts zu tun und hier auch nicht, okay.
+Hier ist alles rot, aber das sieht eher so aus als es so sein sollte.
+Ähm, dann, das ist die Klasse, den User, okay, und den Entry, alles klar.
+Und das hier ist zum Beenden, Menüscreen, okay.
+Und hier gibt es verschiedene Options, also das ist noch ein Event, okay.
+Und dann, , das Menü auswlen, alles.
+Okay, alles klar.
+Jetzt Terminal, auch hier hat nicht nichts zu tun, wie die Sache aussieht.
+Ähm, den Entry.
+Okay, das ist das, was ich auswlen würde, wenn ich das Ganze einmal auswlen würde.
+Kannst du das hier, I guess?
+Nochmal, also noch den Entry.
+Okay, alles klar.
+Und dann...
+Okay, the goal of this assignment is to write a small password manager that interfaces with a database to store the user's password.
+The programming language I am using is Python, PyCharm.
+Ja, ja, I'll play programming a little bit.
+Okay, so, Copilot.
+Implement all functions that are left blank.
+That has to do.
+And they're not in the way from Py.
+May print anything that the console needs at any time.
+Digital information, you can write your own tests.
+Okay, das PyTest-Package kenne ich im Moment noch nicht, aber mal gucken, ob ich das lerne.
+Okay, und dann...
+Kann ich...
+Oh, if you do this, you can run the configuration as only from the Internet.
+You can call...
+Okay, das heißt, wenn ich die Uhr aufwende, muss dann eben etwas passieren.
+Ähm, ah, und jetzt wäre es ein Input von mir.
+Create a new user.
+User, , kenne ich...
+Schreibe ich Leo.
+Password inside of here.
+User with the name Leo already exists.
+Ah, ja.
+Ähm, okay.
+Und dann...
+Also, Assignment.
+Ähm, ja, okay.
+The console manages the process of adding features.
+On startup, the user is prompted to either create a new account.
+Das habe ich gerade schon gesehen.
+Ja, okay.
+Dann möchte ich gleich erst da hinkommen.
+Okay. And some files.
+The project already contains several files that organize different aspects of the program.
+The build.py contains all functions that interact with the database.
+The main.py contains the entry point.
+So this is the initialization code.
+The main.py...
+Option.py contains code that encapsulates some of the logic.
+Terminal.py contains the actual control flow.
+For offset machine, okay.
+Model.lan.
+Model.lan consists of three different types of objects.
+Ah, it's got User and Entry.
+Ähm, die haben wir ja ID.
+Name of the user.
+Password are the hash, okay.
+And here's a list of entry objects that the user has created.
+It contains information about a password the user wants to store.
+Hat auch ein ID.
+Name und eine Description von Passwort, okay.
+Zwei Descriptions von Passwort.
+Braintext.
+User object.
+Und dann die ID von dem...
+Ja, okay.
+Okay, ich darf's hier nicht ändern, wenn ich möchte.
+Okay. Dann...
+...würde ich jetzt mal anfangen.
+Ich zieh das mal hier auf die andere Seite.
+Kann ich das so machen?
+Perfekt.
+Dann gehen wir nochmal hier rein.
+Und dann...
+...fange ich mal hier an.
+Alles.
+Ja, okay.
+So, dann...
+Kann ich hier einfach...
+...einfach...
+...ich muss hier nochmal kommentieren.
+Ähm, Hashtag.
+Okay, first.
+GitHub Copilot.
+...Suggestions.
+Okay. Hint, use the reduce function.
+Moment, aber ich will ja eigentlich die Extents nicht reducen.
+Okay. Also...
+Ich find ein String.
+Okay, aber wenn ich hier Copilot benutzen soll, kann ich dem das vielleicht auch einfach sagen.
+Extender...
+Extender until the...
+...until it has a length and a total length.
+Ganz genau.
+Ja, wartet.
+Äh, ist das Tool...
+Ja, das klingt ja auch richtig.
+Aber jetzt...
+...fällt mir da nichts mehr vor.
+Oder doch?
+Ja, okay.
+Ich habe es schon verstanden.
+Dann machen wir mal...
+...fangen wir hier einfach mal an...
+...mit einem if-statement selbst.
+If want return...
+...das mal...
+...total length minus length von Text plus Text.
+Das ist richtig.
+Else...
+Macht ihr mir das auch direkt?
+Return Text plus...
+Ja, okay.
+Ich vermute mal, dass das so richtig ist.
+Ich glaube allerdings...
+...weil ich das hier jetzt zuerst gemacht habe...
+...kann ich nämlich...
+..., kann ich das nicht direkt testen?
+Habe ich mich überhaupt nicht eingeloggt?
+Ich könnte dafür selbst einen Test schreiben, aber ich glaube, ich mache lieber erst mal weiter.
+Ähm, okay, ja.
+Die, wie man das häscht, ist schon da.
+Neue User...
+Okay, Session...
+...Session object...
+..., dann...
+...den Namen...
+...das Passwort...
+...sahash...
+...okay, passiert das schon in...
+...nur, dass das schon...
+...gehäscht wird, wenn ich dann einen Input gebe?
+Wann ist überhaupt hier drin?
+Okay. ...passiert noch noch...
+...ah, das hier ist jetzt entweder...
+...okay, mir auch noch.
+...ich mache mal einfach...
+...vielleicht...
+...weil mir ja was machen wird.
+...mir scheint auf jeden Fall, dass ich jedes Mal nochmal neu in den Kommentaren vorher angeben muss.
+Was ich will, dass es mir noch...
+...nein...
+...also, ...
+...Edge User to Database...
+...Edge User to Name...
+...Edge User to Name exists...
+...return is true...
+...ja...
+...ist auch richtig...
+...okay...
+...und ...
+...das wollte ich nicht...
+...ja...
+...gibt ihr mir auch Code, oder gibt ihr mir nur die Kommentare, wie das beschrieben wird?
+Okay, anscheinend gibt ihr mir...
+...einen Moment noch mal die Kommentare...
+...dann mache ich mal...
+...hier natürlich dabei...
+...first is not none...
+...dafür kann ich jetzt Heighten nicht benutzen, dass das richtig ist...
+...Session.query...
+...ich schreibe das mal...
+...und jetzt will ich...
+...wissen, was diese Session hier ist...
+...Google Implementation Assign...
+...ja, natürlich...
+...das wird doch hier beschrieben, oder?
+...also...
+...wir haben bereits...
+...Klasse aus der Datamodel...
+...im Datamodel sind aber hier nur...
+...sind hier nur User und Entry drin...
+...dann...
+...gucken wir mal...
+...was ist...
+...Klasse Option...
+...Klasse Query...
+...Klasse Query...
+...Klasse Option...
+...Mail hat nur die Start und Dings...
+...Terminal hat auch Start...
+...Welcome Query...
+...Success...
+...okay, alles klar...
+...dann glaube ich mir doch, dass das richtig ist...
+..., also wenn es...
+...wenn es nicht lang ist...
+...also ich vermute mal...
+...das bedeutet quasi, wenn es bereits existiert...
+...Return False, genau...
+...und dann bin ich also...
+...Session.8 User...
+...mit dem Name und dem Passwort...
+...okay, jetzt möchte ich...
+...wissen die, kriege ich hier das Passwort gehashed?
+...aber ich soll das dann ja auch gehashed speichern...
+...gehashed speichern vermutlich...
+...und wieso...
+...ah, mit User bin ich gerade...
+.................................................................................................................
+...Zufüge...
+...das hier mache ich einmal...
+...und gehe in...
+...ins Modell rein, um zu gucken, wie der User genau aussieht...
+...oder ob da hier irgendwas...
+...dabei steht...
+...hier im Moment...
+...ein User mit...
+...Name und Passwort gleich Passwort...
+...Passwort...
+...okay, hier steht nichts davon...
+...und das Gehashed...
+...das ist irgendwie der Sinn davon...
+...okay, und dann kann ich...
+...diesen Kommentar löschen...
+...den Kommentar...
+...drücke ich mal ein...
+...Return to...
+...if User has been edited...
+...ja, okay, genau...
+...return to, nachdem wir es geedet haben...
+...und hier rein...
+...okay...
+...dann...
+...kann ich jetzt einen neuen User hinzufügen...
+...hoffentlich...
+...probieren wir das doch mal auf...
+...also, neuer User...
+...oh...
+...ja, genau...
+...und dann...
+...1, 2, 3, 4...
+...gut...
+...und das nächste ist dann...
+...dann...
+...das checkt das nur...
+...ah, es returnt dann das Objekt...
+...wenn der User existiert...
+...sonst returnt er none...
+...das heißt, ich mach mal...
+...if...kannst du das...
+...genau...
+...with a name and password...
+...okay...
+...jetzt...hier stellt sich mir jetzt die Frage...
+...also ich kann das jetzt gleich einfach mal...
+...ausprobieren...
+...aber man gibt das Passwort hier ja nicht gehasht ein...
+...und ich weiß nicht, ob es quasi auf dem BigTagInternet...
+...oder wann es gehasht wird...
+...aber hier wird die Nachgleichheit geprüft...
+...also nochmal...
+...erst mal meinen User nochmal...
+...also die Karte eben auch...
+...und jetzt...
+...ah, okay, ich habe vorher das...
+...das wird wohl nicht resettet...
+...okay, interessant...
+...dann kann ich mich ja direkt einloggen...
+...okay...
+...what do you want to do...
+...okay, das scheint...
+...funktioniert zu haben...
+...ja, okay, natürlich...
+...das funktioniert...
+...das funktioniert natürlich erstmal nicht...
+...weil ich den noch nicht gemacht habe...
+...dann...habe ich jetzt also Zugriff...
+...auf meine...
+...Database...
+...das heißt als nächstes kommt...
+...ich will ein Entry hinzufügen...
+...der kriegt wieder die Session...
+...dem User, der gerade eingeloggt ist...
+...den Namen von dem neuen Entry vermutlich...
+...mit einer Info...
+...und das Passwort...
+...das man vermerken möchte...
+...und dann falls...
+...wenn es den Entry schon gibt...
+...dann wieder nichts hinzufügen...
+...also...
+...wenn es funktioniert hat quasi...
+...dann kommen wir hier nochmal ein...
+...fangen wir wieder mit einem If an...
+...genau, also wenn es...
+...ein Entry gibt...
+...genau, ja, das genauso hier oben auch...
+...oh, ups...
+...und ansonsten...
+...füge ich den...
+...hinzu, es wird committed...
+...und true returned...
+..., ja...
+...klar...
+...einmal ausprobieren...
+...achso, ups...
+...das sollte man vermutlich nicht machen...
+...so, ich möchte ein Entry hinzufügen...
+...und zwar nenne ich den...
+...keine Ahnung, das ist...
+...auch eine...
+...das ist ein digital Passwort...
+...füge ich jetzt einfach hin...
+...und es ist 2345...
+...okay, success, created Entry...
+...schon...
+...ich kann jetzt gleich noch nicht weiter was damit machen...
+...weil ich die Sache noch nicht gemacht habe...
+...aber...
+...sieht bisher ganz gut aus...
+...das ist hier oben...
+...das ist mal etwas entfernt...
+...dann, das ist eigentlich genau das gleiche...
+...wenn ich das jetzt lösche oder nicht...
+...und dass halt das Ist-Technik...
+...umgedreht werden muss...
+...genau, wenn...
+...das existiert...
+...dann wird es gelöscht...
+...committed...
+...dann...
+...also muss ich sagen, das ist sehr einfach...
+...ich muss wirklich sehr gut an mich selbst denken...
+..., okay, dann machen wir jetzt mal folgendes...
+...ich...
+...probier das...
+...ich brauch es nicht anzumelden...
+...und jetzt müsste der Entry ja noch...
+Das heißt, wenn ich jetzt einen neuen Entschieden hinzufüge, dann müsste eine Fehlermeldung kommen.
+Ich kann ja hier irgendwas Ingeres schreiben.
+Genau, der ist schon da.
+Und wenn ich ihn jetzt deleten möchte, mache ich die 5.
+Möchte GH deleten.
+Und wenn ich ihn jetzt nochmal ändern möchte, geht das.
+Ja, ja.
+Irgendwas, 2, 3, 4, 5.
+Okay, sehr gut.
+Scheint zu funktionieren.
+Dann, Entry View.
+Jetzt kommen die kompliziereren Sachen, vermute ich mal.
+Okay, also alle Entries sollen hier composed werden.
+Der Parameter ist nur der current user.
+Und der length of the longest value, okay.
+Also dann ist es das längste von info.
+Dann zwei S und zwei Spaces.
+Die Linie ist der international linie, okay.
+Dann kommt es da vor dem Table S.
+Name padded with Spaces.
+Ah, to a name, okay.
+Das heißt, ich muss mir erst ein Name ausrechnen, damit ich immer weiß, wohin ich padde.
+Padded with Spaces, dann Info, das ist bei Info natürlich genauso.
+Und dann, das ist bei us at the back.
+Und dann, i.name wird vorne gepaddet.
+Und i.info wird auch vorne gepaddet.
+Okay, und dann kommen Sterne, die zu 8 gepaddet werden.
+Ah ja, so, okay.
+The last character is supposed to be, okay, alles klar.
+Dann wäre es mal interessant zu sehen, was der Code Palette hiervon machen kann.
+Also vielleicht können wir erstmal das da ausrechnen.
+Das heißt, ja, jetzt wäre es gut, wenn man padden können würde, oder was?
+Also in name ist gleich lenkt von name.
+Ne, ich will ja die maximale, also es ist immer das Max.
+Max von lenkt von e.name for e in current user.entries.
+Das klingt auf jeden Fall erstmal richtig.
+Ähm, okay, eine Fehlermeldung angesöpft.
+Achso, das gibt es einfach nicht.
+Ähm, ich könnte ja selber ein Packet installieren.
+Ich gebe es dir in etwas anderes.
+Ich gebe es dir auch in Google.
+Ähm, also.
+Max Function.
+The Max Function.
+Ich muss das wirklich einfach noch einschreiben.
+Okay. Ähm, und dann machen wir doch genau das gleiche für ein info.
+Wird mich ja auch schon komisch sagen.
+Sieht auch richtig aus.
+Entschieden mit info, okay.
+So, und jetzt gehe ich, jetzt schleife ich das über die, über die Sache drüber.
+Okay. S.
+Achso, dann ist dann quasi immer zwei Leerzeichen.
+Ja, okay, klar.
+Ich weiß so nicht, warum ich das machen soll, aber dann machen wir das halt so.
+Weil es schon da oben so schön furchtbar ist.
+Aha.
+Enten nehmen.
+Falls.
+Dann ein S.
+Dann wird gepaddelt.
+Info.
+Okay, ja.
+Aber da fehlt jetzt mein, das mit dem for.
+Okay, dann machen wir erst einmal.
+Erst einmal.
+For Entry in Calendar Entries.
+Ja. Okay. Und dann will ich das aber nicht printen, sondern ich will irgendwie einen String haben.
+Ähm, Table.
+Fängt es an mit einer leeren Zeile?
+Nein, tut es nicht.
+Das heißt, es fängt einfach so an.
+Und dann machen wir.
+An dieser Stelle.
+Table ist gleich.
+Table plus.
+Das hier.
+Das nicht.
+Warum ist der eine.
+Moment.
+Wenn ich das hier habe.
+Das schlägt mir dann vielleicht komplett was anderes vor.
+Nehmen wir mal sowas.
+Achso, ich mach das vielleicht nochmal komplett weg.
+Und jetzt will ich.
+Table plus gleich.
+Genau.
+Nur, dass das am Ende nicht gepaddelt ist.
+Oder?
+Ja, doch.
+Es sieht so aus, als ob das hier nicht gepaddelt ist.
+Und deswegen mache ich hier.
+Was soll ich machen?
+Padded with spaces to 8 at the front.
+Also.
+Add str.
+Von dem da.
+Achso.
+Und zwar at the front.
+Also.
+Okay. Und hier.
+Ah, das hat jetzt Info genommen.
+Ich will.
+Achso, nee.
+Genau.
+Es nimmt erst.
+Den Name.
+Könnte den auf N nehmen.
+Und zwar.
+At the back.
+At the back.
+Und dann.
+Ah, okay.
+Und vorne muss ich jetzt.
+Muss ich das da noch machen.
+Das heißt.
+Hier kann ich machen.
+S plus.
+Achso.
+S plus.
+Genau das.
+Sollte auch so stimmen.
+Passwort wird nicht gepaddelt.
+Okay. Ich nehme das hier erst mal.
+Und probiere das hier aus.
+Ah, ich habe davon nicht was genommen.
+Ups.
+Das kann ich besser machen, oder?
+Okay. Nochmal.
+Login.
+Name, Passwort.
+Und jetzt möchte ich.
+Will this ist das hier oder nicht.
+Git.
+Will.
+Entschuldigung.
+Nein.
+Ha.
+Ah, ich habe den Terminal getönt.
+Hm.
+Das wäre vielleicht ganz hilfreich das zu machen.
+Dann gebe ich mal das noch mal raus.
+Ich weiß gar nicht ob ich hier jetzt mal raus eingehen müsste.
+Aber ich mach mal.
+Mein Name ist immer noch Leon.
+Passwort ist immer noch entzündet.
+Passwort ist immer noch entzündet.
+Drei, vier.
+Bin ich eingeloggt.
+New List.
+Das sieht schief aus.
+Was habe ich vergessen?
+Habe ich etwas vergessen?
+Also die beiden da fangen an der gleichen Stelle an.
+Das ist richtig.
+Dachte ich.
+Ja. Moment.
+Habe ich da.
+Das sieht nicht so aus als ob ich hier zwei Leerzeichen zwischen vergesse.
+Das sind genau zwei Leerzeichen.
+Das Problem ist das der längste Name kürzer ist.
+Soll ich das hier.
+Including the Caption Name.
+Aha.
+Also aus dem.
+Das heißt ich kann hier machen.
+Kann ich vermutlich machen Max.
+Aus dem da.
+Und dann .
+Was?
+Nein, nein, nein.
+Achso.
+Genau.
+Und hier will ich natürlich das gleiche machen.
+Von .
+Was war es?
+Info.
+Komm mal zu.
+Okay. Ja, ja.
+Skulpturen.
+Einloggen.
+Habe ich eingeloggt.
+View List.
+Das sieht ja schon gleich viel ordentlicher aus.
+Okay. Dann.
+Lassen wir das erst einmal so.
+Das ist was ich sollte.
+Ich mache mir mal einen zweiten Eindruck dazu.
+Und .
+Lassen wir den anderen so.
+Add Entry.
+Und das ist jetzt.
+Diesmal ist es ganz anders als vorher.
+Okay. Das war jetzt glaube ich immer noch nicht besonders intelligent.
+Weil er die gleiche Länge hat wie vorher.
+Deswegen mache ich einfach direkt mal noch eins.
+Und das ist jetzt mein .
+Ja. Keine Ahnung.
+Uni oder HIZ.
+Sowas.
+Info.
+Das von mir ist.
+Nehmen wir mal irgendwas.
+Hochschul.
+IT.
+Zentrum.
+Und das Passwort ist.
+789.
+Irgendwas.
+Ja. Und wenn ich View List mache.
+Okay. Scheinbar richtig gepaddelt überall.
+Das hier sind auch.
+Das müssten zwei Entries sein.
+Das müsste eine.
+Ja. Okay. Sieht richtig aus.
+Dann.
+Get Entry ist als nächstes dran.
+Ein Entry von einem.
+User by Name.
+Das heißt.
+Ja. Ich will ja nicht nochmal zu du hinschreiben.
+Das heißt.
+Was schmeckt mit der Koppel?
+Vorher ich will eigentlich.
+Entry if it exists as none.
+Okay. Das heißt.
+If.
+Session query.
+Genau.
+Filter by is not none.
+Dann wird es returned.
+Moment mal.
+Also.
+Wir füllen ob es ein Entry gibt.
+Der den richtigen Namen hat.
+Und dann returnen wir.
+Entsprechenden Entry.
+Ja. Okay. Aber es gibt diesmal keine Session.
+Get Entry.
+Das heißt.
+Wo.
+Wie komme ich denn an meinem.
+König.
+User ran.
+Moment mal.
+Entry.
+Weiß ich bei den ganzen Phrasen.
+Das man auch mal für Session machen kann.
+Ja. Entry für Menüs und Menü.
+Dann gucke ich mal kurz in die.
+Bei den Models.
+Im Endeffekt habe ich hier nur die User.
+Und der hat aber ja Entries.
+Also.
+Könnte das eigentlich.
+Schaffen gehen.
+Also.
+Okay. Also der Vorschlag hier ist auf jeden Fall schon mal nicht besonders viel frei.
+Sondern.
+Ich kann quasi gucken.
+If.
+Entries.
+Filter by Name.
+Name first.
+Genau.
+Das wäre dann das was ich mache.
+Also.
+Wenn ich diesmal nicht die Session habe.
+Testen.
+Passwort.
+Und jetzt möchte ich.
+Das ist vermutlich Show Entry.
+Was habe ich denn da unter einem?
+BH.
+Aha.
+Das ist nicht gut.
+Show Entry.
+Traceback.
+Jetzt.
+Filterby.
+Achso.
+Wenn ich da Filterby verwende.
+Was es aber hier nicht gibt.
+Also nein.
+Was ist das?
+Was ist dieses Relationship?
+Was?
+Nein.
+Oh nein.
+Achso.
+Nein.
+Filterby gibt es nicht.
+Ich benutze Entries.
+Model.
+Ich gehe jetzt mal davon aus.
+Dass es denn das hier ist.
+Okay. Was ist das?
+Was hier?
+Aber keine Ahnung.
+Nein.
+Okay. Instrumented List.
+Kann.
+Warum kann man auf eine Instrumented List nicht filtern?
+Okay. Muss ich.
+Kann ich hier eine.
+Achso.
+Der Fehler ist jetzt schon vorhin gekommen.
+Das heißt.
+Kann ich.
+Gibt es irgendwie ein Contains?
+Contains nennen.
+Ich kann hier eigentlich auch Barverklemmen.
+Und dann kann man das einfach ausprobieren.
+Ob es zumindest noch ein bisschen hat.
+Leo.
+Oh.
+Achso.
+Kannst du den Zahn jetzt ausdrücken?
+Und dann will ich.
+Show Entry machen.
+DH ist es genannt.
+Contains gibt es auch nicht.
+Okay. Dann.
+Wie heißt das?
+Instrumented List.
+So genannt.
+Okay. Instrumented List.
+Suche ich das hier?
+Da.
+Python, Instrumented, List, Filter.
+Has no attribute filter.
+Genau.
+Couldn't get resource, has no attribute, bla bla.
+Dann.
+Was sagt das hier?
+Aha.
+Ich glaube nicht, dass das tatsächlich ist, was ich tun würde.
+Es ist die Frage, ob es hier irgendwie andere Sachen gibt, die vorgeschlagen sind, um das hier zu filtern, oder ob ich nicht dann einfach wirklich.
+Ja, oder ob ich das dann einfach manuell gerade mache.
+Was halt ein bisschen hässlich ist, aber derzeit kann ich das so machen.
+Okay, dann.
+Was ist denn das?
+Vielleicht muss ich es ja überhaupt nicht selber machen, vielleicht macht mir das ja was.
+Dann.
+Ich schreib mal einen Kommentar.
+Filter.
+Entries.
+In.
+Current user.
+By name.
+Genau, das ist das, was ich machen will.
+Return the first entry.
+Sure.
+Und zwar.
+Ja, das ist natürlich immer noch.
+Okay. Dann lasse ich das mal wechseln.
+Muss ich nicht hier vorne drücken?
+Nein, muss ich nicht.
+Ha!
+Was ist das hier?
+Inverted Convert.
+Achso.
+Achso, vielleicht geht das einfach nur nicht, weil ich es gerade nur ein- und zwar ausbauen will.
+Jetzt zeigt es mir noch nicht mal eine schöne, , ja, , Lightbulb an.
+Ich verlasse es erstmal.
+Na gut.
+Dann.
+Machen wir mal vor.
+Entry.
+Genau.
+Return Entry.
+Und das müsste da jetzt eigentlich durchgehen.
+Das müsste da gleich einen Job machen.
+Glaub ich.
+Wie die.
+Das steht mir voll.
+Probier das mal aus.
+Show Entry.
+Okay. Ja, ich hab mich einfach nur ein bisschen dumm angestellt.
+Na gut.
+Es gibt ja auch nicht wirklich einen Grund, hier wirklich Filter zu verwenden, wenn ich sowieso wenig returne.
+Ehrlicherweise.
+Und jetzt möchte ich Update machen.
+Das ist quasi das gleiche, nur dass ich dann nicht returne, oder nicht?
+Das heißt.
+Ich.
+Ah, aber hier kriege ich jetzt wieder die Session.
+Okay. Das heißt, ich habe die Session, , den Entry, den ich jetzt verwende.
+Das heißt, ich habe die Session, , den Entry, den ich updaten soll.
+Äh, den neuen Namen.
+Äh, okay.
+Jetzt ist natürlich die Frage, ist das.
+Entry wahrscheinlich soll ich die alte Entry mit neuer Name, Info, Passwort ersetzen.
+Das heißt, ah das returnt auch nichts.
+Okay, das heißt ich gehe hier immer noch die Entries durch.
+Entry in Session.ql Entry.
+Also das hier würde nur gucken, ob es tatsächlich auch der gleiche Name.
+Achso ne das ist sowieso Quatsch, weil das nach meinem Namen guckt.
+Ich gehe davon aus, dass ich den Entry da ersetzen kann.
+Also dass ich den Entry durch Name, Info, Passwort ersetzen soll.
+Das heißt ich will...
+Das Wort für Wort durchzugeben wäre schon praktisch.
+So genau, ich will die hier einfach nur durchgehen.
+Und ich will sie eigentlich vorher nicht filtern.
+Ah doch, ich kann natürlich sie filtern, ob ihre...
+Ob die User-ID, die sie haben...
+Achso, Moment, doch, das ist doch richtig, weil das hier ist nicht deren Name, sondern das ist der Name aus diesem Entry-Objekt.
+Und das hier müsste allerdings dieser sein.
+Ich nenne das hier mal lieber um.
+Und dann mache ich hier auch S-Entry.
+So, weil es nämlich der Entry aus der Session ist.
+Und nachdem ich das gemacht habe, müsste ich hier eigentlich rausgehen können.
+Es dürfte ja sowieso immer nur eine Entry existieren mit dem jeweiligen...
+Also wo das hier drauf zutrifft.
+Weil wir ja vorher geguckt haben, ob schon eine mit dem Namen existiert.
+Okay, dann probieren wir das mal aus.
+Passwort ist immer noch das gleiche.
+Dann will ich erstmal noch mal kurz meine ganze Liste sehen.
+GitHub, GitLab und HiZ.
+Und jetzt war mal was, was ich machen wollte.
+Ich wollte jetzt Update...
+Edit-Entry ist das.
+Edit-Entry, das heißt ich will jetzt den GL updaten.
+New Name...
+Ah, if you do not intend to change it.
+Aber das ist eine Funktionalität, die ich jetzt nicht machen muss, oder?
+Probieren wir das aus.
+Jetzt will ich noch mal die Liste sehen.
+Okay, das scheint funktioniert zu haben.
+Ähm, okay.
+Dann...
+Achso, das hier ist nicht relevant.
+Ich habe alle Jails gemacht, sage ich nicht.
+Ich gucke noch mal kurz das Design durch.
+Hier, Tasks.
+Das habe ich jetzt nicht gemacht.
+Ich weiß nicht, ob ich das noch tun soll, aber...
+Ich weiß leider überhaupt nicht, wie dieses Package funktioniert.
+The product is designed to be recognized without having anything implemented, as long as your code does not raise any errors.
+Okay, dann...
+Sie fragen, ob ich fertig bin, oder ob ich auch noch Tests schreiben soll.
+Ja, also ich glaube nicht, dass das nötig ist.
+Soll ich wieder kommen?

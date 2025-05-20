@@ -1,0 +1,1398 @@
+Ich starte den Timer und dann kannst du da einmal auf Start Recording drücken.
+Ich würde auch gerne mal Zeit für mich selbst haben.
+Auf die Masche.
+Fertig.
+Los.
+So, Tick, Tick, Uhr läuft, Sebastian.
+Demoistandard.pdf.
+Öffentlich.
+Wie kriegen wir das aus?
+Scheiße.
+Ich studiere das Fragen nicht.
+Bitte nicht durcheinander reden.
+Das wäre mir nicht wichtig.
+Du darfst nichts sagen.
+Ach du Scheiße.
+Pfeifen und Peitschirm, ja.
+Softwareprogramming, ja.
+To do müssen wir machen.
+Ah, to do.
+Left click.
+Nur in der DB-Pile.
+Ja. Own tests.
+Um Gottes Willen, wir sind am Software-Engineering der Stuhl.
+Scheiße.
+Das machen wir nicht.
+Das kenne ich nicht.
+Okay, wir können Tests hier laufen lassen.
+On startup.
+Neuer Account oder Login.
+User can view a list.
+View a particular ad in your engine.
+Ja. Ja. Gut.
+Dürfen wir das
+Ich darf dir keine Fragen
+Dann hau das doch mal nach
+Ja, mach das weg.
+Hau die Beschreibung mal hier.
+Ja, genau.
+Du arbeitest dich schon mal in den Code ein.
+Main.py.
+Das lädt alles nicht.
+Was ist das?
+Jetzt.
+Du guckst dir da, was wir da machen müssen.
+Ich lese dir da mal weiter.
+Alles klar.
+Ich dachte, es wird fertig, was du gelesen hast.
+Brauchst du die Maus?
+Ja, Moment nicht.
+Ja, jetzt hier.
+So, let's go.
+Oh, la, la, la, la.
+Das ist ja mega.
+Stell dir vor, du kriegst eigentlich auch Gerichte aus dem Off.
+Ja, ich brauch die Maus.
+Na, es ist fertig.
+Ich weiß, was wir tun müssen.
+Wir müssen jetzt hier
+So, okay.
+Alter.
+Okay, das sind nicht so viele.
+Alter.
+Perfekt.
+Also
+Petzer.
+Was ist das denn mit Co-Pilot?
+Hätte das schon gemacht einfach.
+Ja. Alter.
+Scheiße, okay.
+The text is, how long
+Was?
+At the back and at the front?
+Ich glaub es ja nett.
+Okay, das geht irgendwie so.
+Oh, .
+Jetzt will er das Kommentar nur mal fertig durch, ja?
+Jetzt kommt jemand.
+Tipp mal auf die Tastatur.
+Text, Doppelpunkt, okay.
+Ja, aber ich brauch einen Browser.
+Da.
+Ja, google mal Python, Python.
+So, erstmal
+Auto-Padding-Link.
+Keine Ahnung.
+Haben wir hier Ton?
+Ja, sicherlich.
+Oder ich brauch auch
+Nicht da.
+Music for Concentration.
+Steht bitte nicht.
+Sonst kommt Whisper nicht damit klar, wenn ich Hintergrundmusik anmache.
+Ah, scheiße.
+Aber die Focus
+Okay, ich mach die Musik aus.
+Wir gucken nur
+Wir gucken nur das Video.
+Das Video, ja.
+Nein!
+Was ist denn das?
+Seit wann ist YouTube so scheiße?
+Mit Nature.
+Das ist doch geil.
+So, okay.
+Das ist ein Livestream.
+Du kannst kommentieren, ja?
+Wenn ich dir mal was
+Stell mal die Frage in den Chat.
+Python, Format, String, Pad with Spaces.
+Du musst aufpassen.
+Ja, ich lese mal die Funktion durch.
+Doppelpunkt.
+Okay, filling a space in there.
+Da ist ja gar kein To-do in der Funktion.
+Front.
+Dann müssen wir
+F-Text.
+Hey, ich denke hier gar nichts.
+Ah, aber dann
+Doppelpunkt.
+Total.
+Das kann ja gar nichts.
+Length.
+Kleiner Space.
+So, funktioniert das?
+Das kann doch nicht funktionieren.
+Kannst du mir nochmal in Worte fassen, was du gerade tust?
+Ja, ich habe dieses Tutorial da gesehen bei Geeks4Geeks.
+Und 
+Ah, .ljust ist das.
+Ja, das kenne ich.
+Das kenne ich.
+Das kenne ich auch.
+Das ist mega.
+Text.ljust.
+Wie soll ich das länger machen, oder?
+Left ist in rechts.
+Left ist links.
+Nein, das ist da vorn.
+Nee, aber ljust, schau mal, das macht das rechts.
+Richtig.
+Dann machen wir hier not vorn.
+Okay, und dann machen wir text.ljust.
+Ja, mega.
+Gibt es das?
+Ja, ja, gibt es.
+Kenne ich.
+Ah, da, schau mal, da würde es gehen.
+So wollte ich das machen.
+Ja, aber welche Python-Version haben wir denn?
+Finden wir nicht heraus.
+Das stand sicherlich in der Doku.
+So, perfekt.
+So, let's go.
+Gut, ich weiß, was die nächste Funktion macht.
+Leider ist sie schon geschrieben.
+So, new user.
+Add new user to the database.
+Wo ist denn deine Database?
+Die haben wir erstellt, wenn sie noch nicht da ist.
+Aber was ist denn das jetzt hier?
+Session?
+Kann ich denn darauf aufrufen?
+Nichts.
+Schlecht.
+Wir sollten vielleicht tatsächlich uns überlegen, wie wir das ausfüllen können.
+Hier, play.
+Ah, geil.
+Login.
+Login.
+Name?
+Simon.
+Passwort?
+Passwort.
+Passwort.
+Passwort.
+Du hast Passwort.
+Das ist wrong.
+Ach, ich brauche einen new user.
+Simon.
+pw.
+Das ist schneller.
+Exists?
+Alter, was ist das denn für eine Scheiße?
+This view is read only.
+Alter Falter.
+Jetzt müssen wir erstmal
+Jetzt haben wir ein Problem.
+Ah, ich habe da eine Idee.
+Ich habe da eine Idee.
+Ja, ja, ja.
+Du nimmst das ran?
+Nee.
+Du musst gleich übernehmen.
+Du kannst gleich übernehmen.
+Wir machen hier Sebastian.
+Ja. pw.
+Das gibt es auch schon.
+Ja, die Funktion ist nicht beschrieben.
+Ah, der printet das.
+Ja, der printet das.
+Ah, dann müssen wir jetzt hier rausfinden, was wir tun können.
+Alter, ich habe so gar keine Ahnung von stop and rerun.
+Ja, bitte.
+Macht er das jetzt?
+Ja, das ist ja mega.
+Nee, das hat ja gar nicht funktioniert.
+Aber das ist unsere Session.
+Siehst du das?
+Jetzt haben wir es.
+Schau mal, jetzt sind wir da.
+Geil.
+So, jetzt müssen wir hier gucken.
+Das ist Session.
+Was können wir auf dieser Session machen?
+Puh, ganz schön viel.
+Ja, aber das ist doch hier SQL-Alchemy.
+Such doch Google.
+Ja, SQL-Alchemy.
+Doch, doch.
+Fertig.
+Session 18.
+Das klingt doch eigentlich gar nicht verkehrt.
+Oder die Docs brauchen doch gar nicht so viel.
+Doch, doch.
+Jetzt ganz kurz 20 Sekunden zu konzentrieren.
+Habe ich so viel Zeit.
+Seit 15 habe ich einen Termin in der Metro.
+Was ist denn das hier?
+Session.et?
+Das haben wir noch nie gesehen.
+Wo kann ich denn jetzt hier SQL schreiben?
+Ich glaube, das ist eine API.
+Ich glaube, du schreibst gar kein SQL, oder?
+Das ist ganz schlecht.
+Warum habe ich denn
+Ich habe hier ja gar keinen Plan, was ich tun soll.
+Checks.
+DB Session.
+Wie kann man denn jetzt hier
+Ich würde jetzt hier gerne auf dieser Session irgendwas machen.
+Wie machen wir denn das jetzt?
+Also, da haben wir jetzt schon 7,5 Minuten.
+Auf der Arbeit hätte ich jetzt einen Kaffee gekocht in der Zeit.
+Also, wir sind gut in der Zeit.
+Schau mal, da gibt es class User.
+Das ist der User.
+Ah, und das ist die Entry.
+Und die Entry hauen wir jetzt einfach in die Datenbank.
+Da gibt es auch noch eine Option.
+.py Aber das ist ja gar nicht, was wir brauchen.
+Terminal.py Test.py Ah, da ist die Datenbank.
+Da können wir gucken, was für Passwörter schon drin sind.
+Ich glaube, die ist nicht richtig geändert.
+Boah, schau mal wieder.
+Da.
+Oh.
+Ja. Lass das doch mal so parallel offen.
+Machen wir Steuerung.
+Hier, genau.
+Das geht nicht.
+Das macht einen neuen Test.
+Nee, mach doch mal.
+Sag mal.
+Sag mal, das ist nicht das.
+Ach, das ist nicht rauskommen.
+Ja, aber was ist die?
+Jetzt haben wir
+Ja, jetzt ist das doch schlecht hier.
+Wir haben doch jetzt immer noch gar keine Ahnung, was wir machen so rein.
+Ja, aber kannst du nicht mal wenigstens zwei Fenster parallel aufmachen?
+Weil das
+Ja, dann können wir beide.
+Was würdest du dir angucken?
+Ich würde gerne
+Ja, da, wo die To-Dos sind.
+Ich würde das Kommentar noch mal lesen.
+Das ist ja alles, was GuitarPilot bekommen würde.
+Ja, das würde auch einfach dann funktionieren.
+Ich habe gar keine Ahnung.
+Was bedeutet hier Punkt?
+Act?
+Oder macht Beginn?
+Sag doch mal.
+Nee, ich denke, das Punkt Beginn ist in der Main.
+Guck mal.
+Geh noch mal in die Main.
+Wo wird denn das aufgerufen?
+Das doch mal ganz
+Wo ist die Main?
+Ah, da ist die Engine.
+Start.
+Guck da.
+Da steht Create Session.
+Session, Session.
+Welcome Query.
+Session.
+Nein.
+Nein, das ist nicht Closed.
+Nee, nicht Closed.
+Welcome Query.
+Ja, da haben wir also diese Session.
+Create Session.
+Die macht Create All.
+Und returnt eine Session mit der Engine.
+Und wem returnt ihr sie?
+Sich selbst?
+Nee, keine Ahnung.
+Alter.
+Control W macht auch nichts.
+Ah, jetzt habe ich RCE gefunden gerade.
+Aber ich weiß nicht wie.
+Ja, .
+Ja. Also was macht Start?
+Start ist doch wichtig.
+Start.
+So Create.
+Öffnen.
+Nee.
+Das ist dasselbe.
+Ja, das macht die Create Session.
+Wir haben also so eine Session mit einer Engine.
+Aber ich habe keine Ahnung, wie man das bedient.
+Das ist das Problem.
+Dafür hatte ich doch gleich dich mitgenommen.
+Mich?
+Ja, dachte ich.
+Was haben wir denn für ein Problem?
+Ja. Ja. Ja. Aber mach doch nochmal die Beschreibung auf.
+Hey, warte.
+Ich würde jetzt halt einfach irgendwie so mal.
+Da gibt es doch so SQL Live oder sowas.
+Das würde ich halt.
+Also diese SQL Alchemy, da kombinationiere ich damit klar.
+Ich hätte eigentlich jetzt lieber SQL Live.
+Das heißt, du willst jetzt die Stellen ändern, die du nicht ändern sollst?
+Ja, ich habe keine Ahnung.
+Wir müssen uns jetzt erstmal ein SQL Alchemy Tutorial.
+Nein, mach doch nochmal die Beschreibung auf.
+Da steht doch sicherlich in der Beschreibung Schritt für Schritt drin, was man tun muss.
+Da steht überhaupt nichts drin.
+Wir müssen jetzt diesen Crashkurs angucken.
+Ja, das ist einfach so.
+Ne, das kann ich jetzt nicht sagen.
+Das ist eine sehr bekannte Hautcreme Marke von der Werbung, die wir gerade gesehen haben.
+Okay, der macht das auch so.
+Der hat da auch so eine Klasse.
+Schau.
+Uh, der ist ja wahr.
+Der ist sehr sonnig geblieben.
+Alter, was?
+Wir müssen an uns halten.
+Okay, also wir haben jetzt hier so einen User.
+Wir haben so eine User-Klasse.
+Schau mal, ist das geil.
+Ich glaube, mit dieser User-Klasse kann man nichts anderes anfangen.
+Aber die User-Klasse ist doch gegeben.
+Ja, genau.
+Aber ich glaube, wir müssen die verwenden.
+Aber haben wir nicht den
+Ah, wir müssen so einen User erstellen.
+Ja, genau.
+Entschuldigung.
+Also objektorientierte Programmierung.
+Wir müssen hier jetzt login.
+Login.
+User.
+User.
+Ah, nee, das geht nicht.
+So geht das wahrscheinlich nicht.
+User gleich.
+New User.
+Nee, auch nicht.
+Oder nur so.
+Ohne New.
+Das hat hier unser Big-Data-Engineering-Typ mal erklärt.
+Ah, jetzt müssen wir das Session gleich.
+Session.
+Ja, Session gleich Session.
+Name.
+Name gleich.
+Name.
+Ich glaube, das Session gleich brauchst du schon nicht mehr, oder?
+Ah, das brauchst du.
+Aber das ist rot.
+Das klingt nicht gut.
+Das ist
+Der braucht ID, Name, Passwort.
+Hä, wie kann ich das denn jetzt in diese Datenbank?
+Das verstehe ich gar nicht.
+Hä?
+Ah, da steht aber so Unterschied, Unterschied, Themen.
+Jetzt muss ich doch irgendwie diesem SQL-Alchemy-Ding da sagen, dass das jetzt seine
+Okay, wir haben jetzt hier so ein Schema.
+Komm.
+Creating the database tables.
+Ah, ist alles schon.
+Wir haben doch schon alles.
+Creating data in the database.
+Yes.
+So, okay.
+Komm, ja, ja, ja.
+Der braucht noch.
+Der hat nichts.
+So, okay.
+Ah, wir haben das Session.
+So, ja, mega.
+So, okay.
+User.
+Das machen wir, oder?
+Aber wir müssen noch checken, ob der existiert.
+Wir wollen doch
+Ah, hier, add entry.
+Geil.
+Siehst du das?
+User.
+Ah, ja, genau.
+Return false if there is already an entry with that name.
+Also mach erst mal ein Check, ob der existiert.
+Wie?
+Das macht der hier nicht.
+Ja, dann mach.
+Dann guck.
+Markier das mal.
+Markier mal diese Paragraph.
+Bis hier.
+Und da steht
+Ich glaub, das guckt der nicht.
+Ich hab wirklich überhaupt gar keinen Ahnung, was ich tun soll.
+Ich nehm du mal.
+Komm.
+Ich hab wirklich
+Nee, da.
+Guckste.
+Der ist gleich soweit.
+Du darfst ihn nicht pausieren.
+Der muss doch hier weiterbleiben.
+So, komm.
+Jetzt.
+Also, wir müssen so einen User machen.
+Mach mal hier einen new user gleich.
+Ja. Ja, das haben wir doch.
+Hier, guck mal.
+Wir haben hier so einen User und der
+Aber wir haben doch schon den current user.
+Shit.
+Aber was ist denn current?
+Warte.
+Ah, ja.
+Aber das interessiert mich.
+Ah, jetzt müssen wir .at.
+Ah, wir machen da .at.
+Das ist ja mal geil.
+Und da müssen wir jetzt doch new user.
+Nee, ohne new.
+Nee, wir müssen so einen Passwortrecord machen.
+Das ist ziemlich stressig, ne?
+Nein, nein, nein, nein.
+Wir machen da jetzt genau das, was wir schon gemacht haben.
+Ah, und dann musst du am Ende mitmachen.
+Sonst vergessen wir das.
+Wo ist denn hier unser User nochmal?
+Der ist in einem anderen Fall.
+Aber du kannst da so
+Boah.
+Das hat doch noch niemand geschafft, oder?
+Da, also jetzt hat Flo uns geschrieben.
+Das müssen wir jetzt
+Wir hätten Flo mitnehmen sollen.
+Scheiße.
+Tippen wir Flo noch vor?
+Nein.
+Kannst du den mal
+Schreib den mal.
+Dürfen wir Stackoverflow benutzen?
+Ja. Kannst du Flo sagen?
+Soll Stackoverflow gehen?
+Ich will das Projekt gerne schnell mal online veröffentlichen.
+Also, das darf man nicht.
+Also, aber es ist doch ganz easy.
+Also, guck mal.
+Wir haben
+Ja, aber komm.
+Also, ich langsam weiß nämlich nicht so grob, wie das funktioniert.
+Also.
+Wir haben ein Objekt.
+Guck dir mal dieses User-Objekt an.
+Nein.
+Komm, wir müssen die Session committen.
+Ja, okay.
+Komm mit in die Session zuerst.
+Das ist gut.
+Ja, gleich mal aufklicken.
+Jetzt Steuerung drücken.
+Geil.
+So, schau mal.
+Der hat jetzt hier Passwort ist Column String.
+Ah, und dann haben wir Entries.
+Und da haben wir so ein Entry.
+Wir müssen jetzt also so ein Entry machen.
+Ja. Kopier das doch mal.
+Ich brauch das.
+Ich muss das sehen.
+Kopier das mal und dann machen wir hier
+Oder mach das.
+Du musst das kopieren.
+Achso, müssen wir das?
+Ja, was heißt denn kopieren?
+Ich weiß auch nicht.
+So geht leider nur Übungen ran.
+Das stresst mich auch.
+Alles ist weg.
+Alles ist weg.
+Alles ist weg.
+Es ist wieder da.
+Also wir müssen hier eine new Entry machen.
+Add Entry.
+Mach mal hier Entry gleich Entry.
+Ja, Entry.
+Ich bin keine richtigen Kassaturen angewöhnt.
+Groß Entry.
+Entry gleich Entry.
+Ja, vielleicht können wir das auch noch für Google am Anfang der Zeit entfernen.
+Ja, mega.
+Okay, jetzt musst du da all diese Dinge dann übergeben, oder?
+Warte, wir müssen das unterstrich unterstrich init angucken.
+Das hat kein unterstrich unterstrich init.
+Gibt es hier irgendwie so ein new ID Generator oder so?
+ID gleich.
+Ja, wir brauchen was Uniques.
+Nee, ja, mach meistens random.
+Ja, ja.
+Ja, deswegen sag ich doch.
+Hier Entry Generator.
+Random mal.
+Ah, und dann noch int drumherum.
+Weil es ist ja Python.
+Ist Python.
+So, und dann müssen wir noch import mark machen.
+Okay, sehr gut.
+Ich glaube wir haben jetzt eine ID.
+Warum ist das gelb?
+Wissen wir nicht.
+Egal.
+So, jetzt brauchen wir eine User ID.
+Ja, das ist eins.
+Nee, was ist denn User ID?
+Wir brauchen die currentUser.id.
+Genau, plus eins.
+Nee, aber currentUser ist ja nicht der höchste User.
+Du musst die Datenmark doch sagen.
+Nee, nein, nein, nein, nein, nein.
+Das ist toll.
+Wir sollen doch für den currentUser was anlegen.
+User ist gleich currentUser.
+Name ist gleich Name.
+Passwort ist gleich Passwort.
+Wrend du programmierst, kann ich ja so ein bisschen was über die Geschichte von Perlprogramming erzlen.
+Vielleicht ist das ja ganz interessant.
+So, ich glaube wir haben das geschafft.
+Lass uns mal gucken.
+Hier, run.
+Run ist.
+Die unteren Sachen müssten, glaube ich, noch weg.
+Nee, das ist alles richtig.
+Okay, die User-Zeit ist.
+Das ist egal.
+So, login.
+Ah, wir müssen aber zuerst den Login.
+Ah, ah.
+Uh.
+Sieht gar nicht gut aus.
+Ja. Stahl ist das Problem.
+Ich glaube, es ist ein bisschen tiefer.
+Es ist falsch rum.
+Guck mal, die db.py, die haben wir ja bearbeitet.
+Ich befürchte fast, dass
+Ah, da muss Login.
+Login-User gleich User musst du hin.
+Guck mal, ruf doch, mach hier mal return.
+Ah, wir dürfen den User da nicht.
+Okay, warte.
+Wir müssen da return the user object.
+Ah, dann
+Das müssen wir jetzt irgendwie aus der Datenbank bekommen.
+Guck dir das mal an.
+Der hat so
+Warte, wir müssen da
+Ich habe jetzt nicht so gehört, die letzten 5 Minuten.
+Ja, immediately from the database.
+Ja!
+Das ist geil.
+Wir müssen es ein bisschen lauter machen.
+Der macht alles, was wir wollen.
+Ah, sollen wir den ins transcript bringen?
+So, we're going to learn how to
+Speak up.
+Ach so.
+Psst.
+Psst.
+So, jetzt.
+Guck dir das an.
+Wer macht das jetzt?
+Das schneidest du nachher zusammen.
+Ah, Query!
+Ja, mega.
+Okay, wir brauchen
+Aber wir wollen doch nur den Username query.
+Ja, wir wollen den
+Ja, das ist halt jetzt ein bisschen blöd.
+Das ist halt jetzt
+Da.
+ID.
+Was nehmen wir denn jetzt für eine ID da drin?
+Sollen wir da wieder
+Da haben wir halt den Würfel ein bisschen, oder?
+Oder wir lassen die einfach mal leer auf gut Glück.
+Das könnte gut sein.
+Und jetzt müssen wir noch all seine Passwörter wissen.
+Nee, wir lassen das einfach leer.
+So, und Session.query.
+Übrigens, du sollst genauso viel denken wie ich, Sebastian.
+Ich hab nicht das Gefühl, dass du das gerade tun musst.
+Das ist ganz wichtig.
+Also bei Pair-Programming lässt man sich das gegenseitig vorwerfen.
+Falls das sich jemand anhört.
+So, und das ist ja hoffentlich
+Hoffentlich gibt's da nur einen.
+Ja, das ist ein tolles Vorwort zu so einer Arbeit.
+Darum ist es wichtig.
+User object and thus else none sollen wir.
+Ja, das machen wir ganz einfach.
+Das ist, glaube ich, kein guter Stil.
+Egal.
+Geht hier nicht um guten Stil.
+Okay, komm, das funktioniert jetzt.
+Ich seh das schon.
+So, eins.
+Login.
+Ah, ah.
+Wrong.
+New user.
+Jetzt müssen wir einen neuen User machen.
+So, das war das Login.
+Der hat das getrackt.
+Ja, okay.
+Und hier machen wir den neuen User.
+So, das hatten wir vorher schon.
+User ist gleich nur User.
+Session.
+Add.
+Add.
+User.
+Nee, wir müssen ja erst checken.
+Ach, da wird bestimmt Fehler zu.
+Ja, ja, eben.
+Dann fängst du den.
+Du fängst den.
+Ja, ab geht's.
+Accept.
+Return false.
+Pass.
+Ja, ja, okay.
+User id, name, id müssen wir noch machen.
+Genau, da unten return true.
+Irgendwo.
+Ah, ist das stressig, ich kann schon nicht mehr tippen, ich krieg gleich
+Aber die Tastatur ist auch irgendwie miss, also ich bin
+Da, New User, hier haben wir die ID, hier haben wir das Passwort.
+Session.exe, was fehlt?
+Return.
+True.
+Ja, falsch.
+Und?
+Was fehlt?
+Commit.
+Richtig, das darfst du jetzt machen.
+Und dann Return True.
+Nein, wir müssen doch den User returnen.
+Was?
+Nee, True.
+Nee, ach nee, True.
+Okay, ja.
+So, mega.
+Okay, run it again.
+Bam, bam, bam.
+Ja, immer
+Hier.
+What?
+Ah, ah.
+Error.
+User exists.
+Das ist richtig, oder?
+Ich weiß es nicht.
+Scheiße.
+Nee, nee, wir haben hier irgendwo noch einen Fehler drin.
+Irgendwas, das ist halt, wenn man das so schreibt, ist das schlecht, ja.
+Oh, nein.
+Math has an attribute
+Was?
+Wie geht denn das dann?
+Hä, natürlich hat das ein
+Ja, aber dann mach doch erstmal eine 4 dahin.
+Das ist doch voll
+Ah, randint.
+Ach ja, das ist natürlich mega.
+Braucht das einen Intervall?
+Ja, das ist
+Ja, wir haben ja einen Intervall.
+Geil.
+Hä?
+Ach nee, das heißt random nicht mal.
+Wo ist denn das jetzt schon wieder?
+Ja, das ist random.
+Ja. Ja, ja, ja.
+Jetzt wird's
+Das hast du falsch geschrieben.
+Das hast du falsch geschrieben.
+Das hast du notiert.
+Das hast du falsch geschrieben.
+Ja, ich hab da jetzt ein ganz gutes Gefühl.
+Nein.
+Oh.
+Ah, ah.
+Yes!
+Bam!
+Login.
+Ah, ah.
+Yes!
+Lies doch was.
+Wrong.
+Ach so.
+Scheiße.
+Ah, weil da ist noch diese Dinger.
+Warte.
+Da unten, da ist auch noch ein Bug drin.
+Wo war denn das jetzt?
+Da müssen wir nicht auch was returnen?
+Returnen wir da überhaupt was bei dem Login?
+Fashion.query.user.
+Ah ja, das machen wir jetzt auch mal so.
+Und dann kommt da schon ein Mann zurück.
+Der kommt dann in den Stack Trace zurück.
+Das ist so
+So, ah, ah.
+Eins.
+Ah, ah.
+Oh, Instance.
+Was?
+Post Object.
+Was ist denn das?
+Das ist aber jetzt blöd.
+Oh, das sieht gar nicht gut aus.
+Was hat denn jetzt
+Wir müssen da wieder diesen Tipp dazu gucken.
+Hä?
+Der macht das aber so.
+Kannst du das mal printen?
+Wir sollen doch ganz viel printen.
+Printe doch einfach mal alles, was hier aus dieser Query zurückkommt.
+Ah, wir müssen da das nach dem Objekt User query.
+So, und jetzt kommen da hier zurück.
+Ah, das ist richtig geil.
+Ah, so.
+Geil.
+All users gleich.
+So, und jetzt was machen wir mit denen?
+Wir machen for user in all users.
+If.
+User.
+Gleich, gleich.
+Du kannst doch auch mit in einfach.
+If, if.
+User in all users.
+Nee, das geht nicht.
+Wir müssen doch jetzt hier den Name nehmen.
+Ist gleich, gleich.
+Name.
+Nee, das hättest du auch mappen können.
+Return true.
+Ach, return user.
+Return.
+Nein, so das Passwort checken, das ist hochwertig optional.
+Habe ich beschlossen.
+Also das hat LastPass auch nicht gemacht.
+Oh, user object.
+Ah, weil wir hier noch eine 0 haben.
+Sebastian, das hättest du auch mal auffallen können.
+Du musst nachdenken.
+Ja. Geil.
+Bäm.
+Kannst du das jetzt nicht noch fürs Passwort machen?
+Das darfst du jetzt machen.
+Guck mal, das kann ich sogar, glaube ich.
+Aber wir haben den Passwort ja zum Glück nicht gehasht, deshalb ist das auch einfacher.
+Oh, oh, oh.
+Ja, komm, wir müssen auch kurz ein Merge machen.
+Ach, ich wollte doch einfach nur.
+Ich wollte jetzt schön STRG D machen und dann geht alles.
+Haben wir das?
+Ja, das haben wir.
+Ja, aber irgendwie funktioniert das noch nicht ganz.
+Ja, jetzt so.
+Das hier wird schon lang.
+Nein.
+Weg mit der Zeile.
+Guck mal, es funktioniert doch.
+Es hat doch funktioniert.
+Da hat überhaupt nichts funktioniert.
+Natürlich, wenn der ungleich wäre, hätte der.
+Ah, nee, das hätte nicht funktioniert.
+Natürlich überhaupt nicht.
+So, wir haben den User jetzt.
+A, B.
+Faber.
+Falsch.
+A, A.
+Richtig.
+Bäm.
+So, okay, wir haben das jetzt.
+Jetzt haben wir das.
+Dieser Mensch da, der hat das einfach für uns gemacht.
+Und was ist das nächste Kapitel?
+Updating Data.
+Das brauchen wir jetzt sicherlich auch gleich.
+Ja, gucken.
+Nein, du darfst das nicht.
+Ja, komm.
+Du warst auf dem falschen Weg.
+Ja, schnell.
+Alter, komm.
+Nee, nicht.
+Nee, ich wollte nach Updates suchen.
+Guck mal, gibt es die hier?
+Boah, wie kann man das denn bitte hier schreiben?
+Update Entel.
+Ja, so.
+Wo sind wir?
+Da.
+Nein, wir haben jetzt Werbung.
+Von einem großen Chip-Hersteller, der in Magdeburg eine Fabrik baut.
+Ich will jetzt aber nicht den Namen nennen.
+Komm.
+Und jetzt von einer.
+Nee, da ist immer noch mehr Erwerbung.
+Komm, da gucken wir wrenddessen kurz die Natur an.
+Die ist wenigstens keine Erwerbung.
+Das ist blöd, du.
+Jetzt les mich mal.
+Update Entel.
+Ja, aber guck mal, kopier das doch mal.
+Guck mal hier, Update ist doch easy.
+So, wir sind gleich fertig.
+Wir haben hier noch gerade die Intimzone eines Mannes.
+Aber dann sind wir gleich fertig.
+Bitte.
+Ja, ja, ja, ich bin ja auch dafür.
+Wo war Update?
+Jetzt müssen wir alles nochmal anschauen.
+Limiting Read.
+Nein, Update Entel.
+Hier, Update Entel.
+Gib doch mal zum Ende, der scrollt doch eh nicht.
+Schau, da ist ja Peak da.
+Gleich ist hier Peak Intensity.
+Okay, wir haben den User.
+Also Query Fill.
+Nee, das Filter brauchen wir erst nicht.
+Wir haben dann den User.
+So, wir setzen dem seine Attribute.
+Und dann
+Tun wir das wieder rein, oder?
+Jetzt seid ihr aber schlecht, ihr.
+Update
+Punkt Commit.
+Das kann nicht funktionieren.
+Okay, Punkt Commit.
+So, Session Entry Debit.
+Entry Object to Update.
+Entry Punkt Name.
+Schreib da Entry Punkt Name.
+Groß.
+Nee, klein.
+Gleich.
+Name.
+Entry Punkt Info gleich.
+Info.
+Da gibt es keine Info für Entry, oder doch?
+Doch.
+Entry Punkt Passwort.
+Session Punkt Commit.
+Geil.
+So, schau mal, wir haben es geschafft.
+Ich glaube, wir können tauschen den Stuhl.
+Ich finde das hier sehr angenehm.
+So, jetzt müssen wir hier noch
+Wir müssen hier noch Get End Review von Current User.
+Wir müssen einen neuen User machen.
+Ich habe da jetzt so ein Ding geschrieben.
+Du hast überhaupt nichts gemacht.
+Show Entry.
+Da, View List.
+Ja, geil.
+Das funktioniert jetzt.
+Drei.
+Aber wir müssen jetzt ein Add Entry machen.
+Delete?
+Nee.
+Nee, Delete ist einfacher, oder?
+Ja, aber Add macht mehr Bock.
+Da, das haben wir schon gemacht.
+Tatsächlich.
+Das hat sogar funktioniert, oder?
+Nee, nee, nee.
+Weil da ist noch so ein
+Was sehe ich jetzt?
+Wo ist hier?
+So, okay.
+Entry haben wir.
+Okay, User.
+Den machen wir weg.
+Session Add Entry.
+Session Commit.
+So, bam.
+Jetzt, das wird jetzt, ne?
+So, New User.
+A, A.
+Eins.
+A, A.
+Drei.
+A, B, C.
+Oh.
+Und wir sind
+Das sieht gar nicht gut aus.
+in der 74.
+Die Session Add Entry hat nicht funktioniert.
+Aber blöd.
+Das ist jetzt aber echt blöd.
+Warum hat denn das jetzt nicht funktioniert?
+Tupel hat nein keinen Schar in den
+Boah, Boomba.
+Ungawunga.
+Da, Passwort.
+Das ist unterlined.
+Line too long.
+Das ist auch eine Line.
+Oh, two blank lines waren aber expected.
+Anni, da drüber.
+Hier auch.
+Nee, ist hier das Problem jetzt?
+Doch, two lines.
+Nee, too many.
+Ja. Boah, Alter, das stresst mich jetzt.
+Ja, aber jetzt, was machen wir denn damit?
+Ja, SI instance state gibt's.
+Kannst du das mal googeln?
+Kopier mal exakt die Nachricht nach Google.
+Stack Overflow, oder?
+Nee, okay, hier so.
+Bam.
+Da.
+Oh, oh.
+Das ist mir zu kompliziert.
+Hast du eigentlich geschaut, was Flo geschrieben hat?
+Da, backref.
+Should be a keyword argument.
+Wir müssen da eine backref table machen.
+Nee, das glaube ich nicht.
+Nee.
+Nee.
+Nee, nee, nee, nee.
+Also, ich glaube, du musst mit der
+Also, du hast doch so ein Key für jeden Datenbankend.
+Ja. Ich glaube, du musst mit diesem Key das Backdeben sagen.
+Ja, aber was ist denn so ein Backref?
+Was ist backpopulate in Cascade?
+Okay, komm, wir machen das einfach mal weg, oder?
+Vielleicht müssen wir jetzt dann
+Ich glaube nicht.
+Ich denke, habt ihr mir da jetzt optimistisch?
+Scheiße.
+Nee, wahrscheinlich müssen wir hier
+Vielleicht müssen wir hier den User wegmachen.
+Oder die User ID.
+Ja, aber hier steht doch unmapped instant.
+Also, das ist doch relativ eindeutig.
+Ja, aber wir haben halt irgendwo ein Tuple.
+So, da ist es schlecht.
+Sicher, dass wir hier nicht einfach irgendwas missen.
+Guck mal, wir haben eine ID, wir haben eine User ID, wir haben ein Name und ein Passwort.
+Aber da fehlt doch was.
+Da fehlt doch die Info.
+Ah, die Info.
+Und die User
+Die User ID, ja, der User Profil.
+Die Info fehlt.
+Info fehlt.
+Info.
+Info gleich Info.
+Ist das richtig?
+Ja, jetzt du darfst jetzt hier mal dich einloggen.
+Äh, new user.
+Ja, zwei.
+Ja, jetzt eins.
+Und danach die drei.
+Mensch, hör auf bitte.
+Ich habe meinen Passwort vergessen.
+Ah, Mensch.
+Hm, das war es wohl nicht.
+Ja. Ja, okay, aber vielleicht hat der da gleich so eine
+Ne, wir brauchen das nächste.
+Das Follow-Up-Video von dem.
+Wo der so über Backrefs redet.
+Wow, macht der viele.
+Ne, mit ORM?
+Oder CORE?
+Ja, mit ORM, glaube ich.
+Das brauchen wir jetzt.
+Kannst du
+Guck mal in die Requirements-Tags.
+Ich bin mir da nicht sicher.
+Das klingt
+Ne, das ist zu
+Mit JOIN, da.
+Ne, der tut doch tatsächlich in
+Das klingt doch tatsächlich nach
+Boah, cool.
+Das machen wir mal nicht.
+Ja, , was wolltest du angucken?
+Die Requirements.txt.
+Guck, wir brauchen
+Das ist die falsche Version.
+Ja, das sehe ich auch so.
+Ja, 
+Was machen wir denn jetzt?
+Sag mal, gibt es hier nachher noch so
+Müssen wir danach noch was ausfüllen?
+Oder
+Ich glaube, wir haben nicht so richtig performt bisher.
+Ich gehe hier nicht weg, bis mein Glas leer ist.
+Stimmt.
+Lass uns nochmal
+Ich glaube, wir müssen uns jetzt nochmal eine halbe Minute sammeln.
+Da bin ich ganz
+Schneid das einfach raus.
+Das ist okay, oder?
+Das war jetzt mal nicht der Führer bisher.
+Aber es ist ein Arbeitstag.
+Ja, okay, beim nächsten Cut
+Beim nächsten Cut arbeiten wir weiter.
+Aber meine Augen werden jetzt voll
+Ja, ich weiß.
+Ich muss jetzt
+Ich muss jetzt
+Ich muss jetzt
+Ich muss jetzt
+Ich muss jetzt
+Ich muss jetzt
+Ich muss jetzt
+Das war ein softer Cut.
+Das war ein softer Cut.
+Ja!
+Ja!
+Aber wir sind immer noch im Ball.
+Aber ich glaube, wir sind im Ball.
+Lass doch mal die Beschreibung aufmachen.
+Lass mal so
+Weißt du, wenn die Conclusion falsch ist, Weißt du, wenn die Conclusion falsch ist, dann war die Assumption schon falsch.
+dann war die Assumption schon falsch.
+Ja, okay.
+Aber das ist doch
+Wir haben doch hier
+Wir haben doch hier
+Da stand es die ganze Zeit!
+Doch, das ist doch.
+Da sind diese Packages, die fehlen.
+Da stand es die ganze Zeit!
+Da sind diese Packages, die fehlen.
+Die fehlen in der Requirements.txt Die fehlen in der Requirements.txt Nee, die Kohlerawa steht da.
+Nee, die Kohlerawa steht da.
+Click?
+Nee, das steht da auch ganz oben.
+Nee, die Kohlerawa steht da auch ganz oben.
+Und?
+Und?
+Nein, da
+Nein, da
+Click ist Teil 1.
+Ach, das ist da schon.
+Ach, das ist da schon.
+Ah, dann ist alles gut.
+Ah, dann ist alles gut.
+Der Hashname fehlt tatsächlich.
+Okay, install.
+Ah, du hast es getypohlt.
+Ah, du hast es getypohlt.
+Oh, no!
+Das hat jetzt ja gar nicht funktioniert.
+Oh, no!
+Wir brauchen den S Pablo JM-Live- Viewer.
+Wir brauchen den S Pablo JM-Live- Viewer.
+Da, guck dir den an.
+Achso.
+Download!
+Try the sample file.
+Haben wir das irgendwo?
+Nein.
+Haben wir das irgendwo?
+Nein, das haben wir nicht.
+Wir müssen es runterladen.
+Nein, da kann man noch Dinge reinprobieren.
+Nein, da kann man noch Dinge reinprobieren.
+Download.
+Nein.
+Nein.
+Wir sollen unsere Sachen da reinprobieren.
+Ach, nicht reindrücken.
+Wir sollen unsere Sachen da reintrobben.
+Wo ist denn wieder unser Ding?
+Da wollte ich doch gerade versuchen
+Wir sollen unsere Sachen da rein probieren.
+Da hat sich nix erstellt.
+Nee warte ich will hier mal eh, ist wohl..
+wie kann ich das, achso ich müsste das nochmal ausfinden oder was.
+Und jetzt mache ich einmal Q und jetzt sollte hier irgendwo eine Datei entstanden sein mit einer Datenbank oder?
+Joa das halte ich leider nicht.
+Das ist jetzt blöd.
+Hier Test-Dip, wo ist denn diese blöde Test-Dip?
+Bin ich bescheuert oder was?
+In VN, in VN-Spin-Python.
+Nee doch nicht.
+Da, VN-Spin-Python.
+Ist die da?
+Das ist ein Virtual Environment, so funktioniert das.
+Aber wo ist denn das Ding?
+Wo ist hier überhaupt eine Kommandozeile?
+Da.
+Oah, Falkenfels.
+Okay, ich glaube jetzt werden wir aber monitored.
+Ah man, ja ich brauche dieses, cool, ich brauche, ich muss das Ding finden.
+Hm, wo könnte das jetzt sein?
+Ah, in Slash-Scratch.
+Ach da!
+Ach, die ist da!
+Weißt du was mich da irritiert hat?
+Ich rede mit Simon gerade, ganz offensichtlich.
+Ist das hier dieses Python-Logo?
+Das fand ich total irritierend.
+Ah, wir haben ganz viele User mit unserem Passwort.
+Ach das ist, die ist persistent die Datenbank.
+Aber das heißt, dass wir ständig neue User mit dem Seitennamen hinzugefügt haben.
+Auch mit unserem Passwort.
+Aber das Passwort ist doch noch gehashed.
+Hä, wie kann das überhaupt funktionieren?
+Hä?
+Ja, bei Math.random halt sehr random.
+Ja, aber was ist denn hier?
+Ich habe doch die ganze Zeit das Passwort ungehashed verglichen.
+Ach so.
+Aber die Hash-Funktion war vorhin.
+Daran wird das liegen.
+Was machst du jetzt?
+Ich mache das aus.
+Wenn das jetzt funktioniert, dann will ich aber bitte den Sonderpreis.
+Ja, das funktioniert.
+Nichts.
+Aber jetzt haben wir
+Jetzt funktioniert das so richtig.
+Dass du jetzt auch das da als Passwort gehashed hast, kannst du jetzt auch als Passwort verwenden.
+Ja, das ist richtig geil.
+Das ist ja ziemlich sicher, verstehe ich.
+Wir können jetzt jetzt nämlich einloggen und diese A mit
+Den musst du jetzt reinkopieren.
+Ich glaube, Steuer.
+Hm, das geht also gar nicht.
+Das geht leider nicht.
+Okay, wir haben jetzt immer noch ein Problem.
+Wir können keine Sachen ansägen.
+Das macht unseren Passwort-Manager leider ein bisschen unusable.
+Aber ich habe jetzt also auch
+Haben wir heute noch mal diesen Vor
+Also das muss man jetzt halt verstehen.
+Boah, der war schlecht kommentiert.
+Puh.
+Das ist ja noch nicht mal Markdown.
+Das fände ich jetzt unangenehm, wenn ich da reinlese.
+Ist das hier so rechtsextreme Werbung?
+Nee.
+Hä?
+Okay, nee.
+The blah blah part is actually quite important.
+Ja. Na komm, wir machen was anderes, oder?
+Wir müssen jetzt ein bisschen Motivation finden.
+Wir haben noch zehn Minuten Zeit.
+Komm, wir suchen mal noch ein anderes To-do.
+Und dann, da gibt es auch nur noch zwei.
+Update.
+Haben wir doch gemacht.
+Ah nee, da, get.
+Das haben wir doch schon implementiert weiter oben.
+Wir haben noch
+Wie cremen wir schon das
+Ja, ich habe doch da hier extra alles
+Das ist das mit dem Filter.
+Wir müssen wieder zu dem Tipp zurück.
+Wo ist der?
+Da, da, da.
+Wo war das?
+Das ist das falsche Video.
+Da, nein.
+Ja, da.
+Wo ist der mit dem Filter?
+Da, Filter.
+Das ist didaktisch wertvoll, diese Aufgabe.
+Jedes Kapitel in dem Video wird einmal hier dargenommen.
+Okay, local session, du darfst.
+Du machst das.
+Session.queryUser Das ist hier aber auch falsch.
+Wir haben keine Session.
+Mach global session, das passt.
+Nee, oder nee, warte.
+Ah, das ist in dem currentUser schon drin, oder?
+Das ist im currentUser.
+Ja, da, .entries.
+Nee, das geht jetzt aber nicht.
+Du musst über die Liste drüber etablieren.
+Ja, komm, das machst du.
+Ja, so.
+Vor, Entry, currentUser.entries .entries?
+Ja, okay.
+if entry.name gleich gleich name return entry Geil.
+Und dann unten return none.
+Mega, ich glaube, wir haben performt.
+Das ist jetzt richtig.
+Das ist jetzt richtig.
+Da bin ich optimistisch.
+Wo war denn das letzte ToDo?
+Das letzte ToDo?
+Das auch nicht.
+Nein, nein, das funktioniert.
+Da ist das letzte ToDo.
+Ich schreibe schon mal.
+Ah, deleting data.
+Jetzt muss man ein bisschen vorspulen.
+Ja. Geil.
+Ah, du brauchst wieder den UserToDelete.
+Aber wir haben den UserToDelete schon, oder?
+Ja, mega.
+Nein, brauchen wir nicht.
+Wir haben den User schon.
+Da, wir müssen ganz am Ende.
+Da, Session.delete User.delete Das gibt es nicht, habe ich das Gefühl.
+Der kann das Autocomplete nicht.
+Das konnte er schon die ganze Zeit nicht.
+Wirklich.
+Das commit haben wir vorher auch geschrieben.
+Okay, currentUser.
+Ah, warte, ich glaube, die soll was komplett anderes machen, die Prozedur.
+Ja, egal, das probieren wir mal aus.
+Das ist gut.
+So, das schaffst du du da raus.
+Das macht mir Stress.
+Oh, jetzt fehlt gar nichts mehr.
+Soll was ganz anderes machen.
+Wir machen jetzt hier User A.
+Ja, und jetzt nimmst du ins Login als User A.
+Und jetzt deleten wir den.
+Fünf.
+Das ist jetzt egal.
+Kannst du mal den SQL-Führer aufmachen?
+Mach den SQL-Führer auf.
+Ja, warte, aber warum hatten wir das jetzt?
+Jetzt sind wir da eingeloggt, aber jetzt machen wir hier mal View List.
+Was ist denn das jetzt hier?
+Logout.
+L.
+Jetzt Login.
+Warte.
+Nein.
+Eins.
+Jetzt können wir es nicht mehr einloggen, oder?
+Warum geht denn das immer noch?
+Weil wir nicht committed haben.
+Nein, Sven, wir haben auch noch 17 Mal A in der Datenbank.
+Nein, Sven, wir haben auch noch 17 Mal A in der Datenbank.
+Nein, Sven, wir haben auch noch 17 Mal A in der Datenbank.
+Stimmt, okay, wir machen das jetzt mit User B.
+Löscht doch mal die Test-Datei.
+Nein, die ist mit Antifa-Datei B.
+Nein, die ist mit Antifa-Datei B.
+Test-Datei B.
+Das schicken wir zum Customer.
+Das schicken wir zum Customer.
+So, okay.
+Jetzt hier machen wir fünf, den Delete-Entry A.
+Okay, Logout.
+Und jetzt checken wir Login als B mit B.
+Und jetzt checken wir Login als B mit B.
+Ja, das geht nicht mehr.
+Da, schau mal, was der macht.
+Ich will diesen Führer haben.
+Wo ist dieser Führer?
+Ich dachte, wir hatten so einen Führer.
+Ich dachte, wir hatten so einen Führer.
+Wir haben mehrere Browser-Finster offen.
+Wir haben den Führer gar nicht mehr, oder was?
+Wir haben den Führer gar nicht mehr, oder was?
+Doch.
+Den haben wir zugemacht, was soll das?
+Da ist jetzt kein B drin, sag ich dir.
+Da ist gar nichts drin.
+Nee, in Entry.
+Bei Entry kriegen wir nichts rein.
+Schau, kein B.
+Das ist gerecht.
+Aber was ist, wenn wir jetzt A löschen?
+Aber was ist, wenn wir jetzt A löschen?
+Das wird auch jetzt interessant, oder?
+Ja. Dafür suchst du dich erst ein, oder?
+Login AA.
+Fünf.
+Fünf.
+AA.
+Ja, mega.
+Logout.
+Aber da steht, da ist no Entry.
+Naja, das ist egal.
+Du musst halt Retry and True machen.
+Dann steht das da nicht mehr.
+Aber da sind recht viele Entries mit A.
+Aber da sind recht viele Entries mit A.
+Du musst
+Hast du gesehen?
+Er bedient Maus und ich machst Entry.
+Er wrenddessen
+User.
+Jetzt gibt es weniger A.
+Das waren vorher zwei.
+Das ist geil.
+Ja. Äh, okay.
+Also ich glaube
+Ich lasse nochmal STRG F.
+Nicht in dem falschen Fenster.
+Da ist nichts mehr.
+Okay, also wo wollen wir jetzt dann noch?
+Aber das wird schwierig.
+Wie viel Zeit haben wir denn noch?
+Fünf Minuten.
+Bis halt unten.
+Egal.
+Nee, das passt doch.
+15 Uhr 15.
+Ja, alles gut.
+Ich habe da keine Toilettenpausen eingegeben.
+Musst du aufs Klo.
+Okay, nee, was machen wir denn?
+Was müssen wir denn jetzt noch?
+Irgendwas müssen wir noch schaffen.
+Sonst habe ich das Gefühl, wir haben ein bisschen Miss-Performance.
+Aber ich glaube, der Update-Entry würde richtig gut funktionieren, wenn wir überhaupt mal ein Entry hätten.
+Was ist denn der Unterschied zwischen einem Entry und einem Passwort-Manager?
+Ein Entry ist ein Passwort-Manager.
+Und das ist da, wo die Passwörter drinstehen.
+Nee, User stehen ganz offen.
+Ach so, für jeden User.
+Jeder User hat sein eigenes.
+Ich wusste schon die ganze Zeit, was meine Aufgabe ist.
+Ja. Mehrere Personen.
+Ja, schau mal.
+Und da gibt es hier Features.
+Ja, das hat richtig Features.
+Ja, das hat doch noch garantiert Das ist ja voll scheiße.
+Naja, offensichtlich ja schon mit Co-Pilot, weil da steht ja schon, was da drin soll.
+Da steht alles.
+Am 8.8.23 hat Niklas hier
+Komm, wir committen jetzt erstmal.
+Ja, okay.
+Wir haben es geschafft.
+Nicht committen!
+Nicht committen!
+Jetzt hast du die Aufgabe geregelt.
+Ich mache einen neuen Branch, okay?
+Nein!
+Können wir einen Tag machen?
+Du kannst einen Cherry picken, was du am besten findest von uns.
+Okay, nicht committen.
+Ja, aber was machen wir denn dann noch?
+Wie viel Zeit haben wir denn noch?
+Ich bin gestresst.
+Also so Deadline 3 Minuten.
+So ein Ausdruck von dem, was wir vielen heute zu tun haben.
+Wir laden Flur ein.
+Voller Krass.
+Ich denke, dass das nicht geht.
+Was?
+Wie kann man denn das jetzt am liebsten
+Ah, ja, ich weiß es.
+Ist das

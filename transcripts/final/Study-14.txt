@@ -1,0 +1,626 @@
+Sekunde, Sekunde.
+Ah, dieses crazy Fragezeichen.
+Das ist klein, wie krieg ich das groß?
+Das darf Niklas mir nicht sagen, aber ich hab's hingekriegt.
+Damn!
+Assignment.
+Oh, wir können das nicht.
+Assignment brauchst du in deinen OBS.
+Soll ich die Aufnahme starten, Niklas?
+Das wäre Premium.
+Musst du OBS sehen oder darf ich das verstecken?
+Du kannst das verstecken.
+Du darfst den ganzen Bildschirm benutzen.
+The goal of this assignment is to write a small parallel terminal application.
+Interfaces will be divided to store the user's password.
+And it will find a complete
+Müssen wir das auch vorlesen, oder dürfen wir leise denken?
+Ich denke, wir dürfen leise lesen.
+Okay, I don't understand that.
+This is Python.
+And here is PyCharm.
+I don't understand PyCharm.
+Wow, krass.
+We work together doing pair programming.
+Your task is to print all facts that are left blank.
+Microsoft 2.2 you can find in DB.
+You may print anything.
+Ach du Scheiße, es ist zu leid.
+It's like content of the database.
+Please refer to documentation in the code.
+You can write your own test, for example, using PyTestPackage.
+Which is also installed from
+Kannst du mal die Heizung machen, Benjamin?
+You can write your own test.
+Ah ja, das hatten wir schon.
+Which is also installed from
+Tests, natürlich.
+Hm, geht nicht.
+Ich habe die Eins gedrückt, aber das Ente interpretiert.
+Niklas, deine Tastatur ist absolut broken.
+Habe ich dich damit gemacht?
+Eigentlich nicht.
+Okay, ja.
+Aber, ah, ich weiß.
+Wo sind wir denn jetzt?
+Gehen wir mal hier und gehen hier mal wieder.
+Oh, das passt mit dem Klartext angezeigt.
+Oh, krass.
+Das sagt er bestimmt jedes Mal.
+Okay, das müssen wir machen.
+Alter.
+Check.
+Check.
+Dann legen wir mal los, oder?
+Ja, legen wir mal los.
+Kannst du tippen?
+Nee, ich muss das mal kurz machen.
+Da am Schluss, oder?
+Nee, das geht nicht.
+Aber man kann hier was aktivieren.
+Zoom.
+Hm.
+Hm, das ging mal.
+Ha.
+Das hätte ja
+dulderlich sein können.
+Co-Pilot.
+Dann legen wir los.
+Daniel, du musst mir diktieren, was tun wir eigentlich?
+Okay, dann nehme ich die Maus, du das Keyboard.
+Nee, da habe ich eine noch schlechtere Idee.
+Ja, weil das Telefon
+Extend a given string with spaces.
+In welche Richtung?
+Das ist leider wichtig.
+Nein, das kann man jetzt ausdecken.
+Okay, das machen wir.
+Okay, das kann ich noch.
+So weit komme ich.
+Text kannst du noch entfalten.
+Text ist ja ein String.
+Dafür rechnest du erst mal die Bagger-District.
+Wir haben so ein if front.
+Nee, nee, nee.
+Wir machen das hinten so.
+Das brauchst du nicht.
+Wir müssen ja auch front, das musst du ja können.
+Das ist die dritte Variable.
+Egal.
+Wir können ja nachher noch den Code aufbauen.
+Nee, wir sollten ja schon alles implementieren.
+Mhm.
+Dann fange ich mal an mit if front.
+Nee, wir können das auch clever machen.
+Text.
+Was passiert, wenn wir gruselige Dinge tun?
+Was passiert, wenn wir ein String mit einer
+Also man kann ja
+Wir brauchen nicht so viele Checks.
+Da steht ja von nichts.
+Ich traue Niklas nicht, du.
+Ihr habt das besser so.
+Spaces.
+Nee, wir sind in Python.
+Wir müssen keinen String zurückgeben.
+Hä?
+Wie können wir einfach auch
+Wir können auch einfach none zurückgeben.
+Nein, ich glaube wir sollten schon den Text zurückgeben.
+Also ja, wir können auch nichts zurückgeben.
+Ich hab dir ja schon angestellt, alles gut.
+Ja, aber auch frei.
+Sondern ich wollte es halt nicht sagen.
+Und dann können wir so Dinge machen.
+Und dann
+Hier ist ein Leerzeichen.
+Und dann sagen wir
+Nein, warte.
+Das ist falsch rum.
+Ja, genau.
+Und ich kann
+Das gibt's nicht.
+Ja, das
+Es gibt doch kein caps lock.
+Niklas, nicht lachen.
+Das war so unsicher.
+Nein.
+Niklas, ich brauch die Maus.
+Nächste Funktion.
+Ich bin die Maus.
+Wir schauen mal, ob es funktioniert.
+Wie testen wir das dann?
+Wir schreiben einen Test.
+Wie schreibe ich einen Test, Niklas?
+Wir hoffen einfach, dass es funktioniert.
+Wir können ja mal ausführen und gucken, ob was kaputt geht.
+Ich glaube nicht.
+Oh ja, das ist clever.
+Okay, super.
+Perfekt.
+Das hast du schon implementiert.
+Das ist cool.
+Ich kann das nicht.
+Wir haben keine Ahnung, was Session ist.
+Session ist halt so unterhaltbar.
+Wir können die Autocompletion fragen.
+Nee, das ist ungetübt.
+Nee, es ist manchmal im Begehren.
+Das sagt uns tatsächlich nichts.
+Aber wir können noch mal da lesen.
+Ich glaube, wir bekommen nur von dem das Objekt.
+Okay, das ist vielleicht Session.
+Wir können mal draufklicken mit STRG.
+Krass.
+Scroll mal.
+Du musst STRG loslassen.
+Nee, du musst scrollen.
+Sonst sehe ich das nicht.
+Okay, dann können wir mal gucken, wo die Session herkommt.
+Ja. Okay, das ist natürlich cool.
+Scroll mal.
+Cool.
+Ich scroll mal die Maus.
+Ja, mach du mal die Maus.
+Keine Ahnung.
+Das ist ein Session-Objekt, das erstellt wird.
+Wir müssen irgendwas mit SQL machen.
+Nee, das müssen wir googeln.
+Okay, was ist denn das?
+SQL-Alchemy.
+Das stammt da.
+Ich habe meinen Escape auf Caps Lock gemappt.
+Weil das ist eigentlich sehr praktisch.
+Aber ich lasse wirklich die ganze Zeit Caps Lock.
+Darf ich deine Workstation umkonfigurieren, Niklas?
+Bitte sag ja oder nein.
+Sag doch mal ein Wort.
+Sag bitte nein.
+Ja, ja.
+Du magst Cookies.
+Ah, Quickstart.
+Das klingt doch gut.
+Scheiße.
+Oh Gott, was passiert hier?
+Kann unser Datenmodell das?
+Create Session gibt uns eine Engine.
+Nee, das gibt uns eine Session.
+Geh mal drauf, dann zeigt er doch bestimmt was an.
+Hier?
+Da?
+So?
+Nicht so.
+Ich glaube, hier stehen Dinge, die wir wollen.
+Der hat ja so eine Session und dann macht er Dinge.
+Und dann kann er Dinge hinzufügen.
+Ach, das sieht doch toll aus.
+Okay, das heißt, wir bauen einen User.
+Vielleicht nicht über den Dockstream.
+Ja, okay, gut.
+Na gut, das sehe ich ein.
+User gleich User Warning.
+Darf ich nicht über den Dockstream?
+Okay, wir bauen einen User.
+Okay, was will der denn?
+Wo willst du den User herbekommen?
+Wir haben doch ein Datenmodell, das ist doch cool.
+Dann öffnen wir mal nochmal das PDF, da stand irgendwas drin.
+Das ist schlecht.
+Ich kann so nicht arbeiten.
+Ja, sag doch einfach, dass du reingescrollt haben willst.
+Das ist okay.
+Okay, Table Name, Users, ID, Name, Column String.
+Rep.
+Und was kann das?
+Das ist eine gute Frage.
+Base.
+Das erbt auch von Base.
+Das ist gut, aber dann bekomme ich magisch einen Konstruktor, cool.
+Beides eine scheiß Sprache.
+Okay, brauchen wir eigentlich keine ID?
+Oder brauchen wir einen Namen?
+Die ID ist ja Auto-Inkrement, die brauchen wir nicht.
+Kommen wir sonst noch was?
+Aber nee, dem willst du das nicht.
+Zeig mal noch, wo ist denn das?
+Also hier, wir haben hier oben eine, die nicht aussieht, aber die gibt halt einfach so magisch User Passwort und dann Session Punkt Add All.
+Okay, wir können dann Session.
+Der schmeißt bestimmt einen Fehler, wenn das kaputt ist, oder?
+Sicher.
+Und dann User.
+Und dann Session.
+Commit.
+Ah, das Commit schmeißt jetzt den Fehler.
+Und dann können wir True ausgeben.
+Ja, aber wir müssen ja noch False ausgeben.
+Nee, aber ich weiß nicht, wie Commit funktioniert.
+Wir können das mal aushöhlen lassen und gucken, ob was kaputt geht, oder?
+Ja, da kommt bestimmt ein Fehler.
+So, darf ich?
+Ach nee, es läuft noch.
+Du musst da oben drücken.
+Nee, da liegst du daneben.
+So, wir machen hier 1, 1, 1.
+Nee, wir müssen einen neuen User erstellen, oder?
+Ah, 2, 2, 2.
+Created User 2, 2, 2.
+Dann probieren wir das nochmal.
+Nee, probieren wir nicht.
+Okay, Commit funktioniert immer einfach.
+Sucks.
+Nee, ich glaube, wir sagen dem ja nicht, dass wir
+Ja, es kommt kein Fehler.
+Du musst noch schauen, dass es
+Ah, weil Name auch nicht unique ist.
+Geh mal nochmal in Models und mach mal Name.
+Machen wir hier mal Komma und schauen mal, was uns vorschlägt.
+Gar nix.
+Das ist ja wieder scheiße.
+Wir können V sein und Nutzer suchen.
+Das ist, glaube ich, schneller.
+Unique gleich True.
+So, erstellt mal neu.
+2, 2, 2.
+2, 2, 2.
+Die Frage ist, was der eigentlich macht.
+Ähm, diese Database, die ist irgendwo bestimmt gespeichert in so einem SQ.
+Nein, ich glaube, wir können den Output von Commit inspekten und dann sagt er uns, wie viel er bearbeitet hat, oder?
+Das machen so Dinge doch.
+Gründe mal einfach mal, was du uns zurückgibst.
+Red, was willst du?
+Das ist das, was du zurückgibst.
+Hä?
+Das dauert viel zu lange.
+Einfach einen Print-Commit auch.
+Du brauchst viel zu lange.
+Erscheint mal ein Nutzer mit einem anderen Namen.
+Gib mal einen Nutzer mit einem anderen Namen.
+Den wir noch nicht haben.
+Gib mal noch einen Namen zurück.
+Vielleicht sollten wir das auch sauber machen und erstmal nachschauen, bevor wir den einfach dazuschmeißen.
+Ja, das können wir auch machen.
+Lass mal los, ich kann ja auch.
+Simple Select.
+Ja, das wollen wir.
+Ja, kopier das mal.
+Select User, oder ich mach das.
+Warte, ich verstehe das noch nicht.
+Wenn du willst, auch.
+Select Klammer User .where Das ist nur die Frage, wo die Session hin ist.
+Da kommen wir gar keine Sessions.
+Das weiß ich auch nicht, wo die hin ist.
+Das hat mich auch gewundert.
+Das ist das Statement.
+Wir tun nur erstmal ein Statement generieren.
+User.Name .in Soll ich für dich testen?
+Mhm.
+Du musst mich da hinlassen.
+Nee, du musst da nur die Variable hinlassen.
+Und jetzt klicken wir auf das Select drauf.
+Einfach draufklicken.
+Und importieren.
+Und vielleicht nicht das hier.
+Das sieht gut aus.
+Krass.
+Und jetzt machen wir das.
+POS1 Dann machen wir hier ein If draus.
+Das funktioniert auch bestimmt.
+Ende.
+Und dann machen wir ein Return.
+False.
+Der printet ja nochmal was, dass man das auch testen kann.
+Nee.
+Ja, ich mein, hoffentlich macht der das ja richtig.
+Also machen wir hier erstmal E.
+E already exists.
+Und bei If prüfst du nur, ob das etwas zurückgibt, das nicht ein anderes.
+Ja, aber so eine leere Liste ist bestimmt auch false.
+Nee, nee, eine leere Liste ist glaube ich auch true.
+Haben wir irgendwo sowas wie Python?
+Hier haben wir sowas wie Python.
+Du kannst len machen.
+Lenscalars.
+If.
+Nee, und das würde ja keine Liste zurückgeben.
+Das würde ein Iterator sein.
+Ja, okay.
+Darf ich kurz?
+Wir können, glaube ich, sowas machen.
+Besser draus probieren.
+Ja, genau.
+Ja, aber das musst du ja nicht printen.
+Ja, ich trau dem einfach nicht.
+Ich weiß halt nicht, was wir noch nicht implementiert haben, was Niklas unglücklich macht.
+2, 2, 2.
+Yo, krass.
+Ähm, ja.
+Da sind wir wieder.
+Aber wir können ja mal schauen.
+Was returnt denn das?
+Das Scalars.
+Wir können ja ein Scalarresult aufzutragen.
+One or none.
+Was gibt denn one or none zurück?
+Wir können sagen first.
+First, firster Objekt oder none.
+One.
+Das heißt, wir sagen hier.
+Ich würde hier one or none.
+Das ist bestimmt schneller.
+Nee, nee.
+Das Problem ist das, wenn wenn wir dann mehrere Namen, Leute mit dem Namen haben, die nerven sich schrecklich kaputt.
+Du hast schon zwei schon ganz auf der Stelle.
+Zwei geöffnet schon.
+Zwei, ein, ja, irgendwas.
+Yo.
+Erstes Completed.
+Also mittelcompleted.
+Nee, mach mal das To-Do-Bag.
+Und das Pass.
+Und die Prints.
+Nee, das war
+Ich bin ja gelöscht.
+Ja, jetzt gehen wir mal weiter nach Login.
+Müssen wir das Passwort hashen?
+Ah nein, das Passwort ist schon gehasht.
+Und unten?
+Auch gehasht.
+Das ist ja natürlich nett.
+Ja, auf geht's.
+Ich mach mal ein bisschen
+Ja, du darfst mal selecten.
+Easy.
+Und jetzt?
+If the user
+Return the user object if the user exists can be logged in else none.
+Da möchtest du die Ausgabe von
+Nee, du möchtest die Ausgabe von Session2Scaler.First speichern.
+Mhm.
+Sowas wie
+User.
+Monaden gibt es nicht.
+Nee, nee, ist leider keiner und keiner.
+Das wäre natürlich cool gewesen.
+Aber ich wirklich
+Jetzt wollen wir einfach hier das U nennen.
+If not U, return A.
+Crazy, einfach U.
+Nee, du kannst einfach U return, oder?
+Ja, aber wir wollen ja noch was anderes machen.
+Nee, wir wollen halt non zurückgeben, wenn der User non ist.
+Ja, ja, wir haben A.
+Du willst also in allen Fällen einfach nur U zurückgeben?
+Nee.
+Doch.
+Außer wenn das Passwort falsch ist.
+Wenn das Passwort falsch ist, dann willst du non zurückgeben.
+Okay, naja.
+Skippen wir den Fall einfach.
+Okay, jetzt schauen wir
+Okay, mach du mal.
+Ich hätte das gemacht.
+Return U.
+Ja, okay.
+Und jetzt mach mal davor.
+If User Punkt
+Nee, aber du musst checken
+If not U
+If not U
+And
+And U Punkt
+Passwort?
+Passwort gleich Passwort.
+Aber das ist bestimmt irgendwie falsch.
+Aber das können wir ausprobieren.
+Du hast recht, wir müssen noch mehr Dinge prüfen.
+Ähm, weil das Problem ist, dass gleich, gleich und ist irgendwie scheiße ist.
+Aber wir probieren das mal aus.
+Nee, gleich, gleich ist glaube ich nicht.
+Gleich, gleich ist glaube ich auch richtig.
+Aber geht mal nochmal auf Neustarten.
+Dann loggen wir mal 2 ein.
+Das geht immer noch.
+Non-Type has no attribute Passwort.
+Ja, klick mal auf das Not.
+Irgendwohin.
+Lass das mal klammern.
+Nee, da muss kein Not.
+Wir wollen ja, dass U etwas ist.
+Oder einfach nur If.
+Okay, stimmt.
+Stimmt, oder?
+Du hast es falsch gemacht.
+Gut, gut, dass du mich nicht blamen würdest.
+Krass.
+Krass.
+Das funktioniert.
+Kannst du mal das falsche Passwort für 2 eingeben?
+Das würde ich erst mal schauen.
+Q.
+Funktioniert auch.
+Exitcode 0.
+So, jetzt wollen wir
+1, 2, 3.
+Wow.
+Wow.
+Add Entry.
+Add Entry to the database.
+The database object, the current user, Name, Info, Passwort.
+False, if there is already.
+Jetzt müssen wir noch mal suchen.
+Delete Entry, Get Entry.
+We have to new this file.
+Ich weiß gar nicht, wie früh ist denn.
+11.48 Uhr.
+Nicht gleich so viel Zeit haben wir noch.
+Darf ich auf mein Handy gucken?
+Kannst du mir noch ein kleines Wasser bringen?
+Schnell, wir können Dinge kaputt machen.
+Das hätte ich nicht gedacht.
+Das hätte ich nicht gedacht.
+Weil er stand, dass er den Raum nicht verlassen darf.
+Das sagen wir ihm gleich.
+Jetzt sind wir bei Add Entry.
+Okay, und ich dachte, ich hätte irgendwo gelesen, dass du uns die ganze Zeit über die Schulter schaust und den Raum nicht verlasst.
+Aber danke schön.
+Ich wollte dich einfach nur challengen.
+Aber ich trinke das Wasser auch.
+So, jetzt sind wir hier.
+Was hast du getan?
+Ah, du hast kopiert, okay.
+Das ist cool.
+Nee, aber das ist schon das User-Objekt, oder?
+Wir kennen User doch schon.
+Aber warum haben wir dann das Passwort?
+Das Passwort ist das, was wir in der Bar-Datenbank hinzufügen.
+Ah, der Entry-Passwort.
+Das heißt, es ist alles falsch.
+Alles kaputt.
+Was ist denn Models?
+Ach, wir haben ein Entry.
+Genau, das ist einfach das Gleiche.
+Zeugs von oben.
+Ich kann das einfügen, Zeugs von oben kopieren.
+Wir kopieren einfach alles.
+Lösch mal das andere weg.
+Cool.
+Ja, aber müssen wir danach schon
+It's the only interested name for the current user.
+Dann hier mach mal Entry.
+Select Entry.
+Entry.Name.
+Entry.Name.
+Nee, wir müssen auch den User checken, oder?
+Ja, erst den Namen.
+.in Das ist immer gut.
+Es geht bestimmt noch anders, aber ist egal.
+Und das ist Name.
+Ja, Komma.
+Entry.
+User.
+ID.
+User.
+User-ID will ich schon packen.
+CurrentUser.ID.
+Ja. Cool.
+Das liegt uns bestimmt in die Ohren, aber es ist okay.
+Und dann mach mal
+Ja, genau.
+Das ist okay.
+Ich brauch dich, Niklas.
+Du kannst mich doch gar nicht einfach alleine lassen.
+Ich mach einfach die Font noch ein bisschen größer.
+Dankeschön.
+Jetzt müssen wir ein Entry erstellen.
+Was will der denn alles?
+Die Frage ist, was haben wir gegeben und die packst du einfach danach.
+User-ID.
+Und User, was ist das denn für ein Unsinn?
+Relationship.
+Jo, pack alles rein.
+Ich pack noch eine User-ID rein.
+Ich glaub, das muss reichen.
+Weiß ich nicht.
+Ja, wird schon.
+Geil.
+Fertig.
+Oh, und
+Fertig.
+Das testen wir nicht.
+Wir müssen Zeit sparen.
+Update-Engi.
+Das mach ich nicht.
+Warum?
+Ich weiß nicht, wie man updatet.
+Hä?
+Du musst einfach in das Objekt neue Dinge reinschreiben.
+Och, cool.
+Geht bestimmt nicht.
+Ah, nee, wir haben sogar eine Session.
+Das ist scheiße.
+Ja, wir probieren das jetzt einfach.
+Entry.nehm.
+Ich nehm.
+Entry.nehm.
+Ist bestimmt nicht schlecht.
+Ah, und dann?
+Machen wir hier mal auf Make Changes.
+Das ist zu viel SQL.
+Ah, nee, hier oben.
+Ah, wir müssen einfach Session.com mitmachen.
+Cool.
+Bring mich nochmal da rüber.
+Wenn der aus der gleichen Session kommt.
+Ja, wird er wohl.
+Sonst werden die Dinge kaputt.
+Wird das länger?
+Jetzt machen wir noch die letzte und dann sind wir fertig.
+Das testen wir auch nicht, oder?
+Nee, wir haben noch Delete übersprungen.
+Okay, Delete auch mal noch.
+Jetzt haben wir Delete.
+Ah, perfekt.
+Alter, ein User.
+CurrentUser.
+Wir brauchen aber erst den Entry.
+Nein, dann brauchst du trotzdem den CurrentUser.
+Ja, aber wir haben doch gerade eben schon.
+Ja, genau.
+Niklas schüttelt verzweifelt den Kopf.
+Ist das schlecht, Niklas?
+Du sollst uns keine Informationen geben.
+Gut.
+Fertig.
+Commit fehlt noch.
+Ah, das ist richtig.
+Ah, nee, Sessions.flush.
+Ich will was von flush.
+Nicht commit.
+Ah, nee, aber without committing the transaction.
+Ah, nee, okay, wir wollen commit.
+Ja, ja, dann komm mit.
+So, und jetzt?
+Test es mal.
+Aber ich bin guter Dinge.
+Wir wollen einloggen mit, sagen wir, zwei.
+Wir zeigen uns mal die Distaller-Entries an.
+Wir haben so ein Entry namens zwei.
+Nee, den möchten wir einmal schauen.
+Hat das funktioniert?
+Ja, hat funktioniert.
+Der hat Info zwei und Passwort zwei, das ist richtig.
+Okay, was können wir denn noch machen?
+Wir können den editen.
+Wir wollen Entry zwei editen.
+Der Name ist drei?
+Drei, alles auf drei.
+Und dann schauen wir uns nochmal zwei.
+Ah, den gibt es nicht mehr.
+Geil, und jetzt müssen wir ihn auch löschen und lockouten und fertig.
+Fünf, die Deal-In-Entry.
+Äh, drei.
+Und dann können wir nochmal alle anzeigen lassen.
+Klassisch, du hast zwei leer.
+Weil?
+Weil Papa und Max die beiden leere Liste nehmen.
+Das war wirklich lustig.
+Schau einfach, wenn die Liste leer ist, dann gib nur es aus.
+Ah, was ist denn mit leer?
+Stehst du irgendwo?
+Nö.
+Dann kann Max da so ein Argument nehmen.
+Nee, du kannst einfach eine Null dazu machen.
+Ich kann aber hier keine Null, weil ich keine Liste haben kann.
+Da kann ich keine Null dazu machen.
+Du kannst auch eine Liste draus machen.
+Guck mal, ich zeig dir das mal.
+Ja, ja, ich kann hier so Klammern drum rum packen.
+Du packst eine Klammern drum rum und schreibst eine Plus-Liste mit Null.
+So?
+Ja. Macht Spaß.
+Ich bin mir sicher, genauso soll das funktionieren.
+Und dann blocken wir es mit zwei ein.
+Cool.
+Und jetzt lockout?
+Wir sind fertig, mehr machen wir nicht.
+Und Punktlandung?

@@ -1,0 +1,861 @@
+Und bitte laut und deutlich reden.
+Ich versuche es.
+Bitteschön.
+Erstmal gucken, was wir hier für Dateien haben.
+Oder vielleicht erstmal die PDF öffnen.
+Oh Gott, ist das witzig.
+So, das darf ich jetzt aber bestimmt leise lesen, oder?
+Small password manager.
+You will find complete setup.
+I'm going to skeleton.
+Python.
+IDE Python.
+Blank functions.
+To-do comments.
+I may print anything into the console at any time.
+You can also use tools like SQLiteViewer.
+Das kenne ich eh nicht.
+For details informating particular functions.
+Control flow.
+Please refer to documentation.
+Own test.
+Writen.
+Mal sehen.
+Following features.
+On startup the user is prompted to either create a new account or log in with an existing one.
+A user who is logged in can view a list of their entries.
+Here only the name and the description of the entry are shown, but not the passwords themselves.
+View a particular entry in order to see the password.
+Add a new entry, edit and delete an entry.
+Several files.
+db.py contains all functions that interact with the database.
+Also können wir doch bestimmt mal gucken, wie das hier aussieht.
+Gehe mal auf.
+Update entry.
+Mehr oder weniger selbsterklärende Funktionen.
+Composes a string of all entries as a padded table.
+Die Ausgabe soll wahrscheinlich über Standardout funktionieren.
+Delete entry.
+Log in.
+Checks whether a user with a given name and password exists.
+Param session.
+The db.session object.
+The username and password.
+The user object.
+If the user exists, then this can be logged in.
+Okay, ich hab keine Ahnung von Datenbanken.
+Mal gucken, wie das wird.
+Aber CodePilot kann mir bestimmt helfen.
+New user.
+Sieht selbsterklärend aus.
+Main contains the entry point as well as the initialization code.
+Models contains the classes of the data model.
+As described in the paragraph above.
+Option contains code that capsulates some of the logic of terminal menu screens.
+Das klingt interessant.
+Terminal.py contains the actual control flow and user interaction in form of a state machine.
+Oh no.
+Design patterns.
+Oh Gott, hab ich sie vermisst.
+Wo würden wir reingucken?
+In AssumModels sind die
+So, okay.
+Die UserClass und die EntryClass.
+Ist das die Class, die hier db sagt?
+Ah, hier ist schon eine.
+Können wir rausnehmen, bestimmt.
+Können mir CodePilot vielleicht auch gar nicht helfen.
+Ja, wo suche ich jetzt herum?
+Option.py.
+Das kann cryo-recapsule the menu screen where the user has to choose between different options.
+Okay, aber hier keine To-dos.
+Das ist schon mal schön.
+Dann brauche ich nur, um zu verstehen, was es tun soll.
+Terminal.
+Ähnlich.
+So, To-dos sind gelb.
+Da kann ich ja schnell hier durch die Gegend scrollen.
+Tests.
+Das sind wahrscheinlich Tests.
+Mal sehen.
+Was muss ich alles implementieren?
+Das, das, das, das, das, das.
+Der Main.
+Nichts.
+Models auch nichts.
+Vielleicht bin ich auch blind.
+Ich werde das bestimmt nachher ausführen können.
+Options.
+Auch nichts.
+Mal sehen.
+Vielleicht fände ich noch heraus, was das ist.
+Ansonsten ist es bestimmt auch nicht so schlimm.
+Das sieht aus, als müsste ich mit db.py all meine Arbeit machen.
+Dann mal zurück in die Description und weiterlesen.
+Ist das das, was ich hier kriege?
+New User.
+Packages.
+Interessant.
+Alchemy.
+Was ist wohl das einfachste?
+Neue User.
+Gut.
+Endschiff.
+Oh.
+Was?
+Die Links.
+Achso.
+Ja. Then compose the following table.
+Zuerst sollten wir wahrscheinlich hier mal n nehmen.
+nInfo anlegen.
+n-Name.
+Gleich.
+Nehme ich copilot nicht 0.
+Achso.
+Vielleicht doch.
+0.
+Dann müssen wir über alle.
+Vielleicht kennt copilot sich mit den Klassen aus.
+Falsches Symbol.
+Ja. Gut.
+Schauen wir gleich vielleicht einmal nach.
+Jetzt Enter drücke.
+Schreibst du mir was vor?
+Ich schreibe mir natürlich nur den Command vor.
+Wäre ja auch langweilig, wenn nicht.
+Wir schauen mal was hier in der.
+Was?
+In der.
+Models.py.
+Entries.
+Ein Relationship.
+Was kann ein Relationship?
+I had a relationship between two mapped classes.
+Aber ich will doch wahrscheinlich über den Namen.
+Und das ist ein Column.
+Über ein Column kann man bestimmt drüber iterieren.
+Ich will the length of the longest value in the name column.
+Geh weg.
+Wie in.
+Nicht Entries.
+Wir wollen Name haben.
+Names.
+Wie auch immer.
+Name.
+Du checkst das.
+Vielen Dank copilot.
+Du hast so viel von dem Menschen gelernt.
+Der hier das Template erstellt hat.
+Und überall ToDoParsing geschrieben hat.
+Das ist Correct.
+Genau das will ich haben.
+Schön hätte ich es selber nicht ausdrücken können.
+Aber hier oben das wollen wir ändern.
+Und hier unten das gleiche.
+N.
+Info.
+N.
+Info.
+N.
+Info.
+N.
+Info.
+N.
+Info.
+N.
+Info.
+N.
+Korrekt.
+Ahh
+Nein.
+Nicht ganz.
+Hier wollen wir natürlich auch den Name haben, oder?
+OK.
+Das hier wird wohl initialisiert mit der Länge von Eieiei.
+Sehr schön.
+Name.
+Gut.
+Dann hätten wir das schon mal erledigt.
+Let S be two spaces.
+Ah, das können wir auch mal anlegen, oder?
+S gleich two spaces.
+Ich bin fasziniert.
+With the entries from I to S, we have from I to then compose the following tables.
+Two spaces.
+Dann Name.
+Added with spaces to N.
+Added with spaces to N.
+Name at the back.
+Moment, was?
+Achso, und dann die Länge A.
+OK.
+Dann machen wir das doch erstmal.
+Geben wir das Ganze über die Komm
+Ah, nein.
+Man will einen String haben.
+Dann, wie nennen wir unseren String?
+Erg.
+Das ist ein super bescheuerter Name, aber ich verwende ihn jedes Mal.
+Das ist bestimmt erstmal der leere String.
+Ah, nein.
+Wir können ihn gleich mal schon mal zusammensetzen.
+Mit S plus
+Was tut L just?
+Es sieht schon ordentlich aus.
+Plus Passwort, plus N.
+Mal gucken, was L just tut.
+Return a left justified string of length with.
+Padding is done using the special fill character.
+Default is space.
+OK.
+Das ist also schon wieder genau das, was wir haben wollen.
+Sehr schön.
+Jetzt wollen wir die entries haben.
+Was genau sind die entries?
+Aha.
+Hier.
+Die entries sind in der User Base.
+Dann nehme ich
+Ach, wie auch immer.
+In dem User Ding.
+Dann können wir die uns doch schon mal speichern.
+Dann ist Copilot auch weniger verwirrt.
+Wenn ich das hier jetzt einfach
+Entnenne.
+Gleich.
+Ja. Genau so.
+Und dann wollen wir hier rüber iterieren.
+Genau.
+Und jetzt wollen wir hier
+Ich kann schon nicht mal
+Ich drücke jetzt einfach mal Tab um.
+Mal gucken, ob das richtig ist.
+S.
+Wir wollen zuerst
+Ja. Wir wollen zuerst zwei Leerzeichen haben.
+Korrekt.
+Dann wollen wir den Namen haben.
+Rechtsjustified bis a name.
+Ja, ergibt soweit Sinn.
+Dann S.
+Dann e-Info mit auch rechtsjustified S.
+Dann 5 Sternchen padded with spaces to 8 at the front.
+Da heißt es, ich soll 3 Spaces davor machen.
+Verstehe ich das richtig?
+Lass mich gucken.
+Ah ja, weil Passwort 3 länger ist als
+Ja, okay.
+Mhm.
+Ergibt Sinn.
+Das könnte es jetzt doch schon gewesen sein, oder?
+Das könnten wir doch gleich bestimmt testen.
+Return arc war.
+Genial.
+An einen Testpunkt db ist natürlich eine Datenbank.
+Korrekt.
+Das hatte ich ja schon offen nachsorten.
+Nein.
+Main.
+Was haben wir hier?
+init start d init Lustiger Name.
+Aber im Zweifelsfall haben die Software-Indexer bestimmt recht.
+Wo ist denn init?
+Bitte.
+Click.
+Initialize.
+Da soll ich, glaube ich, gar nicht hin.
+Start.
+Start kenne ich aber.
+Session ist gleich.
+Ich führe es einfach mal aus und gucke, was passiert.
+2.
+Sekunde.
+Das war falsch.
+Ich habe hier einen Zweinamen.
+Create a new user.
+Wie heiße ich?
+Ich heiße
+Darf ich mich hiermit de-anonymisieren?
+Ich heiße bestimmt Tim.
+Das ist anonym genug.
+Mein Passwort ist 1234.
+Enter.
+Error.
+User with name Tim already exists.
+Interessant.
+This is a Demo Passwort Manager.
+Na dann versuche ich doch mal, auf meinem eigenen Account einzuloggen.
+1234.
+Verdammt.
+Aber das sieht auch soweit gut aus.
+Wir machen hier oben mal
+Wo ist es?
+Was habe ich gerade implementiert?
+Ich kann hier einfach bestimmt
+Test.
+Was für eine Funktion?
+GetEntryView.
+Dafür brauche ich jetzt ein blödes UserObject.
+Wo kriege ich das her?
+Na gut.
+Es wird schon funktionieren.
+Gleich, wenn ich alles zusammengebaut habe, hat mir meine liebe Sopra-Erfahrung gelehrt, dass das bestimmt funktioniert gleich.
+Wir haben das jetzt abgehakt.
+GetEntry.
+Get an entry from a user by name.
+The user that is currently logged in.
+Okay, das ist wieder so ein fancy UserObject.
+Name the entry name.
+Return the entry if it exists, else none.
+Dann
+steigt Copilot mir schon was vor.
+Wahrscheinlich gar nichts, eigentlich, ne?
+Ich möchte
+Badum, badum, badum.
+Muss ich über die drüber iterieren, oder kriege ich das irgendwie schneller hin?
+Im Zweifelsfall drüber iterieren.
+Oder ich frage Copilot.
+GetEntry
+with
+name.
+Return entry.
+Ah, schade, Schokolade.
+Vielleicht hätte ich da noch einmal Rechtsklick machen können, jetzt ist es aber
+Auch egal, ich schaffe das ja auch selber.
+Oder?
+Was kann ich hier machen?
+Rechtsklick.
+Das war bestimmt falsch.
+Hier oben ist ein Copilot-Button, oder?
+Vor
+Klingt das okay?
+Name.
+Ah, ja.
+Okay, das ist genau das, was ich haben will.
+Ich will
+Ja, ich will den Ding zurückgeben.
+Ich will über sie drüber iterieren.
+Dann, wenn der Name des Entries gleich der übergebene Name ist, dann möchte ich E tatsächlich zurückgeben.
+Und sonst möchte ich Non zurückgeben.
+Sehr schön.
+Das hat aber schon das nächste Tutorial gelöst.
+Update-Entry.
+Session-Entry, Name, Info und Password.
+Update-Entry in the database.
+Session, the DB Session object.
+Okay, was auch immer das heißt, das finde ich bestimmt gleich raus.
+Entry, the Entry object to update.
+Okay, Name, the new Entry name, the new Entry info and the new Entry Password are.
+Jetzt muss ich nur noch herausfinden, was dieses Session-Objekt ist.
+Es gibt ja ein Create Session.
+Das ist aber bestimmt wieder irgendwo, wo ich gar nicht hin soll.
+Aber mal gucken.
+Ah nein, es ist hier.
+Interessant.
+Ah ja, das kann einfach.
+Einfach wieder so ein magisches Datenbankobjekt.
+Schön, schön.
+Was habe ich hier?
+Hier habe ich keinen User, sondern eine Datenbank-Session und muss wahrscheinlich direkt mit der interagieren.
+Vielleicht kann mir PyCharm hier helfen, wenn ich hier einfach Session.
+drücke.
+Achso, ah.
+Achso, ja, ich erinnere mich.
+Keine statischen Typen in Python und so.
+Ähm, commit.
+Ah, das ist schon mal ein schöner Vorschlag.
+Das erinnert mich an BDE, aber das will ich gar nicht.
+Ähm, was will ich stattdessen tun?
+Ich möchte irgendwie herausfinden, was Session für Einträge hat.
+Da das aber zu unständig ist, könnte ich PyCharm darum bitten, mal Dinge aus Session abzufragen.
+Oder was brauche ich?
+Ich brauche bestimmt deren Einträge.
+Ähm, get Session entries.
+Iterate over all entries.
+Vielleicht machen wir hier oben nochmal Copilot auf, was Copilot dazu sagt.
+Ähm, retrieving completions.
+Tum-di-dum-di-dum.
+Äh, warum auch immer er gerade so lange rechnet, das ist vielleicht kompliziert, vielleicht auch nicht.
+Vielleicht hat er sich aber auch nur einfach aufgehangen.
+Ah, hier ist was.
+Okay, ganz viele Kommentare, die brauche ich nicht.
+Entry.name.
+Entry ist, achso, ah, wait.
+Ähm, ah, the entry of, oh, ah, Gott.
+Hm, ja, okay, das ist viel einfacher als gedacht.
+Äh, ja, ich muss natürlich bloß den Entry ändern und das dann in der Session eintragen.
+Gut, gut.
+Äh, dann können wir doch hier, was war es?
+Hier oben habe ich doch gerade was gefunden.
+Äh, scroll bitte so, wie ich das möchte.
+Ähm, , das ist aber ein bisschen viel.
+Ich möchte im Prinzip nur das Entry.name gleich der alte Entry.
+Was tust du hier drüber?
+Get Session entries.
+Aber das ist meiner Meinung nach schon, wenn ich hier den Docs schon richtig verstehe, schon getan.
+Muss ich irgendwas zurückgeben?
+Nein.
+Also würde ich mir jetzt einfach mal das hier kopieren und sehen, ob Copilot das mag.
+Ja, ich brauche nicht die Session entries.
+Tut mir leid für die Verwirrung, Copilot.
+Ähm, so, commits changes, das klingt doch okay.
+Und dann können wir hier unten ein Return hinschreiben, was es absolut nicht bringt, aber es sein könnte.
+Ähm, wir könnten das ja jetzt einfach so sein lassen.
+Richtig testen kann ich das ja auch nicht, weil ich ja nicht unbedingt weiß, wie ich so eine Session erzeuge.
+So, das ist erledigt, das ist erledigt.
+Das ist erledigt, das ist erledigt.
+So, delete entry, add entry, login.
+Ah, login ist wahrscheinlich das, was ich brauche, um gleich zu testen, weil
+Ja, pad string, extend to given string with spaces, hab ich glaube ich schon erledigt.
+Vorausgesetzt, diese lustigen Methoden klappen hier gleich.
+Aber da PyCharm sagt ja, bzw.
+da PyCharm Documentation dafür anzeigt, gerade zwar nicht, aber vielleicht, wenn ich hier nochmal reinklicke.
+Ah, ach so, witzig, ljust gibt es, rjust tut aber nichts.
+Ah, wir werden gleich sehen, ob Fehler fliegen.
+Ähm, pad string brauche ich wahrscheinlich gar nicht.
+Oder was tut es?
+Extend to given string with spaces.
+Ah, so, okay, da kann man also herausfinden, wie das ist.
+Ich bin jetzt neugierig, ob diese Funktionen funktionieren, weil das würde mich schon interessieren.
+Session, the dbSession object.
+So, , the user's name, the user's password as a hash.
+So, return the user object if the user exists and thus can be logged in as none.
+Also, wir versuchen mal, was dieses Session object kann, bzw.
+fragen wir mal Copilot danach.
+Ich liebe diese Vorschläge.
+Log in user, ja, into Session.
+There we go.
+User.Session.Query.User.Filter.
+Äh, okay, das gibt mir den User, korrekt.
+Ah, ach so, und das könnte, wie ist das, was ist denn das First von einem Filter?
+User.Session.Query.
+Boah, da habe ich jetzt ehrlich gesagt gar keine Ahnung, ob das richtig ist.
+Mal sehen, ob mir PyCharm jetzt sowas anzeigt.
+Filter.User.Name.Gleich.Name.User.Password.Gleich.Password.
+Punkt.
+Ach so, aber das ist die Filter-Methode von diesem gequerierten Object da.
+Ach, wir schauen einfach mal, ob es das tut.
+Und, , iflen von User.
+Äh, was ist das?
+Gleich, gleich, null, return null.
+Korrekt.
+Ähm, und sonst?
+Möchte ich bestimmt irgendwelche wilden Dinge mit diesem User tun, oder?
+Session.Db.Session.
+Also langsam kann ich mir tatsächlich überlegen, ob ich mal Dokumentation lese.
+Ähm, ah, Sekunde.
+Ach so, ich soll ihn gar nicht einloggen, ich soll ihn nur zurückgeben.
+Ah, dann ist natürlich die Frage, denn die Datenbank speichert bestimmt nur gehashte Passwörter.
+Also muss ich mein Passwort erst hashen.
+Also, HashPassword, die existiert ja zum Glück schon, und hier Password.
+So, und jetzt?
+iflen User gleich null.
+Und dann return ich non.
+Und sonst?
+return User.
+Hoffentlich kommt die Sprach-zu-Text-AI damit klar, dass ich hier so denglisch schaue, aber okay.
+Ähm, so, ach, das
+Ah, damit könnte Login funktionieren, aber da ich aber new User noch nicht implementiert habe, kann ich ja keine neuen User anlegen.
+Und es passieren bestimmt genauso komische Dinge wie eben.
+Also irgendwie muss ich sofort false zurückgeben, wenn da schon ein User mit dem Namen existiert.
+So, dann nehmen wir doch das hier von hier unten.
+Oh, na dann.
+Schauen wir das ja doch mal an.
+Das sieht genauso aus wie das Query, nur dass ich nicht nach einem Passwort frage.
+Das ist, glaube ich, korrekt so.
+Wenn User angleichen und return false.
+Ja, weil wenn es schon User mit dem Namen gibt, will ich ja false zurückgeben und gar nichts tun.
+Add User to Database.
+New User ist User mit Name.
+Und Passwort ist das gehashte Passwort.
+Ja. So, dann Session.add.
+Warum auch immer man den hier einmal adden muss und hier unten nur committen.
+Achso, weil der end-Shield bestimmt schon existierte und der bestimmt irgendwie weiß, dass das zu der Datenbank gehört oder umgekehrt.
+So, dann möchte ich den User zu der Session adden, committen und true machen.
+Also add true zurückgeben.
+Drücken wir doch mal Tab.
+Was tut PyCharm hier?
+Shadows the name New User.
+From OtaScope.
+Wo ist der New User?
+PyCharm, bitte sag mir, wo New User ist.
+Wir nehmen das Element MoreAction.
+Add Typein for New User?
+Nein.
+Suchen.
+New User.
+Oh, ups.
+Das ist der Funktionsname.
+Okay, das hätte ich selber herausfinden können.
+Achso, New ist schon sowieso als Keyword.
+Ich suche gerade einen neuen Namen.
+Also New ist sowieso schon belegt.
+Also New ist sowieso schon belegt.
+New Use ist absolut missverständlich.
+Ich mache jetzt aber eine Eins dahin, oder?
+Ich mache jetzt eine Eins dahin.
+Meine Mitprogrammierer würde es freuen.
+Zum Glück bin ich hier nur mit Copilot unterwegs und nicht mit jemand anderem.
+Okay, mal gucken, was passiert, wenn ich hier ausführe.
+Ich würde gerne einen New User anlegen, korrekt?
+Create a New User.
+Okay, ich bin immer noch Tim, wenn ich mich richtig erinnere.
+2, 3, 4.
+Oh, ja, sehr schön.
+Object of Non-Type, aha.
+Eine Fehlermeldung, sehr schön.
+Object of, wo ist das?
+Line 39.
+Blub, blub, blub, blub, blub.
+Non-Type has no LAN.
+Aber das hier schon Non zurückgibt.
+Uh, das ist interessant.
+Ah, oh.
+Ja, weil First ist bestimmt deren erstes Objekt.
+So, wenn ich jetzt also nicht First hinmache.
+Ah, ich checke hier auf Non.
+Das ist wahrscheinlich
+Wie macht man das noch?
+User
+Stop, warum hat
+Jetzt ist es gerade durch die Gegend gesprungen.
+Hat Copilot irgendwas verändert?
+Nein, es war nur so
+Ah, wahrscheinlich hat es Completions eingefügt.
+If User gleich gleich Non.
+Aber eleganter ist es eigentlich, wenn ich nur User schreibe.
+Nein, if not User.
+Egal, ich mache jetzt hier einen gleich gleich Non hin.
+Ich entschuldige mich hiermit im Voraus für meinen Programmierstil.
+If User gleich gleich Non.
+Was sagt PyCharm da drin?
+Perform with equality operators.
+Replace equality.
+Ja, ist okay.
+Ja, finde ich gut.
+Das muss ich hier unten wahrscheinlich auch fixen.
+So, LAN von User.
+Ich möchte hier dann hier erst das First zurückgeben.
+Und dann hier das so machen.
+Mal gucken, ob es jetzt funktioniert.
+New User 2.
+Tim.
+Und 1, 2, 3, 4.
+Error.
+User with Tim already exists.
+Das liegt bestimmt an der Create New User.
+Dass die zu früh vor ist, zurück gibt.
+Oder?
+User, User.session query.
+If User ist Non.
+Ach, Knoten im Hirn.
+Is not Non.
+Ich meine, es hätte Copilot eben auch vorgeschlagen.
+Da hätte ich natürlich einfach auf es hören können.
+Stop.
+Aborted.
+Ja, sehr schön.
+2 new User.
+Tim.
+1, 2, 3, 4.
+Success!
+Yay!
+Login.
+Auf Tim.
+Dann 1, 2, 3, 4.
+Ha!
+Sehr schön.
+Query has no LAN.
+Das ist doch genau das gleiche wie eben auch.
+Zeile 60.
+If User is
+Hey!
+Stop.
+Das kein LAN hat, aber ich einen Punkt First machen kann.
+Das ist ja ungünstig.
+Wie hatte ich das eben getan?
+Ich hatte
+Moment.
+Hä?
+Ah, da.
+Ich hatte das First schon genommen.
+Ja, okay.
+Das kann ich ja.
+Hier das First nehmen.
+Dank Copilot.
+Dann
+If
+User is Non.
+Return Non.
+Gemoppelt, gemoppelt.
+Ah, nein.
+Ich return einfach den User.
+Return User.
+Dann mal gucken, ob es jetzt funktioniert.
+Jetzt hat die Datenbank das gespeichert.
+Ich kann es ja einfach mal probieren.
+1, 2, 3, 4.
+Ah!
+Logged in successfully.
+Das war auch das, woran es gerade gescheitert war.
+Dann
+Viewlist 1.
+Enter.
+Name, Info, Password.
+Ist das korrekt?
+Das sieht erstmal korrekt aus.
+Ich habe ja noch gar keine Entries.
+Mhm.
+Show Entry, Add Entry, Edit Entry, Delete Entry oder Log Out oder Quit.
+Was habe ich davon schon implementiert?
+Naja, nichts sinnvolles.
+Natürlich habe ich wieder mit genau dem Falschen angefangen.
+Aber na gut.
+Immerhin bin ich bisher vorangekommen.
+Dann mache ich hier mal Quit.
+Oder Log Out.
+Ich mache Quit.
+Vielleicht muss ich mich dann nicht wieder einloggen.
+Add Entry.
+Was haben wir hier?
+Wir haben ein
+eine Session gegeben.
+Ein User, who is currently logged in.
+Wir haben ein Entry Name, ein Entry Info, ein Entry Password.
+Zuerst einmal müssen wir hier nochmal if there is already an Entry with that name for the current user.
+Das hatten wir doch hier unten schon mal gecheckt irgendwo.
+Bestimmt.
+Get Entry View.
+Na.
+Das war es nicht.
+Get Entry.
+Äh.
+Update Entry, Get Entry.
+Hä?
+Hatten wir das nicht irgendwo?
+Wo hatten wir es?
+New User, User, Session, Query, Filter, wie auch immer.
+Nein, nein, nein, nein, nein.
+Das ist es nicht.
+Lustig.
+Hä?
+War das nur ein Vorschlag oder verwechsel ich da jetzt irgendwas?
+Add Entry.
+Wenn ich jetzt einfach hier hin check if Entry already exists.
+Ja. Co-Pilot, vielen Dank.
+For e in current user .Entries.
+Ja, das ergibt auch Sinn.
+Da bin ich mir sogar sehr sicher.
+If i.name gleich name returns false.
+Sehr schön.
+Ja. Ich würde jetzt sagen, dass genau das wollte ich auch machen.
+Wollte aber wissen, ob es eine schnellere Variante gibt.
+Aber das klingt sicherlich wie eine Ausrede.
+Add new Entry to Database.
+New Entry ist gleich Entry.
+Okay, dass der Constructor von einem Entry, der sonst immer Klein-Entry heißt, jetzt Groß-Entry heißt, ergibt natürlich total viel Sinn.
+Und wir wissen ja auch schon, dass wir den Entry irgendwie mit der Datenbank verlinken müssen.
+Aus dem Update.
+Meiner Meinung nach.
+Ja, wissen wir.
+Und deshalb macht es auch Sinn, weshalb der Entry den User kennt unter dem Namen User.
+Würde ich mal als Plausibel  , abstempeln.
+Session.
+Add new Entry.
+Wie funktioniert das?
+Wir mussten den User mussten wir dort adden.
+Es macht vielleicht auch Sinn, also macht es sicherlich auch Sinn, den Entry dort zu adden, aber wahrscheinlich muss die Datenbank irgendwie herausfinden, ob das jetzt ein Entry oder ein User ist, der dort geaddet wird.
+Aber das kann bestimmt die Session.
+Wir sind da mal gut, glaube ich.
+Session.
+Commit natürlich noch.
+Und dann möchte ich als letztes Return true machen.
+Ha!
+Als hätte es mich gehört.
+Add Entry.
+Das können wir jetzt aber testen.
+Bin ich noch eingeloggt?
+Schade.
+Nein.
+Login.
+Eins.
+Tim.
+Eins, zwei, drei, vier.
+Ha!
+Add Entry.
+Drei.
+Drei.
+Name new Entry.
+Test.
+Natürlich.
+Info.
+Dies ist ein Test.
+Eintrag.
+Bitte richtig schreiben.
+Ist das richtig?
+Bestimmt.
+Passwort.
+Wir nehmen mal  0987.
+Muss ich mir ja nicht merken, weil dafür ist dieser Passwortmanager ja da.
+Sehr schön.
+Zwei.
+Show Entry.
+Ah nein.
+Ich möchte erst die Liste gucken.
+Info.
+Dies ist ein Test Eintrag.
+Das hat natürlich schon wieder bombastisch geklappt, aber vielleicht ist da der String ein.
+Ist ja.
+Wie war das?
+Ich bin der Meinung hier.
+The length of the longest value in the name column.
+Including the caption info.
+Also.
+Ist das?
+Denke ich.
+Also.
+Meiner Meinung nach mache ich das richtig.
+Es sieht aber nicht so aus, wie hier steht.
+Oder?
+Also.
+Wie wäre das, wenn wir hier length of longest value in the name column.
+Ist hier pay poll.
+Also sechs.
+Und wir machen hier   padded with an info with spaces to an info at the front.
+Und das sind eins, zwei, drei, vier, fünf, sechs, sieben, acht.
+Also.
+Würde ich jetzt mal überhaupt nicht vertrauen.
+Den Beispiel und meine Intuition.
+Und mach hier mal nicht ein info draus.
+Äh.
+Äh.
+Sondern.
+Mach hier mal nicht die Länge des Namens.
+Sondern es ist der Info draus.
+Das hätte auch Copilot eben vorgeschlagen.
+Len von.
+Mist.
+Info gibt es nicht.
+Wahrscheinlich muss ich dann.
+Wo ist das mit dem current user Punkt.
+Name.
+Mal gucken, was der User hier noch für Einträge hat.
+Ich habe hier ein User.
+Wait.
+Moment.
+Was?
+Ich habe ein.
+Ich habe Names.
+Ich habe Passwords.
+Ich habe Entries.
+Nichts davon steht.
+Da steht irgendwo Info dran.
+Was soll denn das?
+Aber in den Entries steht es hier
+User
+Moment, was habe ich hier gerade ausgegeben?
+Testhelm
+Okay, ich bin ein wenig verwirrt von dieser Struktur hier, weil eigentlich gebe ich doch
+gebe ich nicht den Namen da oben aus?
+Ich nehme
+ich gebe den Namen
+ich gebe diese Column aus.
+Hier existieren nochmal Namen.
+Sind das die gleichen Namen wie da oben?
+Man könnte es jetzt ausprobieren, wenn man neugierig ist.
+Jetzt ist die Frage, bin ich neugierig oder nicht?
+For Entry in currentUser.entries.
+Jetzt in Entry.name und Entry.info.
+Achso, Sekunde
+Ah, nein.
+Okay, hier die Initialisierung geht nicht kaputt, weil das Konstanten sind.
+Dann kann ich es ja nochmal probieren.
+Hat die Datenbank das jetzt gespeichert?
+Login
+Tim
+1, 2, 3, 4
+Showlist
+Success logged in
+Showlist
+1
+Dies ist ein Testeintrag.
+Das sieht doch korrekt aus, oder?
+Zwei Dings vorne, dann alles schön alignt, die
+Was sollte da nach rechts und was nach links?
+Das erkenne ich gerade eh nicht, weil es ja eigentlich perfekt genau lang sein soll.
+So, dann können wir ja jetzt erstmal noch einen zweiten Testeintrag machen.
+Test 2, selbstverständlich.
+Info ist noch ein Test.
+Und das Passwort ist
+Drücken wir ein bisschen auf der Tastatur herum.
+Vielleicht kann man mit Sonderzeichen die Datenbank sprengen, aber eigentlich will ich das gar nicht.
+Viewlist 1.
+So, das sieht doch gut rechts alignt aus, die Info.
+Dann sieht das doch voll okay aus.
+Was habe ich jetzt schon noch?
+GetEntry.
+Ich will ShowEntry bestimmt machen.
+2.
+ShowEntry.
+Name.
+Test.
+Das ist Name.
+Test.
+Info.
+Dies ist ein Testeintrag.
+Passwort 0987.
+Das stimmt.
+So, was muss ich jetzt noch testen?
+Den EditEntry.
+Habe ich den schon implementiert?
+Ja?
+Fragezeichen?
+Ja. EditEntry.
+4.
+Ich möchte natürlich Test 2 editieren.
+Leave a field blank if you do not intend to change it.
+Nice.
+Also, den NewName will ich nicht ändern.
+NewInfo auch nicht.
+Ich will nur das Passwort ändern auf 5678.
+NewPassword.
+What do you want to do, Tim?
+Das nennt mich sogar Tim.
+Sehr schön.
+Ich möchte erstmal die Liste kontrollieren.
+Sieht gut aus.
+Dann möchte ich den ShowEntry angucken.
+Und zwar Test 2.
+Test 2.
+Hat er sich gemerkt.
+Das ist doch wundervoll.
+So, jetzt muss ich nur noch das DeleteEntry implementieren.
+Ich soll wieder erst herausfinden, ob es existiert.
+Und dann können wir auch das hier erstmal nehmen.
+Wir wollen natürlich hier den Entry.
+Stimmt.
+Eigentlich hat Copilot hier recht.
+Ich kann diese Funktion verwenden.
+CurrentUser und Name passt auch.
+Das heißt, das hier kann weg.
+Sehr schön.
+Dann.
+IfEntry ist non.
+Korrekt.
+Es denkt schneller als ich.
+Return.
+False.
+Will ich das?
+Wenn der Entry non ist, dann will ich False zurückgeben, weil dann existiert der Entry und die Aktion muss fehlschlagen.
+Dann.
+DeleteEntry.
+Ja. SessionDeleteEntry.
+Aber wenn es so einfach ist, schlägst du noch was vor.
+SessionCommit.
+Ja. Verstehe ich.
+ReturnTrue.
+Verstehe ich auch.
+Jetzt noch was?
+Interessant.
+Sehr schön.
+Dann probieren wir das mal aus.

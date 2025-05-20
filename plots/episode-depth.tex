@@ -1,0 +1,89 @@
+\documentclass[crop]{standalone}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{amsmath}
+\usetikzlibrary{shadows, decorations.markings}
+\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{statistics}
+\usepgfplotslibrary{groupplots}
+
+\definecolor{pp}{RGB}{238,119,51} %% custom orange
+\definecolor{c_red}{HTML}{b30000} %% custom red
+\definecolor{c_green}{HTML}{5ad45a} %% custom green
+\definecolor{copilot}{HTML}{0d88e6} %% custom blue
+\definecolor{c_orange}{HTML}{ffa300} %% custom orange
+
+\begin{document}
+
+\begin{tikzpicture}
+    \pgfmathsetmacro{\ploth}{5cm}
+    \pgfmathsetmacro{\plotw}{7cm}
+    \pgfplotstableread[col sep=comma]{data/episode_depth.csv}\datatable
+
+    \begin{axis} [
+        height = \ploth,
+        width = \plotw,
+        axis x line*=bottom,
+        axis y line*=left,
+        axis line style={->, line width=2pt}, 
+        grid=major,
+        grid style = {black!20, densely dashed},
+        ybar,
+        bar width=12pt,
+        xlabel={Episode Depth},
+        xlabel style={ at={(current axis.south)}, yshift=-4.3em, anchor=north, font=\Large },
+        ylabel={\# Episodes},
+        ylabel style={ at={(current axis.west)}, yshift=0.5em, anchor=south, font=\Large },
+        xtick=data,
+        xticklabel style={font=\large, anchor=north},
+        yticklabel style={font=\large},
+        ymin=0, ymax=175,
+        ytick={0, 40, 80,..., 160},
+        yticklabels={}, % Remove y-axis tick labels
+        xmin=1, xmax=3,
+        scaled ticks=false,
+        enlarge x limits={abs=23pt},
+        enlarge y limits={abs=1pt},
+        legend pos=north east,
+        legend style={
+            scale=1.3,
+            nodes={scale=1.3}
+        },
+        nodes near coords,
+        every node near coord/.append style={font=\normalsize, color=black},
+        visualization depends on=y \as \rawy,
+        nodes near coords={\pgfmathprintnumber[fixed, precision=0]{\rawy}\%}
+    ]
+    
+    % Copilot bars
+    \addplot+[
+        ybar,
+        draw=copilot,
+        fill=copilot!70,
+        visualization depends on=y \as \rawy,
+        nodes near coords style={/pgf/number format/.cd, fixed, precision=0},
+        nodes near coords={\pgfmathparse{\rawy==0?"":int(\rawy)}\pgfmathresult},
+        legend image code/.code={
+            \draw[draw=copilot, fill=copilot!70] (0cm,-0.1cm) rectangle (0.15cm,0.15cm);
+        }
+    ] table[x=EpisodeDepth, y=Copilot] {\datatable};
+    
+    % Pair Programming bars
+    \addplot+[
+        ybar,
+        draw=pp,
+        fill=pp!70,
+        visualization depends on=y \as \rawy,
+        nodes near coords style={/pgf/number format/.cd, fixed, precision=0},
+        nodes near coords={\pgfmathparse{\rawy==0?"":int(\rawy)}\pgfmathresult},
+        legend image code/.code={
+            \draw[draw=pp, fill=pp!70] (0cm,-0.1cm) rectangle (0.15cm,0.15cm);
+        }
+    ] table[x=EpisodeDepth, y=PairProgramming] {\datatable};
+    
+    %\legend{human--AI, human--human}
+    \end{axis}
+\end{tikzpicture}
+
+\end{document}

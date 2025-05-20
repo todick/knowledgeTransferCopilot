@@ -1,0 +1,833 @@
+Ich benutze nur B, D und so weiter.
+Nups.
+Okay, was ist hier denn los?
+Okay, haben wir noch einen Passwort?
+Ja, wir müssen den jetzt mal reinkaufen.
+Okay, ich mach mal einen größeren, Steuerung plus.
+Steuerung Maus raus sollte auch funktionieren.
+Ich nehm den hier, Steuerung plus.
+Ich nehm den hier.
+Auch nicht.
+Niklas, wie machen wir den Schriftgrößer?
+Wir dürfen ihn nicht fragen.
+Wir müssen googlen.
+Oder
+Egal, komm.
+Dann haben wir die Augen kaputt.
+Okay, kein Problem.
+Ist okay, da müssen wir nichts machen.
+Ja, das ist einfach nur Dokumentation.
+Contacts from starting the program.
+Und Main ist einfach Main-Funktion.
+Okay, Mikrofon ist gekauft.
+Da passiert jetzt auch nicht wirklich viel, oder?
+Das ist ein Standard-Output fest.
+Abritz.
+Okay, das ist ein Standard-Input.
+Hätte ich bedenken können, dass das die Abritzung dafür ist.
+Okay, da passiert jetzt auch wirklich nicht viel.
+Hier, dann Start.
+Achso.
+Das ist clever.
+Es wird eine Session gestartet, das ist vielleicht interessant.
+Und, Create Session?
+Ja. Achso.
+Geil.
+Wir haben immer aufmerksam gelesen.
+Ansonsten
+Dann gucken wir, was da passiert.
+Ich glaube, bei Minitialize ist irgendwas auch noch drin, was
+Ja, oder wir gucken direkt in die Requirements.txt-Datei.
+Achso.
+Okay, ich hab gedacht
+Ich weiß nicht, es gab doch gerade so ein Ding, wo du gerade meintest, Demo ist sein, PDF ist auch vielleicht mal gut.
+Großartig.
+Bitte können wir das größer machen.
+Ja. Functions.
+Die sind nur da drin, ne?
+Okay, gut.
+Erst mal Lightviewer benutzen.
+Kennst du den, hast du schon benutzt?
+Noch nie.
+Dann können wir das dann nachher mal ansehen.
+Das geht doch schon derart funktioniert.
+Perfekt.
+Ah, da kann man dann einfach so die Dinger, die Tracern oder so reinladen.
+Ja. Ja, das ist ja
+Grimd hat er.
+Grimd, ja, einfach ausprobieren.
+Ja. Werden wir schon schlau draußen.
+BDL ist grüßen.
+Hast du eine Bestellung?
+Ja, ja, ich bin durch.
+Okay, wir hätten wirklich damit anfangen sollen.
+Jetzt wissen wir immerhin, dass das andere Zeug ohne dich war, was wir gemacht haben.
+Äh, ja.
+Clever.
+Sehr schlau.
+ID, Name, Passwort und straightforward.
+Entry.
+Entry.
+Straightforward.
+Entry.
+Einmal gibt es keine verschlüsselten Passwörter, hurra.
+Nur der User hat einen Hash.
+Und die anderen sind Plaintext.
+Okay, gut.
+Ja. Colorful Terminal Text, ui.
+Das ist sehr wichtig.
+Ja. Das war's.
+Lass doch mal die Database, genau.
+Ah, guck mal da, nur User.
+Passwort.
+Okay, ja.
+Also wenn du einen neuen User angelegt hast, müssen wir daran ausgehen, dass einfach das Ding schon fertig ist.
+Also das Passwort geht einfach als Hash da rein, das müssen wir nichts mit machen.
+Ja. Das ist schon mal sehr freundlich.
+Gut, ist ein bisschen hässlich, das nochmal zu rappen, aber man will.
+Ja, okay.
+Okay, dann ist es noch Login.
+Login ist dann einfach, werden dann wahrscheinlich Daten abgeflichen.
+Ja. AddEntry ist, ja okay, von den Namen her ist es ja relativ selbsterklärend.
+Ja. Gut.
+PatchString haben wir nach oben.
+Gut, dass du gesagt hast, das ist der Hash-Passwort-Ding.
+Ach ja, gut.
+PatchString, was macht das?
+AccessString.
+Da wird noch was Basis drin, Concatenated.
+Ich glaube, das ist sogar
+Warum?
+Oder wofür?
+Wenn du ein Passwort-Manager hast, willst du einig, dass das halt, glaube ich, unique gehasht wird.
+Ach so, also dass du eine einheitliche Länge hast.
+Kann ich jetzt nicht genau sagen, aber du willst ja eigentlich nicht, dass Passwörter sind, mit unterschiedlicher Länge gehasht werden, weil das dann
+Also zum Beispiel, wenn du jetzt, wenn du zum Beispiel Google dich hier anmeldest, gibst du KI-Blablabla ein, oder Passwort.
+Ja. Passwort mal vorgelegt, egal.
+Premium.
+Gibst aber das 1-Maschinen-Manager hintran, der hat das 1-Maschinen-Manager, geht es dann meistens trotzdem durch zum Beispiel.
+Aber keine Ahnung, das wäre jetzt eine andere Vermutung, wo ich jetzt sagen könnte.
+Ja, ne.
+Sollen wir das zuerst machen?
+Würde ich damit anfangen.
+Okay, dann machen wir das am besten.
+Python-Utils, wie kriegt man nochmal die Schriftlänge raus?
+Kann man dann was dringend und langsam machen?
+Ist es Python wahrscheinlich schon?
+Soll ich mal anfangen?
+Ja, wir können ja auch längstens gucken durch.
+Mir relativ egal.
+Boah, jetzt muss ich wieder einen Python-Syntax.
+Ich glaube, man muss erstmal definieren, war i gleich?
+Äh, ja.
+Na, l.
+Kann man jetzt einfach autoprogrammieren?
+Was ist denn das?
+Python.
+Gut, pfälzisch.
+Einfach blblblbl.
+Einfach nur len.
+Super.
+Das ist so dämlich.
+Es ist Python, okay.
+Vortext, so.
+Gut.
+Sollen wir auskommentieren oder sagen einfach YOLO?
+Einfach YOLO.
+Okay, YOLO, gut.
+Dann if.
+Dann if.
+Äh, warte mal.
+Machen wir true.
+If the space is added at the front, false.
+Okay, müssen wir noch ein if machen.
+Wenn wir da front kriegen, dann machen wir es vorne dran.
+Wenn es false ist, dann nach hinten.
+Was machen wir dann, wenn die Länge von dem Passwort über dem ist?
+Also wenn ich jetzt ein sechs Zeilen langes Ding reingebe und ein siebenlanges Passwort habe und auch sechs Konkordient haben will.
+Ich bin noch gerade am überlegen, was für einen Unterschied macht das?
+Oder wann würdest du spaces am Anfang und wann am Ende hinzufügen?
+Da.
+Front, true, if the space is added at the front.
+Und wenn es da oben false ist?
+Ach so, nee.
+Ja, ich denke YOLO.
+Ich denke YOLO.
+Blödsinn.
+Das können wir so richtig hässlich mit so einem For-Loop machen.
+Richtig scheiß hässlich, geil.
+Ich liebe Pfeifen.
+Ja, nee.
+Ich denke über die, also wenn das die Länge überschreitet, dann müssen wir uns keine Gedanken machen.
+Fehler in der Spezifikation.
+Na?
+Oder hast du gewollt, dass wir darüber reden?
+Das war kein Pfeifen-Kommentar.
+Hashtag war Pfeifen-Kommentar.
+Was genau?
+Ach so, für Kommentare.
+Ja, Kommentare und Hashtag.
+Die Kamera schläft sich.
+Wenn wir die Längen dann
+Wir können
+Ja, genau.
+Das ist einfach richtig
+Komm, wir brauchen jetzt nicht so draußen.
+Wir müssen jetzt einfach richtig hässlich.
+Ich meine, uns kann es ja egal sein.
+Hätten wir Coconuts benutzt?
+Ja. Ja. Ja. Ja. Ja. Ja. Ja. Ja. Ja. Hätten wir Coconuts benutzen dürfen, wäre es vielleicht schöner geworden.
+Nee, ich glaube nicht.
+Ich glaube nicht.
+Und Pfeifen hat das gar nicht so mit dem
+Nein, ich will nicht Doppelpunkt benutzen.
+Du musst
+Ja, da gibt es bestimmt noch irgendwelche coole Pfeifen-Sorten.
+Natürlich, du kannst es auch schön funktional machen.
+Du kannst das auch.
+Aber wie gesagt, ich habe so lange Pfeifen nicht mehr benutzt.
+Lass das mal sein.
+Ja. Ich gehe es nochmal vor.
+E in range, oder?
+Ja, genau.
+E in
+Wenn wir von der Zahl reingehen, hat es ja nicht funktioniert, oder?
+Nee.
+War das inklusiv oder exklusiv?
+Exklusiv
+Also wenn ich jetzt das hier mache
+Wenn zum Beispiel unser String hat drei Stellen lang und wir möchten den noch vier kriegen, dann kriegen wir hier dann 4 minus 3.
+Da ist 1 raus, dann haben wir noch 0, 1 und das wird dann eine Stelle.
+Das würde passen.
+Zur Sicherheit Google-Fragen.
+Wenn es aber gleich auskommt.
+Aber ja.
+Ich denke, das müsste passen.
+Wo ist dann der Doppelpunkt hin?
+In der Make-Up-Woche, oder?
+Hallo?
+Dann beschwerst du dich.
+Ist doch alles ok.
+Ja, bei einem oder nichts ist es ok.
+Front war dann das vorne dran, oder?
+Front ist vorne dran, richtig.
+Dann würde ich ja sagen, sprechen wir das Wort, den Text zwischen, oder?
+Wir packen die Vorschleife ganz nach oben, generieren uns einfach einen String mit der richtigen Anzahl an Leerzeichen und packen den dann, je nachdem, ob es front true oder false ist, vorne oder hinten dran.
+Dann versparen wir uns das schon.
+Dann müssen wir den nicht zweimal machen, dann haben wir den nur einmal.
+Ja. Dann machen wir trotzdem einmal.
+Hm, yes.
+Komm, Hans.
+Ja, passt.
+Geht bloß gleich.
+Bestimmt geht das.
+Jetzt kommt es.
+Ja!
+Wunderschön.
+Wunderschön.
+Ok, es geht sogar noch.
+Es ist ok.
+Ich mache ein Wort als Front unterkringelt, das würde mich jetzt interessieren.
+Ja, ich habe es einfach klammernd umgemacht.
+Ja, warte, wie kannst du das?
+Ich würde schreien.
+Zack.
+Komische Zeichen und Pfeifen.
+Ich habe Angst davor.
+Ok, gut, das sollte aber dann passen, oder?
+Ja. Sollen wir das schon testen, oder?
+Ich glaube, das soll passen.
+Ich glaube, es ist relativ.
+Perfekt, das wird passen.
+Ok, computer.md5, das ist schon implementiert.
+New User.
+Ok, dann wäre es interessant, wie genau wir Sachen zur Datenbank hinzufügen.
+Ja. Aber vorne war doch ein Ding dabei, wie wir das reinkriegen, oder?
+Ich denke.
+Ich glaube, das hat doch irgendwas.
+Session.
+Kriegen wir das dbBaseObject rein?
+Ah, ja, das macht
+Und dann müssen wir doch irgendwie so Session.dbBaseObject konnen, oder?
+Würde ich
+Wäre irgendwie die einfachste Methode.
+Wo haben wir denn Session?
+Warte mal, ich gucke nochmal rein.
+Och, ey, Alter.
+Das ist so ein Grund, warum Leute keine Dinos benutzen wollen, weil es so ist.
+Das braucht dann einfach Arbeit, dass es nicht mehr so ist.
+Das ist user interface with database, oder?
+Das müsste so sein.
+Das ist hier irgendwie.
+Achso, ja, maybe.
+Oder steht vorne was, und dann, je nachdem, wo man vielleicht helfen kann.
+Ok, da wird dieser Session-Widget.
+Ok, kannst du
+Weil wenn du jetzt guckst, Start
+Ja, kannst du irgendwie mit Steuerung klicken auf Session, hat das dann so irgendeine
+Ja, die Session-Seite als Parameter wird ja irgendwo übergeben da rein, oder?
+Ne, ich meine jetzt hier oben, weil das muss ja
+Da ist die Session, guck.
+Hier, createSessionPath.
+Achso.
+Das ist das da oben.
+Ja, ok.
+Und das ist ja die, wo wir dann auch bekommen, glaube ich, nachher, oder?
+Ja, müsste, ja.
+Macht, glaube ich, nicht viel Sinn, wenn das mehr
+Ja, das müsste eigentlich dann wahrscheinlich die Query dann machen.
+Wo dann gefragt wird, ey, was willst du denn machen?
+Und dann machen wir das ja dann, wenn es dann fertig ist.
+Ok, das ist das Session-Objekt.
+Das Session-Objekt kriegen wir dann von dem DW-Ding.
+Von der Deutschen Bahn.
+Deutsche Bahn ist SQLAlchemy.
+Dann
+Premium.
+Ja, finden wir im Internet alles zu SQLAlchemy.
+Wir wollen jetzt ja gerade erstmal Sachen hinzufügen.
+Das wäre so scheiße, wenn wir da eine Dokumentation nachlegen, oder?
+Ja, das ist wahrscheinlich einfacher, direkt nach dem zu googeln, was wir wissen wollen.
+Alchemy.
+Query.
+Ok, Query API.
+Queue Session von Queries on Map Class.
+Ok, Map Class.
+Entity Session.
+Dann habe ich ja so ein Beispiel drin, dass das das Richtige ist.
+User Address.
+Dann kriegen wir ja wahrscheinlich da die komplette Datenbank raus, oder?
+Ich vermute gerade
+Das hatten wir doch gehabt, das war doch am Schluss.
+Das war doch der Teil, wo ich nicht gelesen habe, warum ich kein 1-0 im DDE habe.
+Scheiße.
+Irgendwas mit Object.
+Session Query.
+Ok, ich kann nochmal noch eine andere Sache fragen, glaube ich.
+SQLAlchemy.
+SQLAlchemy.
+Ich glaube, du hast jetzt schon drei verschiedene Schreibweisen.
+Ich glaube auch.
+Aber Google regelt doch.
+Expression Language Tutorial.
+Das brauchen wir.
+Ok, connecten jetzt.
+Create the Engine.
+Das ist die, wo wir ja kriegen, da.
+Ja. Define Create.
+Tables.
+User gleich Table.
+Und dann User mit
+Müssen wir überhaupt neue herstellen und definieren?
+Ich glaube, die Tables existieren.
+Wir müssen nur
+Ja, wir müssen sie nur einfügen.
+Wer ist das?
+Session Request Expression.
+Das muss eigentlich das sein, oder?
+Users.insert.
+Und wir wollen dann das Query-Object.
+Also, wenn wir querien, dann kriegen wir das Object raus, und dann auf dem Korn wir dann Insert.
+Hört sich dann mal gut an.
+Ich glaube, Niklas kriegt gerade die Gräse.
+Aber, keine Ahnung.
+Bedarf er nicht, sozusagen.
+Ich kann es ja nicht beschweren.
+Hätte sich kompetente Leute aussuchen sollen.
+Ich habe auf Stack Overflow gelesen, dass ich jetzt erstmal einen Terminal Recursive Remove mache von allen Folders.
+Ich darf dich ja nicht beschweren.
+Ich glaube, das sieht ja nicht so okay aus.
+Hast du richtig geschrieben?
+Ja. Wunderbar.
+Insert, Updates und Delete.
+Woher ist dieses STMT her?
+Das Statement.
+Achso, ja.
+Delete User Table where
+Okay, es ist halt so ein bisschen SQL.
+Ist das ein Punkt oder ein Kar?
+Das ist ein Punkt.
+Aua.
+Also, ein bisschen so halb wie halb SQL-Ding.
+SQL mit komischen Punkten.
+Insert, okay.
+Also, wir müssen auf jeden Fall den irgendwie querien.
+Ja. Wenn wir das verstanden haben.
+Ja, das wird auch gleich testen können.
+Wir müssen einfach mal raus da.
+File Error.
+Okay, dann wieder in die Database.
+Das ist das Einfachste, was wir machen können wahrscheinlich.
+New User ist wahrscheinlich relativ
+Denkst du Login wahrscheinlich?
+Weil das einfach nur
+Ja, das ist einfach nur
+Holt raus und guckt nach.
+Ja. Okay, dann müssen wir irgendwie Session Name Password und dann müssen wir irgendwie den True und False rausgeben.
+Yes.
+Wie machen wir das?
+Also, wir können es erst mal probieren.
+Kannst du
+Kriegen wir
+Die ganzen
+Was heißt das schon?
+Query?
+Kriegen wir das auf den zweiten Bildschirm?
+Meinst du das, ja?
+Das war ein Premium-Feature-Teil.
+Ganz tolle Möglichkeiten.
+So ist die zweite Bischofshalle.
+Kannst du ein bisschen was zurückschreiben?
+Ich darf nicht antworten.
+Ich werde jetzt nicht googeln, wie man den scheiß Bischof anbetätigt.
+Das war das Erste, oder?
+Das Zweite.
+Session.query Und dann in Klammern was, wo wir hinwollen.
+Session gleich SomeSession.
+Ah ne, guck mal, das ist nur Query sogar.
+Ah ne, SomeSession.query und dann UserAddress.
+Ok, da müssen wir aber
+Ok, ist nicht.
+Session.query Ne, da müssen wir
+gleich Session.query Und dann haben wir da schon unser schönes Model da in unserem PDF drin.
+Ja. Wo man User-Band drauf, oder?
+Ja, aber haben wir
+Aber
+Ok, ganz kurz Verwirrung.
+Weil
+Hast du was?
+Achso, nee, nicht verwirrung.
+Ich hab irgendwie gedacht, dass du hier konkrete Parameter reinzumeißen musst.
+Aber du bekommst dann einfach die
+also die User-Tabelle raus.
+Genau, denke ich mal.
+Wenn ich mich jetzt recht entsinne, dann müssen wir doch auch hintendran jetzt einfach dann
+hängen können, oder?
+Ja, ich meine, das geht in der Art.
+Denkst du, wir müssen auf SQL-Injection so aufpassen, oder können wir das einfach aufjodeln?
+Also, ich meine, wenn wir hätten drauf
+Also
+Dann wird's in der Spezifikation.
+Das Optional kostet extra.
+Ich meine, man
+In Bedenken muss man extra bezahlt werden.
+Ja, oder?
+Achso, da hinten hat das ja irgendwie gestanden mit dem wer, oder?
+Da, ja, ja, User-Tabelle.
+Ok, da müssen wir mal User.
+Oder?
+Die Frage ist, ist jetzt das Queue das Ding, worauf wir arbeiten, oder das Queue von vorne?
+Aber eigentlich Query Punkt
+Ne, ich glaube, das ist was anderes.
+Dann lass das besser in zwei Zeilen aufteilen.
+Also dann
+Expression
+Statement, das ist ok.
+Queue Punkt
+Ne.
+Ich möchte eine kleine
+Ja
+Queue Punkt
+So, Parameter kriegen wir rein.
+Name
+Was war das C da drin?
+Da bin ich mir jetzt selbst nicht sicher.
+Vielleicht wenn du verschiedene
+Hm.
+Können wir den Parallel noch weglassen?
+Probiere es mal aus.
+Ok, ich meine
+Unreserved Reference Ware, ok, das kennt das Ware nicht.
+Also, jetzt einfach mal so visuelle Unterschiede.
+Da ist es erstmal in Klammern gepackt.
+Und das Ware ist ja dann auch etwas, was spezifiziert, worauf du eine andere Operation anwendest.
+Also hier ist es
+Du willst irgendwas deleten.
+Wo?
+An der Stelle?
+Das bezieht sich ja da vorne drauf.
+Stimmt, stimmt, stimmt.
+Was war denn da vorne dran?
+Ist das ein Get oder sowas?
+Ha!
+SQL
+Ja, so kann ich das auch schreiben.
+Was ist denn da drin?
+Das Access-Gerät ist was drin.
+Ne, ne, ne, ne.
+Hier steht nichts.
+Stand da nicht irgendwas auf einer der ersten Seiten zu?
+Ich glaube nicht.
+Von Get.
+Können wir mal probieren.
+Gehen wir mal nach oben und gucken mal, ob wir mit Get oder einfach
+Gerät.
+Gerät.
+Äh, Pipe-Method.
+Das sieht alles scheiße aus, Hilfe.
+Warum haben die so ein beschissenes D&D-Logo?
+Insert, das ist
+Auch noch Inserts da.
+Da hast du auch noch Insert gesucht.
+Hört sich clever an.
+Wenn wir zu Get sind, kriegen wir doch ein Constructed Query Directing.
+Können wir noch mal auf Query gehen?
+Ja, das
+Ist das nicht die gleiche Seite?
+Ich glaube nicht.
+Das ist die Query-API.
+Ja, aber die da vorne auch.
+Ach ja, das war's.
+Dann gucken wir mal, wenn was.
+Get.
+Get hört sich sehr vernünftig an.
+Get 5.
+Ach so.
+Ich glaube, das ist auch
+Ich glaube, 5 holt
+Okay, das ist dann der Key.
+Nee, guck mal da, Get ID 5, Version ID 10.
+Das ist der Key hier.
+Aber hier können wir dann auch spezifizieren, wenn wir irgendwas haben wollen, das nicht
+Waren User unique vom Namen her?
+Nein, nur ID.
+Oder geh noch mal in die PDF.
+Aber ich meine
+ID war so blau unterlegt.
+Ich würde das jetzt mal so interpretieren.
+Okay, Name ist dann nicht unique.
+Okay, dann müssen wir nicht querien nach Name und dann gucken, dass das Passwort von einem der Leute passt.
+Ja, genau.
+Also am besten halt einfach ein And.
+Oder ist einfach ein Join.
+Nicht ein Join, aber halt ein Bullseye.
+Oder beziehungsweise wir
+Ich meine, wir
+Okay, wenn wir das so machen, wir holen uns die ID, also Get
+Also holen uns die ID an der Stelle, also where Name equals den Name, den wir als Eingabe bekommen und das Passwort.
+Ich meine, wenn wir eine passende ID finden, heißt das ja im Prinzip, wir haben einen User, also entweder einen User in der Database gefunden, für den halt Name und Passwort
+Oder halt nicht.
+Na gut, dann müssen wir
+Dann machen wir da auch mal Query drauf auf Name und Passwort.
+Wenn es uns ein Objekt zurückschmeißt, dann gut.
+Dann existiert es nicht, dann kannst du es ja nicht erzeugen.
+Und ansonsten erzeugen wir den Adding und Return True.
+Dann brauchen wir die ID ja nicht direkt, oder?
+Das ist wahrscheinlich richtig.
+Die ID wird ja, glaube ich, automatisch erzeugt dann von diesen
+Kostet es so an?
+Ich habe so Angst.
+Ich denke, die ganze Zeit machst du halt komplett was falsch, oder?
+Vielleicht hat es Aufmerksamkeit, also
+Ja, wir werden durchgefallen.
+Wenn wir das benutzen, seid ihr durchgefallen.
+Ja gut, dann
+Query
+Gibt es was wie ein Select?
+Wie im Normalen?
+Nee, your name is unique.
+Da!
+Given name does not already exist.
+Das ist wieder ambiguous.
+Nicht unsere Schuld.
+Das reißt sich gerade so zusammen.
+Das kann es nicht werden.
+Keine Chance.
+Keine Chance.
+Einfach eine angefallene Methode.
+Da müssen wir wirklich nur noch einen Name suchen.
+Wenn der Name da ist, können wir einfach das Objekt erzeugen und reinschmeißen.
+Passwort ist egal.
+Nämlich spezifiziert.
+Wenn da alle lolol als Passwort nehmen, dann ist es nicht unser Problem.
+Das ist richtig.
+Okay, aber dann müssen wir noch rausfinden, wie eine Query funktioniert.
+Irgendwann erkenne ich SQLAlchemy QueryExample oder so.
+Hä?
+Gibt es ein Select?
+Wie in normalem SQL?
+Ich glaube, das Select ist doch das, was wir gerade machen.
+Session.querySelectUser Ja, weil User ist hier die Tabelle, in der wir arbeiten.
+Und mit Select könntest du ja auch
+Form ist das, sorry.
+Beginner-Tutorial-Example.
+Das ist unser Niveau.
+Das ist es auch.
+Es ist ja nicht mehr falsch.
+Hurra.
+Tables.data.metadata.tables Wie machen die das?
+Ah, die machen einfach db.table.
+Okay, gut.
+Weil der wird ja erzeugt.
+Das ist eine etwas andere Methode.
+Eine andere Methode.
+Das funktioniert bestimmt beides.
+Damit ist Select.
+Ja. Hurra.
+Also machen wir halt einfach darauf, die Query sollte ja funktionieren trotzdem.
+Dann machen wir mal q.select.
+Erstmal noch select a name.
+Äh, ja.
+Den müsstest du eigentlich filtern brauchen, oder?
+Aber das können wir doch schon einfach mit einem where und einem rotor machen, oder?
+Genau, filtern.
+Also ob das Tuple, was wir zurückbekommen, dann der ist, wollen wir nachher gucken.
+Achso.
+Mach mal ganz langsam.
+Können wir uns mal anschauen, wie das Objekt dann auch aussieht.
+Ja, clever.
+Wir sind ein bisschen schlau.
+Eines auf dem anderen.
+Wir haben gesagt, ihr seid schlau.
+Wahnsinnig.
+Okay, select.
+Wie?
+Nee, nicht id, name, oder?
+Ja, stimmt.
+q.name.
+Ich weiß nicht.
+q.name equals name.
+Ob nichts unterkringelt?
+Wenn es noch nichts unterkringelt, würdest du es nochmal sagen?
+Jetzt geht es wieder.
+Jetzt steht im Idealfall irgendwas in unserem S drin.
+Jetzt müssen wir nur noch überprüfen, ob es B ist, oder nicht.
+Sollen wir mal was probieren?
+Es bleiben da keine Fehler drin.
+Sehr gut.
+Okay, wie starten wir das dann?
+Normalerweise geht einfach F5, oder oben der Start.
+Ich finde das einfach F5.
+Okay, dann machen wir New User.
+Einen geben wir doch.
+Dann nenne ich Hans Peter.
+Hans?
+Peter?
+Passwort ist lollol.
+Da gibt es einen Fehler.
+Query object has no attribute.
+Select.
+Gut zu wissen.
+Interessant.
+Müssen wir das Query machen?
+Können wir das auch schön machen?
+Also dieses Division Object.
+Das ist ja eben ein Table, den die geladen haben.
+Ja. Existiert das vielleicht schon?
+Ist es dieses Object, was wir da reinkriegen?
+Die Session?
+Nee, Session ist was anderes.
+Das ist ja Zeug, oder?
+Da ist ein Metadata jetzt.
+Das sieht mich an wie Metadata.
+Am Ende hat SQLAlchemy einfach so eine Funktion, in die man ein paar Parameter reingeben kann, um zu überprüfen, ob der irgendwo schon in der Tabelle existiert.
+Wir machen uns hier gerade total vieles egal.
+Ich glaube auch.
+Es kann sein, dass wir diese Scheißquery gar nicht brauchen.
+Können wir
+Lass es probieren.
+Dann brauchen wir noch ein From.
+Was ist diese Session Nummer?
+Create Session Engine.
+Session Engine.
+Die gibt uns diese ORM-Session.
+Die hat voll viele Parameter.
+Existiert dieses Ding überhaupt schon?
+Ja, das Create Session wird ja ganz normal anfangen.
+Ich meine, die Datenbank existiert aber schon.
+Das ist jetzt nicht das Problem.
+Autocomment Info.
+Info Queries.
+Ich meine, wir können ja nachschauen, ob irgendwo die entsprechenden Tabellen erstellt werden.
+Weil gesehen habe ich es ehrlich gesagt noch nicht.
+ORM-Session eingeben.
+Ich glaube, das ist einfach eine Partei, die irgendwie abfliegt, oder?
+Wo soll das sein?
+Test.db.
+Ja, okay.
+Ah, yes, readable.
+Da ist noch was drin.
+UserID, Integer.
+Ja, gut, passt.
+Readable.
+Hier ist nochmal ORM-Session.
+Das ist, denke ich, auch viel zu kompliziert.
+Wahrscheinlich.
+Ich kann es nicht im Blick rüber sehen.
+Wäre ich auch falsch.
+Gut.
+Ich gehe jetzt nur auf dem Stuhl.
+Session.
+Begin Session.
+Da ist noch was drin.
+Tracking.
+Ach, das sieht doch gar nicht so scheiße aus.
+Ich glaube, wir kriegen gleich wieder das Tutorial dadurch, dass die so einfach sind.
+Wahrscheinlich am schnellsten.
+Yeah, that would be sad.
+Ja. We will create an object.
+We will create objects.
+Simple select.
+Okay, Session, das ist das, was wir haben.
+Okay, dann ist es select.
+User, where, username.
+Die Frage ist, wo kommt die Session da drin vor?
+Das ist nur Statement.
+Und du callst dann doch auf die Session, callst du die Scheiße drauf, oder?
+Ah!
+Ah!
+Clever.
+Du erzeugst erst mal die Extraction und danach callst du das.
+Wie SQL.
+Voll easy.
+WD hat sich gelohnt.
+Wenn man den letzten Teil geschwänzt hat, ja.
+Okay, also wir machen erst mal unser Statement.
+Ja. Ich meine, wir haben ja schon angefangen.
+Fertig, oder?
+Wenn wir nicht auf Session scrollen.
+Ja, halt, einfach.
+SCC gleich select.
+Nebenwärts großgeschrieben, hier hab ich großgeschrieben, oder?
+Wahrscheinlich.
+Also da ist es klein geschrieben, aber ich weiß nicht.
+Nebenwärts großgeschrieben.
+Ah, stimmt.
+Stimmt.
+Warte, häng ich gerade?
+Ich häng gerade, ich häng gerade, ich häng gerade.
+Ich glaube
+Ich meine, es ist ja
+Ja, guck mal, hier ist das Table
+Es ist im Prinzip egal, was wir selecten.
+Wir können einfach ein User selecten.
+Es geht uns ja nur darum, dass wir irgendwas zurückbekommen.
+Also schmeißt ihr einfach selectUser rein und dann machen wir in Spezifikationen eigentlich genau das gleiche wie da.
+User.Name und dann equals dem Namen, den wir als Eingabe in unsere Funktion bekommen.
+Das ist zwar eigentlich 1 zu 1, das, was wir wollen.
+Dann ist select ein bisschen anders, oder?
+Meinst du?
+Wenn du da unten bist, siehst du das Ding, selectUserAccountId, blablabla, das ist schon richtig.
+Ja. Aber hier haben wir nur User drinstehen, zum Beispiel.
+Das hier ist ja das SQL Query.
+Also so verstehe ich das.
+Und User ist sozusagen das Objekt.
+User besteht dann aus ID, Name und Fullname.
+Aber guck mal, der UserAccount ist hier im Front drin.
+Das ist doch wahrscheinlich der hier, oder?
+Ähm, nee.
+Wait.
+Kann es nicht sein, dass das selectObject einfach ein bisschen anders funktioniert?
+Da auch.
+Da steht dann selectAddress.
+Und dann .join auf address.user.
+Where user.name gleich sendi.
+Soll ich probieren?
+Ja. Also ich mach das erstmal Version 1, weil dann müsste das hier dann da Name, nee, User.
+User.
+SelectUser, where user.name gleich Name gleich, nee.
+Ja, okay.
+Select hier.
+Wir müssen immer noch gleich importieren.
+Ist das nicht importiert in der Datei?
+Wahrscheinlich nicht.
+Nee.
+Nee.
+Reinder.
+Reinder.
+Warum hängt da das S rum?
+Ah, das ist wirklich ein S.
+Ja, das ist ja klar.
+Ja, ja, ja, ja.
+Jetzt meckert das da noch rum.
+Ja, es ist hier nur gelb unterstrichen.
+Union column got bool instead.
+Achso, .
+Das ist dann so ein in
+Gut, da unten ist auch das .where.
+Ist gleich geregelt.
+Das ist richtig.
+Also ich hoffe mal, das funktioniert dann noch.
+Nicht ernstlos.
+Nachher beim Testen.
+Warum?
+Ich hab doch nichts getan.
+Session.
+Scalars.
+Okay, dann machen wir Session.Scalars.
+Das sollte funktionieren.
+Wir machen print.
+Session.
+Scalars.
+Scalars.
+Sollte aber eigentlich wahrscheinlich
+Nee, wir haben nicht Session, oder?
+Doch, wir haben Session.
+Session, ja.
+Hab ich das falsch geschrieben?
+Warum ist das rot-weiß?
+Session.Scalars.
+Das sieht nicht gut aus.
+Das sieht auch oben schon nicht gut aus.
+Ja, weil das hat eine andere Eindrücksgrufe.
+Du hast ein Wertzeichen davor vergessen von dem Friend.
+Ich liebe Pfeifen.
+Pfeifen ist toll.
+Wie schön.
+Was passiert mit dem Lese?
+Jetzt müsst ihr aber nicht Scheiße rauskriegen.
+Error, User, weil es Pass ist und wahrscheinlich einfach so ein False wird.
+Wir haben keine Fehlermeldung oder sowas.
+Wir kriegen ein Result Objekt raus, das funktioniert.
+Also die Query, irgendwas macht die Query.
+Was sie macht, wissen wir nicht, aber sie macht irgendwas.
+Warte, sollten wir ein Objekt rausbekommen?
+Also es gibt ja trotzdem ein Objekt zurück und ob das Objekt leer ist, ist ja egal.
+Dann lieber prüfen wir, ob eine Tabelle leer ist oder nicht.
+Wie richtige Programmierer.
+Ich habe auch irgendwie das Gefühl, dass man so normalerweise nicht mit Datenbanken arbeitet.
+Ich auch nicht.
+Ich habe es auch noch nicht gemacht.
+Das ist der größte Gefühl, dass du jetzt einen Chasen-Trial frst.
+Die Query, wie sie sagen, ist eine Query wieder.
+Du bist first.
+Ich frage jetzt, was die Documentation hier perfekt abwartet.
+Das erste Element der Datei bleibt aus.
+Das ist Legacy, leider.
+Dann ist es eh egal, das ist erledigt.
+Gibt es da doch irgendwas in dem coolen Datei, wo wir gerade waren?
+Ich glaube, da geht es zum ersten Mal nur um Queries.
+Das ist zu viel Text.
+Können wir Counter nach 0 gehen und gucken, ob es funktioniert?
+Ja, wahrscheinlich gar nicht.
+Dann haben wir halt eine Zahl, so wie wir es anfangen können.
+Das muss aber gerade bis oben.
+Ich würde es einmal da.
+Geht das?
+Okay, ist gut.
+Session machst du dann nach der Query, wenn du da dran bist.
+Okay, dann haben wir noch Klammern.
+Ansonsten können wir es einfach probieren.
+Gleich rot unterringelt alles.
+Ich töte dich.
+Hans-Peter.
+Du hast einen großen L.
+Nein, nein.
+Ich denke, das muss zum Oben hin.
+Oder auch nicht.
+Welchen Objekt hast du noch?
+Was für verschiedene Types gibt es da?
+Was ist überhaupt dieses Scaler-Objekt?
+Ich glaube, das ist das.
+Ja, das ist das.
+Scaler-Objekt, okay.
+Super.
+Warum ist das ein Legacy-API?
+Warum ist das auch ein Legacy-API?
+Von wann?
+Okay, der Post ist von vor vier Jahren.
+Hier links vor Version 2.0.
+Guck mal.
+Das ist das Scaler-Ding, oder?
+Wo ist es?
+Unten waren auf jeden Fall mal die Worte, wo du ganz am Anfang warst.

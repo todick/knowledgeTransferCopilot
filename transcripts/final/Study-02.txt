@@ -1,0 +1,569 @@
+Läuft jetzt.
+So, als erstes werde ich mal das Assignment lesen, denke ich.
+Zumindestens mal kurz.
+Ja, ich bin am lesen.
+Ein Sekunde.
+Aha.
+Ich denke mal, das hier ist quasi das Datenbankformat.
+Ohne, dass ich es bei jetzt genau durchlesen will.
+Machen wir mal den Code rein.
+Vielleicht beim Mail anfangen.
+Aber hier ist ja nichts mit ToDo, also muss ich das nicht machen.
+Ich muss ja nur Dinge mit ToDo machen.
+Hier ist ausgefüllt.
+Hier ist auch erstmal alles ausgefüllt.
+Jetzt muss ich nur die Datenbank machen.
+Sieht gut aus.
+Also, Datenbank.
+Das ist wohl die einfachste Methode.
+Die logischste.
+Also denke ich mal, das Hash vom Passwort.
+True.
+Return true, if no user with the given name already existed.
+And the user has been created.
+Checken, ob der User existiert.
+Ist natürlich die Frage.
+How?
+Cooles Suggestion, I guess.
+Der andere Komplettknopf ist bei meinem.
+Ist das Session-Ding was, was von euch kommt?
+Oder aus einer Library?
+Also, das ist wie
+Wie navigiert man denn irgendwohin?
+Sprich nicht, lass!
+Model.
+Ah, ja, ja, ja, ja.
+Hier sind User-Dinge.
+Hier sind keine Datenbank-Dinge.
+Eine Option.
+Eine Query.
+Warum kommt die Datenbank her?
+User von Entry Name.
+Add Entry Query.
+Muss man diese Methoden eventuell hier sogar verwenden?
+Ne, man hat ja Namen und Dings schon gegeben.
+Ich frag mich, wo hier grad die Ergänzungen kommen.
+Dieses Query.
+Ist das hier drin?
+Ne.
+Hä?
+Aber woher kommt denn der Kram?
+Woher kommt denn Session?
+Steht das bestimmt irgendwo hier, wo ich nicht hingeguckt hab.
+Ich könnte ja jetzt einfach schon interact with the database.
+Aber wo ist denn die Database genauer geschrieben?
+Hm.
+I guess ich bin doof.
+Lassen wir das einfach mal so.
+Query nach einem User und filter dann den User Name.
+Ist das mit dem Name so?
+Ja, Name.
+Sieht gut aus.
+Und dann das Name.
+Wenn der existiert.
+Sagen wir mal.
+First soll der eigentlich sagen, wenn der existiert.
+Dann wollen wir eigentlich hier noch Dinge tun.
+Eigentlich nur im else-Fall.
+Bevor wir returnen, denke ich mal.
+Geht auf Google, wird schon schlauer zu sein.
+Ich google jetzt.
+Database.
+Ah, ja.
+Irgendwo hat in dem Ding irgendwas zu PySQL oder sowas gestanden.
+Hab ich doch vorhin gelesen.
+SQLite Preview.
+Das ist dann bestimmt SQLite.
+Command execute.
+Aber hier kann man ja nicht querien.
+Wie kommt das auf query?
+Query SQLite 3.5.
+Ich müsste hier niemals so ein Kram machen.
+Ich mach da irgendwas falsch.
+Warum kann man hier nicht drauf drücken?
+Um dahin zu kommen, wo es herkommt.
+dbnewser Ich bin so verwirrt.
+dbcreate-engine db-sql-alchemy Ist das hier irgendwo in den Includes?
+Okay, dann.
+Weiter googeln.
+alchemy-query Ja, okay.
+Query scheint zu existieren.
+Dann vertrauen wir mal, was Copyright hier draus gemacht hat.
+Auch wenn es unterkringelt wird.
+Query Returned entsteht First Diese First Funktion.
+Also nach meinem Nach meinem Denken wäre das jetzt.
+Such alle User.
+Warum steht hier denn überhaupt User?
+Das ist doch schon sass.
+Weil das eine Klasse ist.
+Zu wenig Wissen.
+I guess we can do this.
+I guess man kann das hier dann so da rein machen.
+Ja, I guess.
+User und dann Filter und dann Username nehmen.
+Ah, uff.
+Mein Kopf ist dumm.
+Das Ding ist schon richtig.
+Mein Kopf hat es genau anders rumgedacht.
+Okay, für den Fall, dass wir noch keinen User haben.
+In meinem Wim ist es anders rum.
+Dann machen wir Add User Name und Password.
+Dann habe ich mich nur zu stark gestellt.
+Zumindest ist es auch kein Fehler mehr.
+Lassen wir es einfach mal so.
+Login.
+Checks whether a user with a given name or a password exists.
+The user object, if user exists, can be logged in as none.
+Dann können wir auch wieder so Ach, ich brauche ja keine kleinen Namen.
+Session Query User Filter Username Password Return Session User Filter Man kann das wahrscheinlich einfach so returnen, weil das sonst none ist, I guess.
+Kann ich aber gleich noch googeln.
+SQL Alchemy First One Hier link.
+Wo steht, was es returnt?
+Wie kann man denn suchen?
+Auf Linux Ding Ah, unten um das Suchding.
+Ja, das wollen wir.
+None of the result does not contain any rows.
+Also sollte das passen.
+Add an entry to the database.
+DB Session object.
+The user who is currently logged in.
+Name Info Warum haben wir Info?
+Was ist hier auf dem User?
+Hä?
+Die Entry-Info Ah, Entry Entry False, if there is already an entry with the name of the current user.
+In this case nothing is added.
+Truth, there is no entry.
+Das heißt, ich muss mir eigentlich Ich muss mir eigentlich erst mal den User abspeichern.
+Mit diesen Jetzt sage ich if Jetzt ist die Frage, wie ich mit dem User weitermache.
+User entries Ah, User ist jetzt ein Objekt von dieser Klasse hier.
+Vielleicht weiß der Copilot es weiter.
+Oh ja, perfekt.
+Filter EntryName Aber EntryName stimmt nicht.
+Aber was ist die richtige?
+Doch.
+Name Aber was ist Info jetzt?
+Ah, Info ist wahrscheinlich Wahrscheinlich ein ganzes Ding.
+Name ist ja ein Entry von Name.
+Okay, Copilot ist definitiv schon schlauer als ich.
+Okay, in dem Fall return wir False.
+Stimmt.
+Und im anderen Fall Fügen wir das Entry an und sagen Delete Entry Deletes an Entry from the database.
+True if the Entry exists in this case.
+It is deleted.
+Das heißt, wir holen uns wieder den User.
+Dann sagen wir If User Entries Filter Was haben wir denn?
+Der EntryName, ja.
+Okay, das war nicht.
+EntryDeleted Dann True Else False Compose a string of all entries as a padded table.
+Extend a given string with spaces The text to extend How long the final string should be.
+True if spaces are added at the front, false if spaces are added at the back.
+Front Dann wollen wir vorne Spaces anfügen.
+Ja. Genau.
+Am liebsten wollen wir sie hinten anfügen.
+Sieht auch gut aus.
+Compose a string of all entries as a padded table.
+CurrentUser User haben wir ja dann schon.
+Brauchen wir das gar nicht.
+Nicely formatted a string of all entries of that user in the following format.
+Let n be the length of the longest value in the name column.
+Let n be the length of the longest value in the name column.
+Let s be the two spaces.
+Wie bitte?
+Let e be the entries.
+Then compose the following table.
+Hier ist dann wohl schon richtig formattet, I guess.
+Ah, okay.
+Dann haben wir hier den längsten und dann paddelt man alle auf diese Länge.
+Und zwar paddelt man die names front.
+Ok, das heißt, wir haben erst mal die entries.
+Und dann wir brauchen longest name.
+Was tut es hier?
+Lambda Egg.
+Egg sind dann alle Einträge oder sowas, I guess.
+Hä?
+Zu wenig klare Pfeifensyntaxen.
+Ok, aber I guess es tut schon das Richtige.
+Brauchen wir die longest mail.
+Ja. Ok.
+Let s be the two spaces.
+Ah, ich hab einmal hier two spaces davor.
+Ok.
+Das heißt, ich sag jetzt Egg rigged und dann sag ich four machine entries.
+Das hier oben meckert auf jeden Fall schon.
+Ok, es sagt aber nur, dass der Name double defined ist.
+Das ist glaube ich egal.
+Pfff.
+Zu viel Maus.
+Ok.
+Zwei leere Dinge.
+Name.
+Pad the name with spaces at the back.
+Hä?
+Aber der hieß ja nicht spaces at the back padded.
+Seltsam.
+I guess.
+Padstring den Name nach longest name.
+Das heißt man müsste quasi noch einmal irgendwie das Max mit 4 nehmen oder sowas und bei Info So dann padden wir Mail, dings, padden wir auch, ne Mail padden wir an Front und das andere padden wir an Back.
+Was ist das Default Value?
+Default Value ist True.
+Das heißt wir müssen hier noch sagen, Front Falls, ok und danach schreiben wir das Passwort.
+Warte, was geschieht hier überhaupt?
+Warum sind das so zwei Zeilen?
+So hier und hier, Name, padded with Spaces, Info, padded with Info Spaces, dann kommt das Passwort.
+Ne, es heißt wahrscheinlich, es heißt zwei Spaces, ah ok, hier sind zwei Spaces.
+Das heißt, hä warum schreibt der, ok er schreibt das Passwort einfach immer auf dem Stern, ok dann stimmt das sogar so wie es ist.
+Und in der nächsten Zeile kommt der Entry Name padded with Spaces at the Front.
+Achso, wait, einmal machen wir es für den User oder was?
+Hä?
+Ne, E-A, E-I.
+Das sind erst die Entries, das heißt, das ist eigentlich glaube ich erst dieser zweite Teil hier.
+Ja, das klingt logisch, padded with Spaces to 8 at the Front.
+Also hier müsste man an der Stelle wahrscheinlich auch nochmal PadStream machen.
+Machen mit 8.
+Was meckert er denn hier schon wieder?
+Ah, dass die Line so lang wird, das ist mir eigentlich geschissen.
+Aber ich kann trotzdem glaube ich irgendwie Strings umbrechen, pfeifen oder so.
+I hope.
+Oder war das mit einem Backslash am Ende?
+Egal, es zeigt aktuell noch keinen Fehler.
+So, aber das hier scheint ja jetzt erst das hier zu sein.
+Und was ist dann das groß geschrieben Name?
+Ach, uff, das ist einfach das hier.
+Alter, ich bin schon dumm.
+Okay, also zwei leere Striche, dann Name.
+Dann zwei leere Striche, dann Info.
+Dann zwei, dann Password.
+Und dann, ja, genau so.
+Man merkt, man müsste lesen können, um diese Aufgaben zu machen.
+Dann sieht das eigentlich, glaube ich, ganz okay aus.
+Es nervt mich gerade, dass er hierfür eine Pep-Warning schmeißt.
+Könnte aber eigentlich egal sein, so.
+Perfekt, sieht gut aus.
+Ah, ich höre Geburt.
+Okay, wir holen das Entry von dem User.
+Das heißt, wir machen CurrentUser, Entries, Filter, genau.
+Ja, sieht gut aus.
+Ist mir egal, der
+Okay, UpdateEntry.
+Updates the Entry.
+Dann holen wir uns wieder den User aus der Session.
+Und dann die EntryObjectToUpdate.
+Warte, schauen wir einfach mal, was Copilot sagt.
+Ah, SmartSession.
+Aber dann brauche ich ja den User gar nicht.
+Deswegen ist der auch nicht gegeben, Junge.
+Okay, Entry, Name, Info, Password.
+Ja, okay, nur die drei Dinge, dann war's das ja.
+Dann sind die To-Dos hier jetzt, glaube ich, alle ausgefüllt.
+Aber was fehlt denn dann überhaupt noch?
+Test zu schreiben eventuell.
+Nein.
+Keybindings.
+Ich will erst mal schauen, ob ich alles wirklich schon fertig habe.
+To-Do.
+Kein To-Do hier drin.
+To-Do.
+Male.
+To-Do.
+Nee.
+To-Do.
+To-Do.
+Nope.
+Dann könnten wir jetzt eigentlich anfangen, Test zu schreiben, I guess.
+Als erstes würde ich mal für die PadString-Methode schreiben, weil die ist ja eine ganz klassische Methode, die man unitesten kann.
+Irgendwo stand irgendwas von Testing Framework.
+PyTest.
+Einmal googeln.
+Einfach Methoden definieren.
+Die müssen wir wahrscheinlich mit Test anfangen, I guess.
+Und kein Dings.
+Das hier ist aber auch nur ein dummes Exempel.
+Was hat das hier denn mit PyTest zu tun?
+Hier wird ja gar nichts mit PyTest gemacht.
+Wird einfach nur asserted.
+Ist das ein anderes PyTest?
+Gibt's mehrere PyTests?
+Aber ich schreibe das jetzt einfach so.
+Kommon.
+Kommon.
+PyTest.
+Ist das ein Ding?
+Was ist in der Dinge?
+Haha.
+Oh ja.
+Aha.
+Optimal Symbols.
+Hahaha.
+Okay, wir haben jetzt PyTest.
+Und wir
+So, und jetzt
+Genau so Dinge will ich.
+Mehr davon.
+Test wird gepaddet auf 10 mit
+Was ist ein aussagekräftigerer Test?
+Und dann haben wir
+1, 2, 3, 4, 5, 6.
+Und dann die 4.
+Sieht gut aus, würde ich sagen.
+Rein mit dem Import.
+Wollen wir jetzt dafür verschiedene Tests?
+Reicht eigentlich, wenn wir eine Methode dafür haben.
+Ja, gib mir mal noch ein paar coole Edge Cases.
+Oh ja, ja.
+Gut, interessant.
+Dann nehmen wir noch einen.
+Nehmen wir auf die gleiche Länge.
+Jetzt, jetzt kommt der interessante Fall.
+Was passiert denn, wenn wir etwas auf
+Okay, das können wir auch noch schnell machen.
+Wenn wir
+Genau, wenn wir etwas
+Methode Länge 0 padden.
+Da muss ich mal ganz kurz in die Doku aufsteigen.
+How long the final string should be.
+Das ist jetzt nämlich confusing.
+Das ist natürlich jetzt confusing, ob wir
+ob wir hier Dinge aus dem eigentlichen String rausschmeißen oder nicht.
+Aber eigentlich steht hier, dass der final String so lang sein muss.
+Aber eigentlich steht hier auch Extend.
+Das ist confusing.
+Gib mir einfach mal mehr Interpretation von Copilot.
+Welche Methode haben wir denn noch zum Testen?
+Wir haben eventuell noch
+Ja, Hatch Passwort brauchen wir nicht zu testen.
+Die ist ja schon vorgegeben und implementiert und verwendet ganz viele Libraries.
+Die muss halt so gut sein.
+Und die anderen könnte man ja nur testen, wenn man irgendwelche Mockclasses hätte.
+Jetzt ist die Frage, ob ich Mockclasses schreiben möchte.
+Oder ob ich lieber google, wie man Mockclasses schreibt.
+Oder ob ich es einfach sein lasse, die Tests zu schreiben.
+Ich führe mal diesen Befehl aus, der irgendwo hier drin stand.
+Python 3 mainpy testdb copy.
+Schauen wir mal, ob der mir irgendeine interessante Richtung gibt, in die ich gehen kann.
+Wo gehe ich in die Terminal?
+Hier.
+No module name click.
+Type install click.
+Fib 3 not found.
+Fib install click.
+Fib not found?
+Hä?
+Brew gibt es hier nicht, weil wir sind nicht auf Mac.
+Dann ist das bestimmt apt.
+Und dann müsste man jetzt noch das Passwort raten.
+Das sieht alles aus, als sollte man das nicht so tun.
+Eventuell sollte man einfach das hier tun.
+Aha.
+Passt, passt, passt.
+Schöne Prozentzahl, die sieht gut aus.
+Geht ja bis hoch auf 100, mehr brauche ich ja gar nicht.
+Jetzt ist nur noch die Frage, warum habe ich diesen Befehl hier gegeben?
+Run configuration, it is already present.
+Von der main?
+Von wo?
+Doch.
+Was sind die run configuration?
+Hier, okay.
+Error while connecting to the db.
+Muss ich den vielleicht von hier drin ausführen?
+Nee.
+Der kommt von hier.
+Create session, erstellt keine Session?
+Das ist schon was Saßes.
+Warum erstellt es keine Session?
+Warum erstellt es keine Session?
+Das hier sieht doch alles richtig aus.
+Sage ich mal so.
+Außer dass das hier wahrscheinlich malformattet ist.
+Man kann ja keine Browser setzen.
+Scheiße, man.
+Okay, so weit kommen wir gar nicht.
+Kommen wir noch bis hier hin wenigstens?
+Nee.
+Kommen wir bis da hin?
+Kann man hier keine breakpoints setzen?
+Wo geht der Scheiß kaputt?
+Hä?
+Error while connecting to the database.
+Error while.
+Das kommt nur von hier.
+Und das wird nur aufgerufen.
+Achso, ich muss ein path zu einer database angeben.
+Aber wie soll ich das denn machen?
+Die run-configuration ist mir ja schon gegeben.
+Ne, macht ja auch nichts besonderes.
+Testdb, Testdb, wo Testdb?
+Testdb.
+Oh mein Gott.
+Testdb.
+Das soll gar nicht die Test sein.
+Wow, ich werde hier einfach im Dunkel gelassen.
+Eine Sekunde.
+Please stand by.
+I'm doing it.
+Unitestdb.
+Ah, Scheiße, man.
+Paste.
+So, kriegen wir das hier jetzt alles nochmal?
+Restore Faith in Humanity?
+Oh man, wie ist das?
+Ist das nicht der Insert?
+Oh, ich will doch nur die hier.
+Ich kann die einfach rerollen wahrscheinlich.
+Hm.
+Äh, reroll from disk?
+Nicht?
+Git.
+Rollback?
+Ja. Ja, man.
+Versuchen wir erneut die run-configuration.
+Was für ein
+Login.
+Login as
+As anonymous.
+Password ist auch anonym.
+Error.
+Username or password is wrong.
+Ah, Login ist natürlich
+Ah, Login ist natürlich
+Hm, weiß ich nicht.
+Okay, ich bin dumm.
+Anon.
+Anon.
+Okay, success.
+Login.
+Oh, Quit.
+Haben wir Quit schon mal hinter uns?
+Hoffentlich wird das alles gespeichert, I guess.
+Es wird gespeichert, Login.
+Anon.
+Anon.
+Anon.
+Username or password is wrong.
+Vielleicht wird's doch nicht gespeichert.
+Vielleicht muss ich doch
+Mitglied im Neustart einen Neuer gemacht?
+Ja, okay.
+Vielleicht hab ich auch was falsch gemacht.
+Vielleicht sollte es gespeichert werden.
+Aber darüber passiert jetzt noch nix.
+Viewlist müsste leer sein.
+Genau.
+Show Entry hab ich keins.
+Oh, Crash, Crash, Crash.
+Crash und gut.
+Äh, meine Zeit ist glaub ich
+geht langsam weg.
+Was haben wir grad gemacht?
+Show Entry.
+New User.
+Login.
+Was passiert eigentlich?
+Was passiert eigentlich?
+Okay, non.
+Das ist ja Intended Behavior.
+Es könnte aber hier sein.
+Warum mach ich eigentlich so Dinge?
+Warum mach ich so Dinge?
+Ja, wo hab ich hier?
+Current User Entry ist okay.
+Das sieht aber alright aus.
+Aber das können wir noch kürzer schreiben, weil ich cool bin.
+Und hier haben wir ja das Richtige.
+Ich probier's jetzt einfach nochmal an, schau, ob's daran gelegen hat.
+Erstmal schau ich, ob ich mich nochmal einloggen kann.
+Nope.
+Was soll ich für einen neuen User machen?
+Okay, so.
+Was hab ich gemacht?
+Show Entry.
+Okay, das crasht immer noch.
+Das ist wahrscheinlich diese Methode.
+Aber else none, das scheint mir eigentlich richtig zu sein.
+Jetzt ist die Frage, wo die aufgerufen wird, die Methode.
+Und wie ich da hinkomme, zu der Stelle, wo sie aufgerufen wird.
+Aber da soll ich ja nichts verändern.
+Nicht, dass ich wüsste.
+Oh ne, die, die gemarkt sind.
+Hab ich richtig verstanden, hoffentlich.
+Was ist die Frage?
+Soll das so sein?
+Keine Ahnung.
+I guess.
+Was können denn die anderen?
+Vielleicht soll ich einfach mal eins anlegen und schauen, ob wenigstens das klappt, dass ich mir eins anschaue, was existiert.
+Add Entry.
+Hm.
+Sieht nicht gut aus.
+Add Entry hat auch viel geschlagen.
+Und zwar
+in Main 54.
+Main Terminal Option Option Main Terminal Option Terminal Option Main.
+Da.
+Da hat es fehlgeschlagen.
+Ja. Warum?
+Warum will ich denn das hier?
+Warum passieren hier
+Hä?
+Instrumental List Object has no Attribute Filter.
+Alter.
+Was hat es denn dann, was nicht Filter hat?
+Instrumental List Object
+Was sagt Google dazu?
+Ich habe jetzt wenig Bock, solche Dinge zu tun.
+Kann ich vielleicht eine bessere lösen.
+Instrumented list, Attribute for filter, dann suchen wir mal was anders rum.
+Filter and instrumented list.
+Ah, nur die gleichen Dinge.
+Dann muss ich einfach mal Instrumented list suchen wahrscheinlich.
+Wahrscheinlich bin ich jetzt schon langsamer als alle anderen.
+Hier ist Instrumented list, so was kann das?
+Was ist denn hier?
+Was ist iterable und sonst?
+Hä, ist das einfach nur eine List?
+Dann muss ich ja meinen ganzen Code nochmal neu schreiben, cool.
+Dann klappt das hier ja gar nicht so.
+Dann muss ich ja sagen
+Ähm, wie äckliche Klammern?
+Dieses.
+Dann machen wir hier nicht diesen Check, sondern machen den Check über die Länge von Entry.
+Die Länge existiert, dann ist die Größe 0.
+Oh, hier steht ja noch was.
+In this case it is deleted.
+Oh mein Gott, wo bin ich hier reingeworfen?
+Okay, dann müssen wir das aus Entry rausschmeißen.
+Entries.removeEntry0 und dann müssen wir noch irgendwie das hier tun?
+Keine Ahnung, warum haben wir hier überhaupt ein Sechner-Objekt?
+Keiner weiß es.
+Ist das vielleicht irgendwo noch anschaulich erklärt?
+Ne.
+Models von hier.
+Könnte vielleicht auch direkt mal noch Entries holen.
+Das wird wahrscheinlich eher wie hier klappen.
+So, dann mach ich mal das selbe bei allen anderen.
+Entries, Entry, das hier checkt, ob das Entry existiert.
+Das heißt, hier muss der Check für Lenny.
+Und falls es nicht existiert, Append.
+Okay, das sieht aber wenigstens fein aus.
+Jetzt ist die Frage, müssten wir auch wieder Station come mit machen?
+I don't know.
+Was müssen wir hier machen?
+Okay, das hat ja bisher alles funktioniert.
+Kann ich auch nach mehreren Dingen?
+Oh mein Gott, das ist doch wahrscheinlich die Lösung, oder?
+Das ist doch die
+Genau das wollte ich doch eigentlich.
+Aber stimmt das hier noch?
+Dann machen wir das selbe hier nochmal.
+Was habe ich getan?
+Habe Unheil über diese Welt gebracht.
+Oh, ich habe eins zu viel gelöscht.
+Dann machen wir das selbe hier nochmal.
+Habe Unheil über diese Welt gebracht.
+Hä?
+Oh, ich habe eins zu viel gelöscht.
+Dann sagen wir hier an dieser Stelle Query User das.
+Und dann das.
+Entry, Filter, UserID, EntryName, Entry, Delete.
+Joa, I guess.
+Vertrauen wir mal auf Copilot.
