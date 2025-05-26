@@ -1,5 +1,5 @@
 ## Replication Package 
-# From Developer Pairs to AI Copilots: A Comparative Study on Knowledge Transfer
+# An Empirical Study of Knowledge Transfer in AI Pair Programming
 
 ## Contents and Structure
 
